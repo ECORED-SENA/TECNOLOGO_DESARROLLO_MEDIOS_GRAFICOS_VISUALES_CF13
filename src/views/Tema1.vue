@@ -17,7 +17,7 @@
 
     p.color-1.mb-5 <b>En el siguiente recurso se pueden identificar momentos relevantes sobre la evolución histórica del libro.</b>
 
-    .tarjeta.tarjeta--gris.p-4
+    .tarjeta.tarjeta--gris.p-4.mb-0
       //- PasosB debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       PasosB.color-acento-contenido
@@ -119,8 +119,10 @@
               p.color-1.mb-4 <b>Tipografías</b>
               p.mb-0 Década de 1960 donde la llegada de la informática evoluciona y transforma los procesos, incluyendo programas para el tratamiento de tipografías o los procesadores de texto o gráficos, al igual que las impresoras, desarrollando nuevos procesos y nuevas tecnologías, con nuevos soportes e información que vendrá a evolucionar continuamente.
           .col-lg-5.ps-5.pe-4
-            figure.mb-0
+            figure
               img(src='@/assets/curso/tema1/img14.png') 
+
+    Separador
 </template>
 
 <script>
