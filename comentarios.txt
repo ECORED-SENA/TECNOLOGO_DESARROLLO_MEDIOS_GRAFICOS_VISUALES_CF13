@@ -6,3 +6,6 @@ Tema 4
 - El slider final por defecto no soporta los tamaños propuesto en el diseño ni las listas internas. Opcionalmente se ha cambiado el tipo de slider por uno muy similar que si soporta lo requerido.
 Tema 5
 - En el diseño se muestran unas tarjetas que se comentan como "tarjetas boton", pero en realidad son tarjetas avatar, segun la plantilla de maquetacion. Estas tarjetas no presentan ningun tipo de interaccion y solo muestran informacion.
+Tema 6
+- El diseño de los  ejemplos 1, 2 y 3 no son amigables con modo "Responsive". Se maqueta una sugerencia en espera de que se defina el paso a seguir.
+- El slider final por defecto no soporta los tamaños propuesto en el diseño ni las listas internas. Opcionalmente se ha cambiado el tipo de slider por uno muy similar que si soporta lo requerido.
