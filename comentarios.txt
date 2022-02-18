@@ -2,5 +2,7 @@ Portada
 - Se debe revisar el fondo del banner. Se exporto tal cual esta en el diseño pero presenta problemas de capas y transparencias, ademas hay formas que "salen" del banner. Temporalmente se hizo un ajuste para poder seguir con la maquetacion pero no corresponde con lo diseñado.
 Introduccion
 - En el primer parrafo, no es posible extraer las imagenes de manera que se pueda maquetar el diseño propuesto. Se tuvo que exportar la imagen completa (sombra+cubo+imagen_derecha) y colocarla como fondo del div, pero se que eso no se debe hacer así. Se solicita al diseñador proporcionar las imagen independiente de la derecha, ya que el cubo se puede exportar sin problema y la sonbra se puede maquetar. Por el momento se maqueta como imagen de fondo.
-Tema 3
-- Las tajetas flip, luego de "Catalogos" no estan diseñadas respetando la grilla y por tanto no es posible respetar el diseño. Mientras definene el paso a seguir  se dejan maqueta cada tarjeta a dos columnas de ancho
+Tema 4
+- El slider final por defecto no soporta los tamaños propuesto en el diseño ni las listas internas. Opcionalmente se ha cambiado el tipo de slider por uno muy similar que si soporta lo requerido.
+Tema 5
+- En el diseño se muestran unas tarjetas que se comentan como "tarjetas boton", pero en realidad son tarjetas avatar, segun la plantilla de maquetacion. Estas tarjetas no presentan ningun tipo de interaccion y solo muestran informacion.
