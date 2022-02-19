@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="538" viewBox="0 0 1030 538">
+  <defs>
+    <filter id="Tipografía" x="128.527" y="148" width="773" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_39318" data-name="Rectángulo 39318" width="190" height="193" transform="translate(660.921 1376.213)" fill="#79f2ff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Tipografía-2" x="209.231" y="183.393" width="599" height="189" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_160011" x="276.051" y="237.079" width="96.633" height="140.3" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_160010" x="614.99" y="239.385" width="83.835" height="107.76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_143610" data-name="Grupo 143610" transform="translate(-282.934 -1220)">
+    <rect id="Rectángulo_39316" data-name="Rectángulo 39316" width="1030" height="538" transform="translate(282.934 1220)" fill="#e2f4f6"/>
+    <rect id="Rectángulo_39317" data-name="Rectángulo 39317" width="201" height="199" rx="18" transform="translate(978.895 1398.863)" fill="#ffa726"/>
+    <g transform="matrix(1, 0, 0, 1, 282.93, 1220)" filter="url(#Tipografía)">
+      <text id="Tipografía-3" data-name="Tipografía" transform="translate(137.53 332)" fill="#4db1b9" font-size="165" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tip</tspan><tspan y="0" font-family="Roboto-Regular, Roboto" font-weight="400">o</tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-weight="400">gra</tspan><tspan y="0" fill="#fff" font-family="ArialMT, Arial" font-weight="400">fía</tspan></text>
+    </g>
+    <g id="Grupo_143474" data-name="Grupo 143474" transform="translate(-19.07 -4.59)">
+      <g id="Grupo_143475" data-name="Grupo 143475" transform="translate(658.934 1376.453)">
+        <g id="Rectángulo_39317-2" data-name="Rectángulo 39317" transform="translate(0.031)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="281" height="285" rx="9" stroke="none"/>
+          <rect x="0.5" y="0.5" width="280" height="284" rx="8.5" fill="none"/>
+        </g>
+        <g id="Rectángulo_39318-2" data-name="Rectángulo 39318" transform="translate(17.031 16)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="249" height="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="248" height="24" fill="none"/>
+        </g>
+        <g id="Trazado_160009" data-name="Trazado 160009" transform="translate(17.031 52)" fill="#ffd99d">
+          <path d="M 245.5 210.5 L 0.5 210.5 L 0.5 0.5 L 245.5 0.5 L 245.5 210.5 Z" stroke="none"/>
+          <path d="M 1 1 L 1 210 L 245 210 L 245 1 L 1 1 M 0 0 L 246 0 L 246 211 L 0 211 L 0 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Grupo_143474-2" data-name="Grupo 143474" transform="translate(208.031 20)">
+          <g id="Elipse_5467" data-name="Elipse 5467" transform="translate(33)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+          <g id="Elipse_5468" data-name="Elipse 5468" transform="translate(17)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+          <g id="Elipse_5469" data-name="Elipse 5469" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_160007" data-name="Trazado 160007" d="M8775.982-10147.424v-175.664h802.241v175.664" transform="translate(-8385.194 11647.424)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <path id="Trazado_160008" data-name="Trazado 160008" d="M8775.982-10300.272v140.673h802.241v-163.486" transform="translate(-8385.194 11855.335)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <line id="Línea_995" data-name="Línea 995" x2="32.562" transform="translate(375.54 1545.363)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <line id="Línea_996" data-name="Línea 996" x2="41.568" transform="translate(1179.461 1545.363)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <line id="Línea_997" data-name="Línea 997" x2="41.568" transform="translate(1179.461 1502.318)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <line id="Línea_998" data-name="Línea 998" x2="32.562" transform="translate(373.934 1502.318)" fill="none" stroke="#26ccda" stroke-width="3" stroke-dasharray="9"/>
+    <g id="Enmascarar_grupo_221" data-name="Enmascarar grupo 221" transform="translate(19.974 56.65)" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, 262.96, 1163.35)" filter="url(#Tipografía-2)">
+        <text id="Tipografía-4" data-name="Tipografía" transform="translate(218.23 326.39)" fill="#4db1b9" font-size="127" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tip</tspan><tspan y="0" font-family="Roboto-Regular, Roboto" font-weight="400">o</tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-weight="400">gra</tspan><tspan y="0" fill="#fff" font-family="ArialMT, Arial" font-weight="400">fía</tspan></text>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 282.93, 1220)" filter="url(#Trazado_160011)">
+      <path id="Trazado_160011-2" data-name="Trazado 160011" d="M87.656-41.169q0,19.336-8.943,31.1T53.738,1.692A27.916,27.916,0,0,1,41.572-.846a24.988,24.988,0,0,1-9.1-7.452V33.516H9.023V-87.173H30.212l1.37,10.313a27.932,27.932,0,0,1,9.305-8.822,25.17,25.17,0,0,1,12.689-3.1q16.194,0,25.137,12.649t8.943,33.274ZM64.131-42.861q0-12.327-4.109-19.98T47.454-70.5A17.763,17.763,0,0,0,38.39-68.32a15.521,15.521,0,0,0-5.922,6.2v38.188a14.421,14.421,0,0,0,5.922,5.64,19.95,19.95,0,0,0,9.225,1.934q8.54,0,12.528-6.687t3.988-18.127Z" transform="translate(276.03 331.86)" fill="#4db1b9"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 282.93, 1220)" filter="url(#Trazado_160010)">
+      <path id="Trazado_160010-2" data-name="Trazado 160010" d="M54.78-44.55Q49-43.4,43.642-41.828a38.773,38.773,0,0,0-9.4,4.043,21.058,21.058,0,0,0-6.517,6.1A15.748,15.748,0,0,0,25.245-22.6a14.1,14.1,0,0,0,4.208,10.23q4.208,4.29,12.292,4.29a26.233,26.233,0,0,0,4.62-.413,13.194,13.194,0,0,0,4.208-1.485,8.541,8.541,0,0,0,3.052-2.887,8.135,8.135,0,0,0,1.155-4.455ZM72.93-16.17a18.552,18.552,0,0,1-1.4,8.085A13.737,13.737,0,0,1,66.66-2.97Q63.855-1.155,56.925.5a63.985,63.985,0,0,1-14.85,1.65A63.059,63.059,0,0,1,28.462.742,37.031,37.031,0,0,1,17.407-3.465,22.08,22.08,0,0,1,9.9-10.725a19.1,19.1,0,0,1-2.8-10.4q0-8.415,4.538-13.86a34.694,34.694,0,0,1,11.633-8.91,77.457,77.457,0,0,1,15.427-5.528q8.332-2.062,16.087-3.548v-11.22q0-6.27-3.382-9.818a11.443,11.443,0,0,0-8.663-3.548,13.689,13.689,0,0,0-6.023,1.238A15.4,15.4,0,0,0,32.257-73.1,18.186,18.186,0,0,0,29.2-68.887a19.5,19.5,0,0,0-1.65,4.207A7.483,7.483,0,0,1,24.5-60.555,9.444,9.444,0,0,1,19.14-59.07a9.573,9.573,0,0,1-5.857-1.9,6.633,6.633,0,0,1-2.558-5.693,14.043,14.043,0,0,1,1.9-6.27,22,22,0,0,1,6.1-6.93,36.287,36.287,0,0,1,10.725-5.527,49.611,49.611,0,0,1,15.923-2.228,35.585,35.585,0,0,1,10.643,1.568,25.574,25.574,0,0,1,8.745,4.62,22.127,22.127,0,0,1,5.94,7.755A25.377,25.377,0,0,1,72.93-62.7Z" transform="translate(616.89 333)" fill="#4db1b9"/>
+    </g>
+  </g>
+</svg>
