@@ -302,139 +302,121 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Agencia Yerro, (2014)     Todos los formatos de libros electrónicos',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.comunidadbaratz.com/blog/todos-los-formatos-de-libros-electronicos/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Castillo Castro, Y. (2020).     Accesibilidad WEB, Nuevas herramientas para PICTOS.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://wiki.ead.pucv.cl/images/7/75/Memoria_de_Titulo_Accesibilidad_Web_-_Raquel_Cataldo_y_Yorka_Castillo.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Diaz, M. (2017).     UX y UI: Diferencias entre la experiencia y la interfaz del usuario.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.fuegoyamana.com/blog/ux-y-ui-experiencia-interfaz-de-usuario/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'González Cam, C. (2003).     Arquitectura de la información: diseño e implementación.',
+      link: 'http://eprints.rclis.org/8471/1/Arquitectura.pdf',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ingeniovirtual. (s.f). Las extensiones de archivos para formato eBook y sus características.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.ingeniovirtual.com/extensiones-de-archivos-para-formato-ebook/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'López, B. (2018). Evaluación heurística, la metodología más utilizada en UX para medir la usabilidad de una interfaz.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.mtp.es/blog/experiencia-de-usuario-blog/evaluacion-heuristica-la-usabilidad-una-interfaz',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Torresburriel. (2017). Card Sorting para mejorar la arquitectura de información de un producto digital.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.torresburriel.com/weblog/2017/12/15/card-sorting-para-mejorar-la-arquitectura-de-informacion-de-un-producto-digital/',
+    },
+    {
+      referencia:
+        'Xavier, T. (2019)    ¿Qué es la arquitectura de la información? Entender el concepto y sus aplicaciones',
+      link: 'https://rockcontent.com/es/blog/arquitectura-de-la-informacion/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Accesibilidad',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es la capacidad de disponer y utilizar productos o servicios en las mismas condiciones de los demás.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'DRM (Digital Rights Management)',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'O Gestión de Derechos Digitales, es una forma de protección para EPUB y otros contenidos que vinculan las compras hechas por un usuario, este elemento podrá ser leído por los dispositivos autorizados por el usuario.  ',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Hipermedia',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Hace referencia a la convergencia de diversos medios (textos, imágenes, sonidos, videos), permitiendo estructurar la información de una manera no secuencial, a través de nodos interconectados por enlaces.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Hipertexto',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Conjuntos estructurados de textos, gráficos, imágenes, etc., unidos entre sí por enlaces y conexiones lógicas.',
     },
     {
-      termino: 'Moda',
+      termino: 'Interfaz',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'RAE, Conexión o frontera común entre dos o más elementos o sistemas independientes, enlace de comunicaciones. ',
     },
     {
-      termino: 'Diseña',
+      termino: 'Look and Feel',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Traducción de mirar y sentir, expresión utilizada en marketing para referirse a la forma de ver la marca, sus colores, formas, elementos, etc.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Navegabilidad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Cualidad de navegable, hace referencia a la facilidad con la que el usuario se desplaza entre las páginas que conforman contenido web.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Prototipo',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Paso siguiente al wareframe, donde se plantea un boceto visual con referencias visuales y estructura, detallando más el contenido y la organización.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Test A/B',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Prueba de dos variantes para comparar la elección con pequeñas variaciones del producto.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Wireframes',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un esquema básico donde se presenta una página web, no se tiene en cuenta la parte gráfica, ni los colores, ni el contenido, simplemente una distribución visual. ',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'Hey Jaime (2021) Psicología del color en el diseño gráfico.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=-kP-p_42SoA',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'SmartDraw, (S.F.) Lista de Símbolos utilizados en los flujogramas.',
+      tipo: 'Página Web',
+      link:
+        'https://www.smartdraw.com/flowchart/simbolos-de-diagramas-de-flujo.htm',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'IDA Chile (2019). Usabilidad y accesibilidad, ¿en qué se diferencian?',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://www.youtube.com/watch?v=Ek9rYHWHKZk',
     },
   ],
   creditos: {
