@@ -310,10 +310,68 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
     p.mb-5 La usabilidad no solo se pone a prueba, generalmente se mide por indicadores que son tanto cuantificables como observables y desde los que se puede obtener resultados más visibles, dando resultados concretos que permitirán tomar las medidas necesarias. 
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-10
         figure.mb-0
           img(src='@/assets/curso/tema7/img20.svg')
+
+    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
+      .col-lg-4
+        figure.mb-0
+          img(src='@/assets/curso/tema7/img21.png')
+      .col-lg-8
+        p.mb-4 Pasos para determinar la usabilidad de un sitio:
+        .row.justify-content-start.mb-4
+          .col-lg-8.py-0.border(style="background-color: #FDD835")            
+                .row.justify-content-start.my-1
+                  .col-lg-10
+                    h3.mb-0 Determinar métricas y crear análisis de tareas
+                  .col-lg-2.p-0(style="position:relative; height:10px")
+                    figure.p-0.m-0.cubo-titulo
+                      img.m-0(src='@/assets/curso/cubo.svg') 
+        p.mb-5 Se delimitan las pruebas mediante el uso de métricas que midan los factores en pro y en contra referentes a la usabilidad, eficacia y eficiencia de los componentes de un proyecto.  Aquí hay medición de objetivos dirigidos al usuario, manejo de ruta y análisis de tareas de los componentes entre otras.  Se construye un flujograma de tareas, con tiempos y acciones a trabajar.
+        .row.justify-content-start.mb-4
+          .col-lg-7.py-0.border(style="background-color: #FDD835")            
+                .row.justify-content-start.my-1
+                  .col-lg-10
+                    h3.mb-0 Identificar el mejor tipo de prueba
+                  .col-lg-2.p-0(style="position:relative; height:10px")
+                    figure.p-0.m-0.cubo-titulo
+                      img.m-0(src='@/assets/curso/cubo.svg') 
+        p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio web en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
+        p.mb-0.color-1 Clasificación de tarjetas o el llamado Card sorting, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
+    
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-up") 
+      .col-lg-7
+        p.mb-4 Estudio de campo o investigación contextual, las pruebas de usabilidad necesitan más tiempo que la clasificación de tarjetas y consiste en ir directamente al contexto real de sus usuarios, es decir donde ellos probablemente usen su sitio web y mediante una entrevista no tan formal, se les pide que indiquen cómo realizan el proceso mientras interactúan con la pantalla. Hay retroalimentación directa del usuario lo cual es una gran ventaja; aunque en ocasiones el estudio de campo puede hacerse virtualmente, al aparecer resta espontaneidad al usuario.
+        p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio web.  <b class="color-1">Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio web, es decir, el nivel de consecución de nuestras metas y objetivos de la página web. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.</b>
+      .col-lg-5
+        figure.mb-0
+          img(src='@/assets/curso/tema7/img22.png')
+
+    Separador
+    #t_7_3.titulo-segundo.color-acento-contenido
+      h2 7.3 Validación de prototipo
+
+    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-up") 
+      .col-lg-6
+        p.mb-4 Un prototipo se conoce como un diseño de prueba y puede tomar la forma de un producto o modelo de negocio el cual se diseña y construye con el objeto de validar las ideas de manera fácil, rentable y efectiva, para verificar la viabilidad de producción o comercialización; lo cual permite corregir defectos antes de generar un producto final. En los procesos de innovación la construcción de un prototipo se convierte en una pieza fundamental para lograr medir y minimizar los riesgos. La validación se define como el proceso que determina la precisión con la cual el modelo computacional representa el modelo físico del mundo real. Existen diferentes tipos de prototipos los cuales se pueden evaluar de acuerdo con su estado de desarrollo.
+        .tema2
+          .cajon.color-acento-contenido.p-4       
+            p.mb-0.color-1 Existen prototipos denominados de inspiración, los cuales constituyen el primer bosquejo de desarrollo de una idea, también existen prototipos de evolución, este tipo de prototipos se derivan de los mejores prototipos de inspiración y se caracterizan por que requieren una mayor cantidad de tiempo y recursos para su fabricación debido a que se requiere un estado de avance que permita demostrar sus funcionalidades y ventajas de cara a las necesidades del cliente.
+      .col-lg-6
+        figure.mb-0
+          img(src='@/assets/curso/tema7/img23.png')
+
+    .row.align-items-center.justify-content-center(data-aos="zoom-in") 
+      .col-lg-6
+        figure.mb-0
+          img(src='@/assets/curso/tema7/img24.png')
+      .col-lg-6
+        p.mb-4 Una prueba de concepto permite la validación de los prototipos, cuando estos son sometidos a condiciones reales de operación. El objetivo de esta prueba es valorar el concepto de un resultado de investigación que puede dar origen a un producto, proceso o servicio nuevo o significativamente mejorado, antes de comenzar su desarrollo a nivel industrial y, por ende, su posterior incursión en el mercado. 
+        p.mb-0.color-1 El desarrollo de una prueba de concepto permite evaluar la utilidad, viabilidad y sostenibilidad de conocimientos e invenciones susceptibles de transferencia y capaces de impactar el desarrollo productivo. Permite reducir la incertidumbre y los riesgos asociados a la transferencia de conocimientos y de tecnologías, determinando el estado de desarrollo de los resultados de investigación y lo que estos deben superar para que estén listos desde la visión del mercado y las necesidades de la sociedad.
+      
+
     Separador
 </template>
 
