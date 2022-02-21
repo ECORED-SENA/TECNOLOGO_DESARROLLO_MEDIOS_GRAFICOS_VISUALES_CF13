@@ -9,12 +9,16 @@
           i.fas.fa-info
       h1 Introducción
 
-    .introduccion-div1.mb-5
-      .row.justify-content-center
-        .col-lg-1
-        .col-lg-9.p-5          
+    div.mb-5
+      .row.justify-content-center.align-items-center        
+        .col-lg-8.order-lg-2.order-sm-2
           p.mb-0.mt-2 La diagramación en el diseño es la encargada de optimizar y organizar un espacio con una cantidad de elementos o de contenidos como lo pueden ser textos, imágenes, fotografías, ilustraciones, audiovisuales y demás elementos necesarios para una publicación ya sea impresa o digital, en el siguiente <b style="color: #F57C00">recurso se amplían elementos claves que se tendrán en cuenta para la conceptualización y metodologías EPUB.</b>
-        .col-lg-2
+        .col-lg-1.col-md-3.order-lg-1.order-sm-1.d-flex.justify-content-center
+          figure.introduccion-cubo.mb-0
+            img(src='@/assets/curso/introduccion/img01.svg') 
+        .col-lg-3.col-md-9.order-lg-3.order-sm-3.d-flex.justify-content-center
+          figure.introduccion-imagen.mb-0
+            img(src='@/assets/curso/introduccion/img02.png') 
 
     figure
       .video

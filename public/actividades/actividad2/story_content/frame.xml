@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica CF13" />
+              <option name="title_text" value="Actividad did&amp;#225;ctica CF13" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1239,12 +1239,8 @@
       <links>
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="¿Qué elementos o productos hacen parte de publicaciones Epub?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5VN3UEYPsYy" displaytext="¿Cuál de estos conceptos no hace parte del proceso de pre producción?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6nTJNIrwzv9" displaytext="¿Cuál de estos elementos no se considera parte de la arquitectura de la información?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5c6EMqH0BIf" displaytext="¿Qué elementos no hacen parte del diseño de herramientas digitales?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.668GBxEKOWP" displaytext="Según la arquitectura de la información,  ¿Cuáles se consideran tipos de estrucrtura?" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Organizar en el orden correcto las instrucciones a seguir en el algoritmo, que permite a una persona saber cuánto dinero puede retirar del cajero automático." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6jP678ZX5nT" displaytext="Organice los siguientes elementos de forma línea, según lo visto y entendido en el tema de &#xA;“La evolución del Libro”. " expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
