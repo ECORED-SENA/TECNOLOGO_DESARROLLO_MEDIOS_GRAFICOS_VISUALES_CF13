@@ -294,7 +294,7 @@
       .col-lg-5.d-flex.align-items-center
         figure.mb-0
           img(src='@/assets/curso/tema3/img17.png')  
-    Separador
+    
 </template>
 
 <script>

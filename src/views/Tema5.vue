@@ -52,32 +52,56 @@
           p.color-1.mb-4 <b>Teniendo en cuenta las preguntas a las que se debe reaccionar se deben entender estos conceptos que ayudarán a enfatizar los esfuerzos requeridos en cada uno de los campos a reaccionar, estos conceptos serán pilares que variarán según las necesidades, el negocio o los logros a alcanzar.</b>
           p.mb-0 Por tanto, se pueden resumir estos tres grandes temas que hacen parte de la IA (<i>Information Architecture</i>, por sus siglas en inglés) o Arquitectura de la información.
 
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-4.d-flex
+    //-     .tema5-avatar1
+    //-       .tarjeta-avatar
+    //-         img(src='@/assets/curso/tema5/img06.svg')          
+    //-         .tarjeta.color-primario
+    //-           .p-5
+    //-             h4.text-center Contenido
+    //-             p.mb-0.text-center Textos, imágenes, gráficos, contenido en audio, etc.<br>Mapeo de las páginas o pantallas.<br>Estructura.<br>Taxonomía.<br>Volumen de información.
+
+    //-   .col-lg-4.d-flex
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/tema5/img07.svg')          
+    //-       .tarjeta.color-primario
+    //-         .p-5
+    //-           h4.text-center.text-white Usuarios
+    //-           p.mb-0.text-center.text-white Personalidad.<br>Necesidades.<br>Comportamiento de búsqueda de la información.<br>Experiencia de uso.<br>Tareas que desean ejecutar en tu aplicación.
+    //-   .col-lg-4.d-flex
+    //-     .tema5-avatar1
+    //-       .tarjeta-avatar
+    //-         img(src='@/assets/curso/tema5/img08.svg')          
+    //-         .tarjeta.color-primario
+    //-           .p-5
+    //-             h4.text-center Contexto
+    //-             p.mb-0.text-center Modelo de negocios.<br>Objetivos del proyecto.<br>Tecnologías y metodologías de desarrollo.<br>Recursos (capital, personas, equipos, entre otros).<br>Restricciones.
+
+
     .row.justify-content-center.mb-5
-      .col-lg-4.d-flex
-        .tema5-avatar1
-          .tarjeta-avatar
-            img(src='@/assets/curso/tema5/img06.svg')          
-            .tarjeta.color-primario
-              .p-5
-                h4.text-center Contenido
-                p.mb-0.text-center Textos, imágenes, gráficos, contenido en audio, etc.<br>Mapeo de las páginas o pantallas.<br>Estructura.<br>Taxonomía.<br>Volumen de información.
-
-      .col-lg-4.d-flex
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema5/img07.svg')          
-          .tarjeta.color-primario
-            .p-5
-              h4.text-center.text-white Usuarios
-              p.mb-0.text-center.text-white Personalidad.<br>Necesidades.<br>Comportamiento de búsqueda de la información.<br>Experiencia de uso.<br>Tareas que desean ejecutar en tu aplicación.
-      .col-lg-4.d-flex
-        .tema5-avatar1
-          .tarjeta-avatar
-            img(src='@/assets/curso/tema5/img08.svg')          
-            .tarjeta.color-primario
-              .p-5
-                h4.text-center Contexto
-                p.mb-0.text-center Modelo de negocios.<br>Objetivos del proyecto.<br>Tecnologías y metodologías de desarrollo.<br>Recursos (capital, personas, equipos, entre otros).<br>Restricciones.
-
+      .col-lg-4
+        .crd_container
+          .crd_container__icon
+            img(src='@/assets/curso/tema5/img06.svg').iconCustom
+          .crd_container__body
+            h5 Contenido
+            p Textos, imágenes, gráficos,<br>contenido en audio, etc.<br>Mapeo de las páginas o pantallas.<br>Estructura.<br>Taxonomía.<br>Volumen de información.
+      .col-lg-4
+        .crd_container
+          .crd_container__icon
+            img(src='@/assets/curso/tema5/img07.svg').iconCustom
+          .crd_container__body
+            h5 Usuarios
+            p Personalidad.<br>Necesidades.<br>Comportamiento de búsqueda de la información.<br>Experiencia de uso.<br>Tareas que desean ejecutar en tu aplicación.
+      .col-lg-4
+        .crd_container
+          .crd_container__icon
+            img(src='@/assets/curso/tema5/img08.svg').iconCustom
+          .crd_container__body
+            h5 Contexto
+            p Modelo de negocios.<br>Objetivos del proyecto.<br>Tecnologías y metodologías de desarrollo.<br>Recursos (capital, personas, equipos, entre otros).<br>Restricciones.
+    
     p.mb-5 Realizado el ejercicio anterior y entendida la definición de IA, se enfocarán en estos tres pasos que serán fundamentales para ayudar a los usuarios a responder las preguntas anteriormente planteadas.
 
     .tema-5
@@ -429,7 +453,6 @@
           li 
             i.fas.fa-square 
             | Facilita y mejora tiempos y acciones, lo que desencadena en mejora de costes, eficiencia y eficacia de los procesos.
-    Separador
 
     
 </template>

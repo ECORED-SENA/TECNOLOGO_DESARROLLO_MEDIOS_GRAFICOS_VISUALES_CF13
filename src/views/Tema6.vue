@@ -307,8 +307,7 @@
       .col-lg-8.d-flex.align-items-center.p-0
         div.p-4(style="background-color:#F6F6F6")
           p.mb-4 Se pueden encontrar en el mercado, sistemas de gestión de contenido conocidos por sus siglas como CMS, y son estos, softwares que ayudan a los usuarios a crear, administrar y domificar contenido de un sitio WEB, sin la necesidad de conocimientos de programación, siendo lenguajes mucho más simples, transformándose en herramientas necesarias si se piensan construir proyectos desde cero y sin el conocimiento especializado. 
-          p.mb-0.color-1 Estos gestores proporcionan entornos posibles a actualizaciones y mantenimientos sin la necesidad de otros usuarios, ni el conocimiento técnico para su manipulación.
-    Separador
+          p.mb-0.color-1 Estos gestores proporcionan entornos posibles a actualizaciones y mantenimientos sin la necesidad de otros usuarios, ni el conocimiento técnico para su manipulación.    
 </template>
 
 <script>

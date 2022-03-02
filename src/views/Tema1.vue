@@ -121,8 +121,7 @@
           .col-lg-5.ps-5.pe-4
             figure
               img(src='@/assets/curso/tema1/img14.png') 
-
-    Separador
+    
 </template>
 
 <script>

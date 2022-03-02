@@ -225,8 +225,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Aunque puede que la forma de lectura varíe de usuario a usuario, porque variará el tipo de formato, y el dispositivo que use, la información como los textos y las imágenes, son elementos que no deberían sufrir ningún cambio, por el contrario, se adaptará igual o lo más similar a todos los dispositivos.
 
-
-    Separador
+    
 </template>
 
 <script>

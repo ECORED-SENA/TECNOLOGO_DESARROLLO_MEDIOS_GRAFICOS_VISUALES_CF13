@@ -95,8 +95,7 @@
             .col-lg-6
               figure(data-aos="zoom-in-up")
                 img(src='@/assets/curso/tema4/img10.png')     
-
-    Separador
+    
 
 </template>
 
