@@ -15,3 +15,7 @@ Tema 6
 RTA:/ Se propone meter los numeros en el contenedor
 - El slider final por defecto no soporta los tamaños propuesto en el diseño ni las listas internas. Opcionalmente se ha cambiado el tipo de slider por uno muy similar que si soporta lo requerido.
 RTA:/ El slider queda asi: ponerle al a fila margenes negativos 
+
+
+H2: El video de introduccino no esta disponible en la tarjeta padre
+H13: El video de Evaluación heurística o usabilidad no esta disponible en la tarjeta padre

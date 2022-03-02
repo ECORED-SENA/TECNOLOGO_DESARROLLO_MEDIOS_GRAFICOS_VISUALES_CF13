@@ -45,14 +45,15 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Ebooks, emagazines, presentaciones, catálogos, ecards.',
+        titulo:
+          '<i>Ebooks</i>, <i>emagazines</i>, presentaciones, catálogos, <i>ecards</i>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'PreProducción',
+        titulo: 'Preproducción',
         desarrolloContenidos: true,
       },
       {
@@ -125,7 +126,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '7.1',
-            titulo: 'Diseño, guion, storyboard',
+            titulo: 'Diseño, guion, <i>storyboard</i>',
             hash: 't_7_1',
           },
           {
@@ -139,123 +140,6 @@ export default {
             numero: '7.3',
             titulo: 'Validación de prototipo',
             hash: 't_7_3',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema10',
-        icono: 'far fa-file-alt',
-        numero: '10',
-        titulo: 'Componentes',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
           },
         ],
       },
@@ -337,7 +221,7 @@ export default {
     },
     {
       referencia:
-        'Torresburriel. (2017). Card Sorting para mejorar la arquitectura de información de un producto digital.',
+        'Torresburriel. (2017). <i>Card Sorting</i> para mejorar la arquitectura de información de un producto digital.',
       link:
         'https://www.torresburriel.com/weblog/2017/12/15/card-sorting-para-mejorar-la-arquitectura-de-informacion-de-un-producto-digital/',
     },
@@ -381,7 +265,7 @@ export default {
     {
       termino: 'Navegabilidad',
       significado:
-        'Cualidad de navegable, hace referencia a la facilidad con la que el usuario se desplaza entre las páginas que conforman contenido web.',
+        'Cualidad de navegable, hace referencia a la facilidad con la que el usuario se desplaza entre las páginas que conforman contenido <i>web</i>.',
     },
     {
       termino: 'Prototipo',
@@ -396,7 +280,7 @@ export default {
     {
       termino: 'Wireframes',
       significado:
-        'Es un esquema básico donde se presenta una página web, no se tiene en cuenta la parte gráfica, ni los colores, ni el contenido, simplemente una distribución visual. ',
+        'Es un esquema básico donde se presenta una página <i>web</i>, no se tiene en cuenta la parte gráfica, ni los colores, ni el contenido, simplemente una distribución visual. ',
     },
   ],
   complementario: [
@@ -449,7 +333,7 @@ export default {
       },
       {
         nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        cargo: 'Diseño <i>web</i>',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

@@ -108,7 +108,7 @@
             div
               p.color-1.mb-4 <b>Linotipia y la impresión ófset</b>
               p.mb-4 La elaboración de las técnicas de impresión por parte de Gutenberg dio paso a la entrada del libro en la era de una producción masiva, ya no era un objeto único ni artesanal reproducido de acuerdo con la demanda.  
-              p.mb-0 Después del siglo XVII se introdujeron las máquinas para la elaboración de papel, creándose las prensas para impresión, constituyendo tirajes muchos más largos y la baja considerable de los costos, durante los siglos XVIII y XIX, se crean nuevos procesos de composición y de impresión, desarrollando procesos como la linotipia y la impresión ofset.
+              p.mb-0 Después del siglo XVII se introdujeron las máquinas para la elaboración de papel, creándose las prensas para impresión, constituyendo tirajes muchos más largos y la baja considerable de los costos, durante los siglos XVIII y XIX, se crean nuevos procesos de composición y de impresión, desarrollando procesos como la linotipia y la impresión ófset.
           .col-lg-5.ps-5.pe-4
             figure.mb-0
               img(src='@/assets/curso/tema1/img13.png') 

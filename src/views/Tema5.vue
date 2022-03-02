@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.d-flex
         div
-          p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1">UX</font> (User Expirence en inglés, o experiencia de usuario ) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
+          p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1"><b>UX</b></font> (<i>User Expirence</i> en inglés, o experiencia de usuario ) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
           p.mb-0.color-1 La arquitectura de la información busca básicamente el ordenamiento de todos los datos disponibles para que el usuario de manera lógica y ordenada realice la búsqueda de forma más rápida, fácil, ágil y dinámica.
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
@@ -50,7 +50,7 @@
         div
           p.mb-4 De esta forma se evitan daños como las migraciones de usuarios insatisfechos o quejas por reclamos de fallas en funcionalidades o malas interconexiones, esto no solo genera un mal concepto de marca, sino que genera confusión y duda sobre sus acciones, generando y asociando sensaciones negativas que desestiman y desvalorizan la compañía.
           p.color-1.mb-4 <b>Teniendo en cuenta las preguntas a las que se debe reaccionar se deben entender estos conceptos que ayudarán a enfatizar los esfuerzos requeridos en cada uno de los campos a reaccionar, estos conceptos serán pilares que variarán según las necesidades, el negocio o los logros a alcanzar.</b>
-          p.mb-0 Por tanto, se pueden resumir estos tres grandes temas que hacen parte de la IA (Information Architecture, por sus siglas en inglés) o Arquitectura de la información.
+          p.mb-0 Por tanto, se pueden resumir estos tres grandes temas que hacen parte de la IA (<i>Information Architecture</i>, por sus siglas en inglés) o Arquitectura de la información.
 
     .row.justify-content-center.mb-5
       .col-lg-4.d-flex
@@ -86,12 +86,12 @@
           .col-lg-8.ps-5
             div
               p.mb-4 El primer paso, será identificar todos los elementos que se quieren incluir, partiendo del contenido de cada sección como las funcionalidades que se quieren ofrecer.
-              p.mb-4 Para saber cuál será el contenido a incluir, será necesario basarse en las investigaciones y el conocimiento obtenido sobre los usuarios al igual que toda la información del sitio web, de la aplicación o del elemento digital, es importante escuchar siempre al cliente y saber cuales son sus demandas y sus expectativas frente al proyecto. 
+              p.mb-4 Para saber cuál será el contenido a incluir, será necesario basarse en las investigaciones y el conocimiento obtenido sobre los usuarios al igual que toda la información del sitio <i>web</i>, de la aplicación o del elemento digital, es importante escuchar siempre al cliente y saber cuales son sus demandas y sus expectativas frente al proyecto. 
               p.mb-0 Cada proyecto posee una IA distinto, dado que su contenido y objetivos son diferentes, así que será importante conocer las diferentes metodologías, para ajustar el proyecto a la que más se adapte.
           .col-lg-4
             figure.mb-0(data-aos="zoom-in-up")
               img(src='@/assets/curso/tema5/img09.png') 
-        .row.justify-content-center(titulo="b. Agrupar las tarjetas (Card Sorting)")
+        .row.justify-content-center(titulo="b. Agrupar las tarjetas (<i>Card Sorting</i>)")
           .col-lg-8.ps-5
             div
               p.mb-4 En este paso se establecen las relaciones entre los ítems inventariados anteriormente, en este paso se deciden cuales se agrupan en secciones o menús y estos si están en otros grupos sucesivamente.
@@ -104,12 +104,13 @@
         .row.justify-content-center(titulo="c. Definir el mapa")
           .col-lg-8.ps-5
             div
-              p.mb-4 Esta tercera etapa, cosiste en ubicar todos los elementos anteriormente inventariadas y agrupas, en un mapa que permitirá ver y reflejar las relaciones y agrupaciones establecidas entre todos los contenidos y elementos.
+              p.mb-4 Esta tercera etapa, consiste en ubicar todos los elementos anteriormente inventariadas y agrupas, en un mapa que permitirá ver y reflejar las relaciones y agrupaciones establecidas entre todos los contenidos y elementos.
               p.mb-0 En algunas ocasiones será necesario renombrar o re categorizar algunas, o por el contrario cambiar de posición, todo por encontrar lo mejor al momento de pensar en la usabilidad de los usuarios.  
           .col-lg-4
             figure.mb-0(data-aos="zoom-in-up")
               img(src='@/assets/curso/tema5/img11.png') 
 
+    p.mb-4 Entre las metodologías aplicadas en la arquitectura de la información se puede encontrar:
     .tema-5.mb-5
       .row.justify-content-center
         .col-lg-7
@@ -149,7 +150,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
         
-        p.mb-4 La IA concluye con la documentación que permite la detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan software especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
+        p.mb-4 La IA concluye con la documentación que permite la detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan <i>software</i> especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
         p.mb-4 <font class="color-1">A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos.</font>        
         p.mb-0 Cada proceso tendrá su propio flujo de interacciones y evaluará la correcta funcionalidad y usabilidad del proyecto. 
       .col-lg-6.d-flex.align-items-center
@@ -173,7 +174,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
         
-        p.mb-0 Este decálogo desarrollado por Jakob Nielsen, reconocido experto mundial en usabilidad de la web, da diez principios heurísticos, centrados en mejorar la experiencia de usuario, en el desarrollo de posible resolución de problemas.        
+        p.mb-0 Este decálogo desarrollado por Jakob Nielsen, reconocido experto mundial en usabilidad de la <i>web</i>, da diez principios heurísticos, centrados en mejorar la experiencia de usuario, en el desarrollo de posible resolución de problemas.        
       .col-lg-6.d-flex.align-items-center
         figure.mb-0
           img(src='@/assets/curso/tema5/img17.png') 
@@ -306,7 +307,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-6
                 figure.mb-0
-                  img(src='@/assets/curso/tema5/img23.svg') 
+                  img(src='@/assets/curso/tema5/img24.svg') 
           td.td-borde1.text-center Terminal
           td Esta forma es usada para indicar el inicio y final de un proceso.
         tr
@@ -314,7 +315,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-6
                 figure.mb-0
-                  img(src='@/assets/curso/tema5/img24.svg') 
+                  img(src='@/assets/curso/tema5/img23.svg') 
           td.td-borde1.text-center Actividad
           td Representa la actividad llevada en el proceso.
         tr
@@ -350,7 +351,7 @@
           td.td-borde1.text-center Entrada
           td Indica en el proceso la etapa para hacer ingreso o entrada de datos.
 
-    p.mb-5 Existen otros símbolos que ayudarán a mostrar otras conexiones y procesos, y que permitirá representar con más exactitud estos pasos, para poder conocer más, se adjunta en el material complementario, incluido al final de este documento, un link, para que se conozca todos los símbolos utilizados en los flujogramas. 
+    p.mb-5 Existen otros símbolos que ayudarán a mostrar otras conexiones y procesos, y que permitirá representar con más exactitud estos pasos, para poder conocer más, se adjunta en el material complementario, incluido al final de este documento, un <i>link</i>, para que se conozca todos los símbolos utilizados en los flujogramas. 
     p.mb-5 En la siguiente figura 2 se visualiza un el proceso de análisis para estudiar la usabilidad en el desarrollo de una pieza:
     
     div.p-0.mb-5      

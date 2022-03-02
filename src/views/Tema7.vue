@@ -18,7 +18,7 @@
         p.mb-0 En este paso es de importancia utilizar los flujogramas que ayudan a maquetar la representación de la estructura, partes, funcionamiento y comportamiento en general, del sitio a desarrollar, perfilado por una línea de diseño, basado en la organización y la estructuración visual de sus componentes.
 
     #t_7_1.titulo-segundo.color-acento-contenido
-      h2 7.1   Diseño, guion, storyboard     
+      h2 7.1   Diseño, guion, <i>storyboard</i>     
 
     .row.justify-content-center.mb-0(data-aos="zoom-in-up")
       .col-lg-6
@@ -122,7 +122,7 @@
               .col-lg-2.p-0(style="position:relative; height:10px")
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
-        p.mb-4 En diseño de publicaciones digitales que se distribuyen en la web, es de vital importancia el buen manejo y uso de las imágenes, en cuanto a su calidad y resolución. 
+        p.mb-4 En diseño de publicaciones digitales que se distribuyen en la <i>web</i>, es de vital importancia el buen manejo y uso de las imágenes, en cuanto a su calidad y resolución. 
         p.mb-4.color-1 El uso de formatos adecuados, una excelente resolución y calidad son de vital importancia, ya que con los avances y mejoras en HTML5 y CSS3 y su compatibilidad con diversos navegadores, permiten una mejor calidad y usabilidad de los componentes.
         p.mb-0 La propuesta gráfica y los recursos deben mantener siempre el mismo estilo, de igual manera asegurar que la armonía entre contenido e imagen, correspondan con el producto editorial.   Las imágenes pueden ser de carácter propio, de galerías pagas, por las cuales se realiza un pago para su uso, o bancos de imágenes gratis autorizados.
 
@@ -136,8 +136,8 @@
               .col-lg-2.p-0(style="position:relative; height:10px")
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
-        p.mb-4 as animaciones, videos y demás elementos visuales con movimiento, hacen mucho más atractivo cualquier sitio web, sin embargo, representan algo de peso extra por sus características generales, se recomienda que no sobrepasen un 30 % ya que pueden causar saturación y lentitud, haciendo que la usabilidad de las páginas se reduzca y sean los usuarios los que decidan buscar otras opciones.
-        p.mb-0 A continuación, algunos elementos de relevancia en el diseño como botones e íconos, retículas de diseño, columnas, padding y retícula responsive.
+        p.mb-4 as animaciones, videos y demás elementos visuales con movimiento, hacen mucho más atractivo cualquier sitio <i>web</i>, sin embargo, representan algo de peso extra por sus características generales, se recomienda que no sobrepasen un 30 % ya que pueden causar saturación y lentitud, haciendo que la usabilidad de las páginas se reduzca y sean los usuarios los que decidan buscar otras opciones.
+        p.mb-0 A continuación, algunos elementos de relevancia en el diseño como botones e íconos, retículas de diseño, columnas, <i>padding</i> y retícula <i>responsive</i>.
       .col-lg-6
         figure.mb-0
           img(src='@/assets/curso/tema7/img06.png') 
@@ -157,7 +157,7 @@
             .col-lg-7
               h4.mb-4 Retículas de Diseño
               p.mb-4 La retícula es un elemento esencial en el diseño que no se ve a simple vista, es la estructura principal sobre la cual se diseña. 
-              p.mb-0 Esta cuadrícula invisible al espectador, permite realizar la distribución y diagramación de los elementos compositivos de cualquier diseño, es la base de la maquetación con la cual se logra obtener una estética armónica, correcta y ordenada.  <br>En diseño web posibilita plasmar la versión interactiva y navegable de la publicación, ajustándose a la realidad.
+              p.mb-0 Esta cuadrícula invisible al espectador, permite realizar la distribución y diagramación de los elementos compositivos de cualquier diseño, es la base de la maquetación con la cual se logra obtener una estética armónica, correcta y ordenada.  <br>En diseño <i>web</i> posibilita plasmar la versión interactiva y navegable de la publicación, ajustándose a la realidad.
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img08.png')  
@@ -165,7 +165,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-7
               h4.mb-4 Columnas
-              p.mb-0 En web, por lo general se utilizan retículas basadas en columnas por la estructura y manejo de la información y espacios. Los bloques de columnas más utilizados son en múltiplos de 3, hasta 12 columnas, el espacio entre cada columna se conoce como Gutter Width. 
+              p.mb-0 En <i>web</i>, por lo general se utilizan retículas basadas en columnas por la estructura y manejo de la información y espacios. Los bloques de columnas más utilizados son en múltiplos de 3, hasta 12 columnas, el espacio entre cada columna se conoce como Gutter Width. 
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img09.png')  
@@ -173,7 +173,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-7
               h4.mb-4 Padding
-              p.mb-0 El padding es el espacio entre el borde de una columna y su contenido
+              p.mb-0 El <i>padding</i> es el espacio entre el borde de una columna y su contenido
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img10.png')  
@@ -181,12 +181,12 @@
           .row.align-items-center.justify-content-center
             .col-lg-7
               h4.mb-4 Retícula Responsive
-              p.mb-0 El uso de nuevas tecnologías y sus diversos formatos, hacen que los elementos estéticos y de diseño se tengan que adaptar a su entorno y funcionalidad, esta retícula se adapta para conseguir una regularidad en las páginas web, aunque sean abiertas en diferentes dispositivos, con unas dimensiones de pantalla diferentes, que exigen un cambio estructural del diseño. A este cambio se le conoce como breakpoint (punto de ruptura).  
+              p.mb-0 El uso de nuevas tecnologías y sus diversos formatos, hacen que los elementos estéticos y de diseño se tengan que adaptar a su entorno y funcionalidad, esta retícula se adapta para conseguir una regularidad en las páginas <i>web</i>, aunque sean abiertas en diferentes dispositivos, con unas dimensiones de pantalla diferentes, que exigen un cambio estructural del diseño. A este cambio se le conoce como breakpoint (punto de ruptura).  
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img11.png')  
 
-    p.mb-5 Abordadas las consideraciones respecto al diseño digital, es el momento de tratar aspectos generales del guion y Storyboard.           
+    p.mb-5 Abordadas las consideraciones respecto al diseño digital, es el momento de tratar aspectos generales del guion y <i>storyboard</i>.           
     
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-up") 
       .col-lg-6        
@@ -212,13 +212,13 @@
           .col-lg-4.py-0.border(style="background-color: #FDD835")            
             .row.justify-content-start.my-1
               .col-lg-10
-                h3.mb-0 Storyboard
+                h3.mb-0 <i>storyboard</i>
               .col-lg-2.p-0(style="position:relative; height:10px")
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
-        p.mb-4 El storyboard o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
-        p.mb-4.color-1 Dentro del storyboard se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un story board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
-        p.mb-0 El story sirve principalmente para realizar un spot, guion de cine, anuncio o comercial.
+        p.mb-4 El <i>storyboard</i> o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
+        p.mb-4.color-1 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
+        p.mb-0 El <i>story</i> sirve principalmente para realizar un spot, guion de cine, anuncio o comercial.
        
     Separador
 
@@ -227,7 +227,7 @@
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-up") 
       .col-lg-6
-        p.mb-4 Las pruebas de usabilidad de un sitio web hacen referencia a la facilidad con la cual los usuarios pueden utilizar y manejar los diferentes componentes y herramientas de uso.
+        p.mb-4 Las pruebas de usabilidad de un sitio <i>web</i> hacen referencia a la facilidad con la cual los usuarios pueden utilizar y manejar los diferentes componentes y herramientas de uso.
         p.mb-4 Ventajas que presenta la usabilidad:
         ul.lista-ul--color.mb-4.ms-3               
           li 
@@ -248,7 +248,7 @@
           li 
             i.fas.fa-square 
             | Aumenta las visitas e ingresos percibidos.
-        p.mb-0 Las pruebas por parte de los usuarios, son técnicas creadas para evaluar como con los mismos usuarios las opciones de accesibilidad, usabilidad y demás información pertinente que solo el usuario de las páginas web es posible y es capaz de analizar, es información que es analizada directamente por los usuarios en tiempo real; en contraste a otras metodologías donde expertos son los encargados de evaluar las interfaces.
+        p.mb-0 Las pruebas por parte de los usuarios, son técnicas creadas para evaluar como con los mismos usuarios las opciones de accesibilidad, usabilidad y demás información pertinente que solo el usuario de las páginas <i>web</i> es posible y es capaz de analizar, es información que es analizada directamente por los usuarios en tiempo real; en contraste a otras metodologías donde expertos son los encargados de evaluar las interfaces.
       .col-lg-6
         figure.mb-0
           img(src='@/assets/curso/tema7/img14.png')
@@ -338,13 +338,13 @@
                   .col-lg-2.p-0(style="position:relative; height:10px")
                     figure.p-0.m-0.cubo-titulo
                       img.m-0(src='@/assets/curso/cubo.svg') 
-        p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio web en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
+        p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
         p.mb-0.color-1 Clasificación de tarjetas o el llamado Card sorting, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
     
     .row.align-items-center.justify-content-center(data-aos="zoom-in-up") 
       .col-lg-7
-        p.mb-4 Estudio de campo o investigación contextual, las pruebas de usabilidad necesitan más tiempo que la clasificación de tarjetas y consiste en ir directamente al contexto real de sus usuarios, es decir donde ellos probablemente usen su sitio web y mediante una entrevista no tan formal, se les pide que indiquen cómo realizan el proceso mientras interactúan con la pantalla. Hay retroalimentación directa del usuario lo cual es una gran ventaja; aunque en ocasiones el estudio de campo puede hacerse virtualmente, al aparecer resta espontaneidad al usuario.
-        p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio web.  <b class="color-1">Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio web, es decir, el nivel de consecución de nuestras metas y objetivos de la página web. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.</b>
+        p.mb-4 Estudio de campo o investigación contextual, las pruebas de usabilidad necesitan más tiempo que la clasificación de tarjetas y consiste en ir directamente al contexto real de sus usuarios, es decir donde ellos probablemente usen su sitio <i>web</i> y mediante una entrevista no tan formal, se les pide que indiquen cómo realizan el proceso mientras interactúan con la pantalla. Hay retroalimentación directa del usuario lo cual es una gran ventaja; aunque en ocasiones el estudio de campo puede hacerse virtualmente, al aparecer resta espontaneidad al usuario.
+        p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio <i>web</i>.  <b class="color-1">Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio <i>web</i>, es decir, el nivel de consecución de nuestras metas y objetivos de la página <i>web</i>. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.</b>
       .col-lg-5
         figure.mb-0
           img(src='@/assets/curso/tema7/img22.png')

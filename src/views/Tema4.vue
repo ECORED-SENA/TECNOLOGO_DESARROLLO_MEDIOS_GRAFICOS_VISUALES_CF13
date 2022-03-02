@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-7.d-flex.align-items-center
         div
-          p.mb-4 Todo proyecto nace con la necesidad de resolver, generar o ejecutar una idea en particular. Este momento de creación es llamado preproducción y comprende en este caso la creación de diferentes componentes como el guion y el storyboard. <b class="color-1">Esta fase permite reconocer cuáles herramientas y recursos serán necesarios, para el desarrollo del proyecto en general.</b> 
+          p.mb-4 Todo proyecto nace con la necesidad de resolver, generar o ejecutar una idea en particular. Este momento de creación es llamado preproducción y comprende en este caso la creación de diferentes componentes como el guion y el <i>storyboard</i>. <b class="color-1">Esta fase permite reconocer cuáles herramientas y recursos serán necesarios, para el desarrollo del proyecto en general.</b> 
           p.mb-0 La siguiente figura 1 presenta los pasos a seguir en preproducción, de un proyecto gráfico, desde el inicio del proyecto hasta las decisiones y acciones tomadas previas a su ejecución. 
       .col-lg-5.d-flex.align-items-center
         figure.mb-0
@@ -55,7 +55,7 @@
                 img(src='@/assets/curso/tema4/img06.png') 
           .row.mb-0
             .col-lg-6
-              h3.mb-5.color-1 Brainstorming o lluvia o tormenta de ideas
+              h3.mb-5.color-1 <i>Brainstorming</i> o lluvia o tormenta de ideas
               p.mb-0 Esta herramienta generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo.<br><br>El brainstorming potencia los procesos creativos, y la generación de alternativas originales que ayudan en la resolución de una situación o problema.
             .col-lg-6
               figure(data-aos="zoom-in-up")

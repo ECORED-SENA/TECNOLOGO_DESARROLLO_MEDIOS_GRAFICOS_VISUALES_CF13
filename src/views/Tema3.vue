@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Ebooks, emagazines, presentaciones, catálogos, ecards. 
+      h1 <i>Ebooks</i>, <i>emagazines</i>, presentaciones, catálogos, <i>ecards</i>
 
     .row.justify-content-center.mb-5
       .col-lg-4.d-flex
@@ -15,7 +15,7 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/img01.png') 
       .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
-        p.mb-0 Existen diversos tipos de publicaciones que se distribuyen con diferente periodicidad, las publicaciones periódicas salen al mercado de una manera regular, ya sea diaria, semanal, quincenal o mensual; dentro de estas publicaciones se encuentran por ejemplo los libros y las revistas. <font class="color-1">Estas publicaciones sirven para difundir el conocimiento, información en diversos contextos, cultura, y noticias de interés.</font>
+        p.mb-0 Existen diversos tipos de publicaciones que se distribuyen con diferente periodicidad, las publicaciones periódicas salen al mercado de una manera regular, ya sea diaria, semanal, quincenal o mensual; dentro de estas publicaciones se encuentran por ejemplo los libros y las revistas. <font class="color-1"><b>Estas publicaciones sirven para difundir el conocimiento, información en diversos contextos, cultura, y noticias de interés.</b></font>
 
     p.mb-5 Para comprender en profundidad algunas diferencias entre las publicaciones impresas y electrónicas, revise la siguiente tabla 2:
 
@@ -53,7 +53,7 @@
           .col-lg-4.py-0.border(style="background-color: #FDD835")            
             .row.justify-content-start.my-1
               .col-lg-10
-                h3.mb-0 Ebooks
+                h3.mb-0 <i>Ebooks</i>
               .col-lg-2.p-0(style="position:relative; height:10px")
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
@@ -106,7 +106,7 @@
             | Las características propias de este tipo de elementos permiten la posibilidad de insertar videos, sonidos, imágenes, animaciones, gráficos y demás, utilizando formatos determinados para cada uso. 
           li 
             i.fas.fa-square 
-            | Por sus características básicas los ebooks son libros que facilitan el conocimiento universal ya que pueden llegar de manera inmediata, fácil y práctica, a cualquier entorno, comunidad rural o población limitada, por ejemplo, por las condiciones geográficas. 
+            | Por sus características básicas los <i>ebooks</i> son libros que facilitan el conocimiento universal ya que pueden llegar de manera inmediata, fácil y práctica, a cualquier entorno, comunidad rural o población limitada, por ejemplo, por las condiciones geográficas. 
           li 
             i.fas.fa-square 
             | Una ventaja frente a las obras impresas es la facilidad de editar, cambiar o añadir contenido al libro en cualquier momento, lo cual supone costos de ahorro.  
@@ -176,7 +176,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
 
-        p.mb-4 Las presentaciones digitales son productos multimedia, realizados en computador, que contienen diapositivas (slide) con información relevante de un tema en particular, casi siempre una presentación es un documento en el cual se debe incluir mucha información, por este motivo es preciso definir la información más relevante a presentar, la cual debe ser clara y concisa, utilizando la menor cantidad de textos, e integrando otros recursos como imágenes, fotografías, esquemas, videos, entre otros.
+        p.mb-4 Las presentaciones digitales son productos multimedia, realizados en computador, que contienen diapositivas (<i>slide</i>) con información relevante de un tema en particular, casi siempre una presentación es un documento en el cual se debe incluir mucha información, por este motivo es preciso definir la información más relevante a presentar, la cual debe ser clara y concisa, utilizando la menor cantidad de textos, e integrando otros recursos como imágenes, fotografías, esquemas, videos, entre otros.
         p.mb-4.color-1 La presentación se ayuda de una guía o índice para seguir un orden estipulado, requiere de un trabajo previo de investigación, en donde todos los datos deben ser concretos, claros y verídicos, ya que por lo general su desarrollo se enmarca especialmente en el área laboral y académica. Un ejemplo son las presentaciones que se realizan para una exposición, utilizando el programa Power Point. 
         p.mb-0 Un elemento clave en el desarrollo de las presentaciones es la parte visual, fotografías, imágenes y videos que permiten complementar el contenido y motivan al espectador frente al tema que se está desarrollando; la comunicación multimedia ayuda a la organización de todos los componentes que conforman la presentación para facilitar su navegación y posterior divulgación, la integración de sonido conecta al participante con el contexto general de la presentación.
 
@@ -232,7 +232,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img15.png')})`}")
             .tarjeta-flip__contenido.p-4
-              p.mb-0.text-white Este tipo de formatos pueden incrementar el tráfico de cualquier sitio web, por sus facilidades de conexión, interactividad, pago y experiencia.
+              p.mb-0.text-white Este tipo de formatos pueden incrementar el tráfico de cualquier sitio <i>web</i>, por sus facilidades de conexión, interactividad, pago y experiencia.
 
     .row.justify-content-start.mb-5(data-aos="zoom-in")
       .col-lg-4.d-flex.align-items-center
@@ -249,7 +249,7 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
 
         p.mb-4 Ecard o tarjeta virtual, hace referencia a una pieza gráfica principalmente utilizada hoy en día por grandes empresas de redes sociales dentro de sus contenidos, es un formato actual, estructurado y llamativo para el usuario, que se distribuye y consume de manera rápida.
-        p.mb-4 La eficiencia de los diseños en la web, incluyen las siguientes características:
+        p.mb-4 La eficiencia de los diseños en la <i>web</i>, incluyen las siguientes características:
         ul.lista-ul--color               
           li 
             i.fas.fa-square 
@@ -279,13 +279,13 @@
       
         .tema2
           .cajon.color-acento-contenido.p-4       
-            p.mb-0.color-1 Al igual que el consumidor promedio, el usuario de un sitio web no pretende únicamente encontrarse con opciones de productos, sino que, de manera inconsciente busca involucrarse emocionalmente con éstos. englobando esto en un concepto simple y de gran utilidad en la web, se puede decir que las emociones se comparten para que los productos sean consumidos.
+            p.mb-0.color-1 Al igual que el consumidor promedio, el usuario de un sitio <i>web</i> no pretende únicamente encontrarse con opciones de productos, sino que, de manera inconsciente busca involucrarse emocionalmente con estos. englobando esto en un concepto simple y de gran utilidad en la <i>web</i>, se puede decir que las emociones se comparten para que los productos sean consumidos.
         
         .tema3
           .bloque-texto-d.color-secundario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
-              p.mb-0.text-regular Siendo así, las tarjetas representan un excelente vínculo de interacción entre el usuario y el sitio web; desde su práctico diseño rectangular, hasta su portabilidad y fácil distribución, el diseño web de tarjetas es sin duda un estilo vanguardista y de gran utilidad informativa.             
+              p.mb-0.text-regular Siendo así, las tarjetas representan un excelente vínculo de interacción entre el usuario y el sitio <i>web</i>; desde su práctico diseño rectangular, hasta su portabilidad y fácil distribución, el diseño <i>web</i> de tarjetas es sin duda un estilo vanguardista y de gran utilidad informativa.             
               i.fas.fa-quote-right.text-white
             .bloque-texto-d__autor 
               b.mb-0 (Puente, 2015)

@@ -10,7 +10,7 @@
 
     .row.justify-content-center
       .col-lg-7
-        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <font class="color-1">UX</font> son las siglas de User Experience, que traduce como experiencia del usuario; mientras las siglas <font class="color-1">UI</font>, vienen de User Interface o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la web. 
+        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <font class="color-1"><b>UX</b></font> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <font class="color-1"><b>UI</b></font>, vienen de User Interface o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
       .col-lg-5
         figure.mb-0
           img(src='@/assets/curso/tema6/img01.png') 
@@ -75,7 +75,7 @@
 
     p.mb-4 ¿Cómo se puede lograr esta experiencia?
     p.mb-4.color-1 Una buena UX, se logra enfocándose en el cliente y en conocer las necesidades de ellos, alineando al proyecto y a la empresa, para cumplir los objetivos planteados, sin descuidar sus limitaciones tanto técnicas como monetarias.    
-    p.mb-4 El UX Designer o diseñador de la experiencia de usuario debe concentrar su conocimiento en desarrollar aspectos como:
+    p.mb-4 El UX <i>Designer</i> o diseñador de la experiencia de usuario debe concentrar su conocimiento en desarrollar aspectos como:
 
     div(style="background-color: #E2F4F6")
       .row.justify-content-center
@@ -103,18 +103,18 @@
       .col-lg-6       
         .tema2.mb-5
           .cajon.color-acento-contenido.p-4       
-            p.mb-0 Es importante destacar que el usuario digital desea que la experiencia sea agradable, sencilla, funcional, interesante y atrayente, a través de la percepción de formas, colores y diseños que le resulten muy atractivos, con indicaciones de interacción claras y concretas; que se traduzca en una venta efectiva, o en el retorno o permanencia de dicho usuario con la página web.
+            p.mb-0 Es importante destacar que el usuario digital desea que la experiencia sea agradable, sencilla, funcional, interesante y atrayente, a través de la percepción de formas, colores y diseños que le resulten muy atractivos, con indicaciones de interacción claras y concretas; que se traduzca en una venta efectiva, o en el retorno o permanencia de dicho usuario con la página <i>web</i>.
         h4.mb-4.color-1 UI = arquitectura de información + elementos visuales + interacción.
         p.mb-0 El diseño UI o interfaz de usuario, por el contrario, es el proceso mediante el cual se pueden definir los elementos correspondientes a crear interfaces entre las personas y los diferentes dispositivos digitales, resaltando no solo la parte visual, en cuanto a forma, función y utilidad, sino guiando al usuario durante toda su experiencia de una manera fácil y amigable en su uso. Su función principal es la de mejorar la experiencia del usuario. 
       
-    p.mb-5 En contra parte con los UX, un UI Designer, es la persona encargada en crear las interfases para que los productos sean acordes a la experiencia de los usuarios, además cuenta con la necesidad de adaptar o preservar la visualización en todos los dispositivos, trabaja de la mano con el desarrollador web, proporcionando guías de estilos y patrones de uso, dentro de las actividades que un UI debe realizarse encuentra:
+    p.mb-5 En contra parte con los UX, un UI <i>Designer</i>, es la persona encargada en crear las interfases para que los productos sean acordes a la experiencia de los usuarios, además cuenta con la necesidad de adaptar o preservar la visualización en todos los dispositivos, trabaja de la mano con el desarrollador <i>web</i>, proporcionando guías de estilos y patrones de uso, dentro de las actividades que un UI debe realizarse encuentra:
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-up")
       .col-lg-6
         ul.lista-ul--color.mb-4               
           li 
             i.fas.fa-square 
-            | Diseño de interacción de los usuarios con las páginas web.
+            | Diseño de interacción de los usuarios con las páginas <i>web</i>.
           li 
             i.fas.fa-square 
             | Guías de interacción que serán los caminos claves a seguir para que el usuario haga una compra o haga una acción detallada.
@@ -136,8 +136,8 @@
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-6
         p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudio previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
-        p.mb-4.color-1  El diseño y desarrollo web debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
-        p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el Card sorting, las entrevistas personales, los grupos focales (eye tracking), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
+        p.mb-4.color-1  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
+        p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el Card sorting, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
       .col-lg-6
         figure.mb-0
             img(src='@/assets/curso/tema6/img11.png') 
@@ -147,8 +147,8 @@
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b>Análisis del proyecto y definición de los objetivos</b>
-            p.mb-4 Se debe iniciar por dar respuesta a los siguientes interrogantes: ¿por qué es necesario la creación del sitio web y para qué se necesita?, ¿qué buscarán los usuarios y qué imagen se quiere causar en ellos?, ¿qué recursos se tienen, y cuánto tiempo se requerirá para su creación?
-            p.mb-0 Los objetivos deben ser medibles, por lo tanto, es importante determinar o segmentar el tipo clases o perfiles de usuarios que tendrá el sitio web, pues con base en ello se delimitan los criterios de diseño y contenido, así como el lenguaje que se utilizará y la estética del sitio web.
+            p.mb-4 Se debe iniciar por dar respuesta a los siguientes interrogantes: ¿por qué es necesario la creación del sitio <i>web</i> y para qué se necesita?, ¿qué buscarán los usuarios y qué imagen se quiere causar en ellos?, ¿qué recursos se tienen, y cuánto tiempo se requerirá para su creación?
+            p.mb-0 Los objetivos deben ser medibles, por lo tanto, es importante determinar o segmentar el tipo clases o perfiles de usuarios que tendrá el sitio <i>web</i>, pues con base en ello se delimitan los criterios de diseño y contenido, así como el lenguaje que se utilizará y la estética del sitio <i>web</i>.
           .col-lg-5
             figure.mb-0
               img(src='@/assets/curso/tema6/img12.png') 
@@ -157,15 +157,15 @@
         .row.justify-content-center(data-aos="zoom-in-up")
           .col-lg-6
             p.mb-4.color-1 <b>Planificación</b>
-            p.mb-0 Hace referencia a los requerimientos técnicos que sean necesarios, definición del equipo de trabajo, estructura o interrelación de las páginas en el sitio web, así mismo, estudios de mercadeo. Se incluye también otros aspectos como: selección del software (licenciado), sistemas operativos a usar, editor de páginas web, lenguajes de programación, esquemas de páginas o planos de pantalla, animaciones, entre otros aspectos. Si el sitio web se publica en Internet, debe reservarse el dominio y solicitar el servicio de hospedaje en empresas que prestan estos servicios.
+            p.mb-0 Hace referencia a los requerimientos técnicos que sean necesarios, definición del equipo de trabajo, estructura o interrelación de las páginas en el sitio <i>web</i>, así mismo, estudios de mercadeo. Se incluye también otros aspectos como: selección del <i>software</i> (licenciado), sistemas operativos a usar, editor de páginas <i>web</i>, lenguajes de programación, esquemas de páginas o planos de pantalla, animaciones, entre otros aspectos. Si el sitio <i>web</i> se publica en Internet, debe reservarse el dominio y solicitar el servicio de hospedaje en empresas que prestan estos servicios.
           .col-lg-5
             figure.mb-0
               img(src='@/assets/curso/tema6/img13.png') 
 
-      .p-4(titulo="Benchmarking")
+      .p-4(titulo="<i>Benchmarking</i>")
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
-            p.mb-4.color-1 <b>Benchmarking</b>
+            p.mb-4.color-1 <b><i>Benchmarking</i></b>
             p.mb-0 Es un proceso mediante el cual se toman “comparadores” o “benchmark”, que permiten realizar un análisis comparativo frente a otros productos y servicios de empresas líderes en el mismo sector de mercado, a fin de implementar mejoras o buenas prácticas.
           .col-lg-5
             figure.mb-0
@@ -175,7 +175,7 @@
         .row.justify-content-center(data-aos="zoom-in-up")
           .col-lg-6
             p.mb-4.color-1 <b>Estructura de navegación</b>
-            p.mb-0 Un sitio web bien diseñado debe tener una estructura precisa y sus páginas deben estar interrelacionadas. A la página principal se vinculan las demás mediante enlaces con códigos HTML. Existen varios tipos de estructura de navegación: Estructura lineal, estructura jerárquica, estructura radial y estructura de red.
+            p.mb-0 Un sitio <i>web</i> bien diseñado debe tener una estructura precisa y sus páginas deben estar interrelacionadas. A la página principal se vinculan las demás mediante enlaces con códigos HTML. Existen varios tipos de estructura de navegación: Estructura lineal, estructura jerárquica, estructura radial y estructura de red.
           .col-lg-5
             figure.mb-0
               img(src='@/assets/curso/tema6/img15.png') 
@@ -184,7 +184,7 @@
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b>Costos de inversión</b>
-            p.mb-0 Es el estudio de viabilidad que refleja la cantidad de dinero a invertir, se tendrán en cuenta aspectos como el tiempo que se requiere, el personal, el dominio y hospedaje web, las licencias y el mantenimiento requerido.
+            p.mb-0 Es el estudio de viabilidad que refleja la cantidad de dinero a invertir, se tendrán en cuenta aspectos como el tiempo que se requiere, el personal, el dominio y hospedaje <i>web</i>, las licencias y el mantenimiento requerido.
           .col-lg-5
             figure.mb-0
               img(src='@/assets/curso/tema6/img16.png') 
@@ -202,7 +202,7 @@
     #t_6_4.titulo-segundo.color-acento-contenido
       h2 6.4 Organización y planificación de la información 
 
-    p.mb-5 El proceso de elaboración de un sitio web, tiene una serie de etapas que deben ser planificadas en forma minuciosa para que sea exitoso y cumpla los objetivos deseados.
+    p.mb-5 El proceso de elaboración de un sitio <i>web</i>, tiene una serie de etapas que deben ser planificadas en forma minuciosa para que sea exitoso y cumpla los objetivos deseados.
 
     .row.mb-5(style="background-color: #F0F4F7")
       .col-lg-12.pt-5
@@ -225,7 +225,7 @@
 
           .row.mb-0
             .col-lg-6
-              h3.mb-5.color-1 Interacción con los clientes o usuarios web
+              h3.mb-5.color-1 Interacción con los clientes o usuarios <i>web</i>
               p.mb-0 Para tener en cuenta sus necesidades y opinión frente al producto o servicio ofrecido; el trabajo de la mano con el cliente o usuarios propenderá su fidelización.
             .col-lg-6
               figure(data-aos="zoom-in-up")
@@ -234,7 +234,7 @@
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Reunir información
-              p.mb-0 Buscar, observar y analizar la información necesaria que permita lograr una conceptualización sobre temas que se espera abordar con el servicio web, además de tener en cuenta la normatividad vigente relacionada con éstas.
+              p.mb-0 Buscar, observar y analizar la información necesaria que permita lograr una conceptualización sobre temas que se espera abordar con el servicio <i>web</i>, además de tener en cuenta la normatividad vigente relacionada con estas.
             .col-lg-6
               figure(data-aos="zoom-in-up")
                 img(src='@/assets/curso/tema6/img21.png') 
@@ -271,12 +271,12 @@
               figure(data-aos="zoom-in-up")
                 img(src='@/assets/curso/tema6/img25.png') 
 
-    p.mb-5 Teniendo en cuenta la organización y planificación es preciso determinar el contenido de la página web de la siguiente forma.
+    p.mb-5 Teniendo en cuenta la organización y planificación es preciso determinar el contenido de la página <i>web</i> de la siguiente forma.
     
     .row.mb-0(data-aos="zoom-in-up")
       .col-lg-6
-        p.mb-4 Es preciso determinar el lenguaje y la redacción deben estar acordes con los requerimientos de la web. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
-        p.mb-4.color-1 La información debe tener una estructura lógica y ordenada; sin embargo, en la página web la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.
+        p.mb-4 Es preciso determinar el lenguaje y la redacción deben estar acordes con los requerimientos de la <i>web</i>. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
+        p.mb-4.color-1 La información debe tener una estructura lógica y ordenada; sin embargo, en la página <i>web</i> la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.
         figure
           img(src='@/assets/curso/tema6/img27.png') 
       .col-lg-6
@@ -292,7 +292,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-4.d-flex
-        p.mb-0 Se ocupa de crear y administrar los contenidos, con base en las normas de propiedad intelectual; bajo el entendido que va más allá de un portal de información, por cuanto, requiere del diseño de productos atractivos, fáciles de consumir y navegar para cualquier persona, captando la atención de las audiencias, y estableciendo estándares que marquen la diferencia con la competencia.  Comercialmente se espera aumentar la gestión de tráfico en la web. 
+        p.mb-0 Se ocupa de crear y administrar los contenidos, con base en las normas de propiedad intelectual; bajo el entendido que va más allá de un portal de información, por cuanto, requiere del diseño de productos atractivos, fáciles de consumir y navegar para cualquier persona, captando la atención de las audiencias, y estableciendo estándares que marquen la diferencia con la competencia.  Comercialmente se espera aumentar la gestión de tráfico en la <i>web</i>. 
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema6/img29.svg') 

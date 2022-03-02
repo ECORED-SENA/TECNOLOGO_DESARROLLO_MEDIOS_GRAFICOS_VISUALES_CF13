@@ -10,7 +10,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4
-        p.mb-0 El llamado formato EPUB, electronic publication o publicación electrónica, es un tipo de formato basado en estándares web, que mejora la visualización y lectura en dispositivos electrónicos, es de gran utilidad ya que permite una independencia entre el contenido y la forma, <font class="color-1">ya que se acomoda y se ajusta a las necesidades pertinentes del entorno actual, puede ser abierto y utilizado en cualquier dispositivo electrónico y compatible en diferentes aplicaciones. </font>
+        p.mb-0 El llamado formato EPUB, <i>electronic publication</i> o publicación electrónica, es un tipo de formato basado en estándares <i>web</i>, que mejora la visualización y lectura en dispositivos electrónicos, es de gran utilidad ya que permite una independencia entre el contenido y la forma, <font class="color-1">ya que se acomoda y se ajusta a las necesidades pertinentes del entorno actual, puede ser abierto y utilizado en cualquier dispositivo electrónico y compatible en diferentes aplicaciones. </font>
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema2/img01.svg') 
@@ -31,7 +31,7 @@
     .row.justify-content-center.mb-0
       .col-lg-6
         p.mb-4 El uso incrementado de la tableta por encima de los equipos de cómputo incentivó el manejo del formato de archivo de libro electrónico con la terminación EPUB. La facilidad para realizar múltiples tareas, el manejo de diferentes herramientas, imágenes y videos, hacen del ebook uno de los mejores instrumentos tecnológicos ya que permite, por ejemplo, la edición de elementos (modificar, subrayar), además de su portabilidad siendo una de sus mayores ventajas frente al libro de papel, puesto que se puede llevar a todas partes, en el celular o dispositivo disponible, es accesible y de bajo precio. Adicionalmente las grandes compañías de ventas por internet han jugado un papel importante en la venta, expansión y uso de este tipo de formato, en el cual no es necesario contar con un espacio físico para su almacenamiento, por el contrario, se pueden almacenar de manera fácil y eficiente, bajando inclusive los costos de producción.  
-        p.mb-0 A pesar de ser EPUB un formato tan importante, existen otro tipo de formatos desarrollados por diferentes empresas, que tienen compatibilidad con sus propios productos. <font class="color-1">Tal es el caso del formato PDF (siglas en inglés de Portable Document Format, que traduce “formato de documento portátil”),</font> uno de los más utilizados en el mercado; sin embargo, el formato EPUB permite dentro de la experiencia al cliente, redimensionar la escala de los documentos y el tipo y tamaño de fuente tipográfica a utilizar, es un formato muy versátil y que permite gracias a sus herramientas, tener más usos que el formato PDF. 
+        p.mb-0 A pesar de ser EPUB un formato tan importante, existen otro tipo de formatos desarrollados por diferentes empresas, que tienen compatibilidad con sus propios productos. <font class="color-1">Tal es el caso del formato PDF (siglas en inglés de <i>Portable Document Format</i>, que traduce “formato de documento portátil”),</font> uno de los más utilizados en el mercado; sin embargo, el formato EPUB permite dentro de la experiencia al cliente, redimensionar la escala de los documentos y el tipo y tamaño de fuente tipográfica a utilizar, es un formato muy versátil y que permite gracias a sus herramientas, tener más usos que el formato PDF. 
       .col-lg-6
         figure.mb-0
           img(src='@/assets/curso/tema2/img03.svg')      
@@ -70,30 +70,32 @@
           p.mb-4.color-1 Otra de las herramientas, es la posibilidad del lector de hacer cambios, como el tamaño del texto, lo que aporta considerablemente si se piensa en la usabilidad y accesibilidad para la mayoría de lectores que poseen deficiencias o problemas visuales. 
           p.mb-0 A medida que los elementos se van adaptando a las dimensiones de las pantallas, el usuario no se preocupa por su desplazamiento, ya que la organización se adapta y se hace natural, haciendo que los productos electrónicos sean más amigables con los usuarios.
 
-    div.p-0.mb-5
-      .row.tema2-div1  
-        .col-lg-4.d-flex.align-items-center
-          p.mb-0 Es muy probable que la mayoría de los géneros se puedan encontrar en este tipo de diseño ajustables, lo que hace que se adapte fácilmente a las disposiciones de los usuarios, esto hace que los textos que en los textos que son más pesados, su distribución o formato sea en una columna, siendo el preferido por la mayoría de autores dado que es ajustable a todos los lectores de formatos EPUB. 
-        .col-lg-4.d-flex
-          .tarjeta--boton.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-12
-                figure
-                  img.m-0(src='@/assets/curso/tema2/img06.png')  
+    .tema-2-boton
+      div.p-0.mb-5
+        .row.tema2-div1  
+          .col-lg-4.d-flex.align-items-center
+            p.mb-0 Es muy probable que la mayoría de los géneros se puedan encontrar en este tipo de diseño ajustables, lo que hace que se adapte fácilmente a las disposiciones de los usuarios, esto hace que los textos que en los textos que son más pesados, su distribución o formato sea en una columna, siendo el preferido por la mayoría de autores dado que es ajustable a todos los lectores de formatos EPUB. 
+          .col-lg-4.d-flex
+            .tema-2-boton-1
+              .tarjeta--boton.color-primario.p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    figure
+                      img.m-0(src='@/assets/curso/tema2/img06.png')  
 
-            h4.text-center Ventajas
-            p.mb-4.text-center El texto se puede editar en la pantalla a gusto del usuario sin pérdida de calidad.<br>Estos diseños son más fáciles, más rápidos y más baratos para producir.
-            p.mb-0.text-center Su tamaño para guardar y almacenar en pequeño en comparación con otros formatos.<br>Son legibles por todos los dispositivos de lectura de EPUB.
-        .col-lg-4.d-flex
-          .tarjeta--boton.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-12
-                figure
-                  img.m-0(src='@/assets/curso/tema2/img07.png')  
+                h4.text-center Ventajas
+                p.mb-4.text-center El texto se puede editar en la pantalla a gusto del usuario sin pérdida de calidad.<br>Estos diseños son más fáciles, más rápidos y más baratos para producir.
+                p.mb-0.text-center Su tamaño para guardar y almacenar en pequeño en comparación con otros formatos.<br>Son legibles por todos los dispositivos de lectura de EPUB.
+          .col-lg-4.d-flex
+            .tarjeta--boton.color-primario.p-4
+              .row.justify-content-center.mb-3
+                .col-12
+                  figure
+                    img.m-0(src='@/assets/curso/tema2/img07.png')  
 
-            h4.text-center Desentajas
-            p.mb-4.text-center Los autores tienen poco o ningún control sobre como se visualizan sus obras, perdiendo la mística de los libros con ilustraciones e imágenes.
-            p.mb-0.text-center Estos diseños EPUB solo admiten formatos sencillos como columnas simples.<br>Sus fuentes incrustadas son escasas.            
+              h4.text-center Desentajas
+              p.mb-4.text-center Los autores tienen poco o ningún control sobre como se visualizan sus obras, perdiendo la mística de los libros con ilustraciones e imágenes.
+              p.mb-0.text-center Estos diseños EPUB solo admiten formatos sencillos como columnas simples.<br>Sus fuentes incrustadas son escasas.            
 
     div.mb-5(data-aos="zoom-in-up")
       .row.justify-content-center
@@ -123,16 +125,16 @@
       .row.tema2-div1  
         .col-lg-4.d-flex.align-items-center
           p.mb-0 Es un tipo de diseño que está elaborado para libros de cocina, novelas gráficas, guías interactivas, cuentos infantiles, etc., lo que ha venido transformándose ya con el tiempo y gracias a la tecnología y el avance de los programas de diseño y edición editorial, está haciendo la vida de los editores, autores y diseñadores, las cosas mucho más sencillas.
-        .col-lg-4.d-flex
-          .tarjeta--boton.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-12
-                figure
-                  img.m-0(src='@/assets/curso/tema2/img10.png')  
+        .col-lg-4.d-flex.tema-2-boton-1          
+            .tarjeta--boton.color-primario.p-4
+              .row.justify-content-center.mb-3
+                .col-12
+                  figure
+                    img.m-0(src='@/assets/curso/tema2/img10.png')  
 
-            h4.text-center Ventajas
-            p.mb-4 El autor o diseñador mantienen el control sobre la exhibición del Ebook, sus imágenes y textos mantienen sus posiciones y puntos específicos de ubicación.
-            p.mb-0 Es el mejor formato si los textos poseen más columnas o alguna organización especial.<br>Es la mejor opción si se piensa en el diseño como lo primordial.            
+              h4.text-center Ventajas
+              p.mb-4 El autor o diseñador mantienen el control sobre la exhibición del <i>Ebook</i>, sus imágenes y textos mantienen sus posiciones y puntos específicos de ubicación.
+              p.mb-0 Es el mejor formato si los textos poseen más columnas o alguna organización especial.<br>Es la mejor opción si se piensa en el diseño como lo primordial.            
         .col-lg-4.d-flex
           .tarjeta--boton.color-primario.p-4
             .row.justify-content-center.mb-3
@@ -147,11 +149,11 @@
 
     p.mb-5  El formato EPUB, es un formato estándar definido para maquetar, representar y empaquetar contenido digital, que puede incluir lenguajes de construcción como el HTML, o el CSS, dada su distribución de imágenes y otros recursos multimedia. 
 
-    h2.color-1.text-center.mb-0 Algunas de sus principales<br>características son:
+    //h2.color-1.text-center.mb-0 Algunas de sus principales<br>características son:
     figure.mb-5
-      img.m-0(src='@/assets/curso/tema2/img12.svg')  
+      img.m-0(src='@/assets/curso/tema2/img14.png')  
     
-    p.mb-5 Se puede encontrar diversidad de formatos utilizados en el mercado, muchos de estos están enmarcados por las características de uso de cada una de las empresas que los han desarrollado. Dentro de estas empresas se encuentran mayormente las empresas de tecnología, desarrollo web, ventas por internet, entre otras, que apuestan por sus propios formatos; a continuación en la tabla 1, se presentan algunos de los más relevantes:
+    p.mb-5 Se puede encontrar diversidad de formatos utilizados en el mercado, muchos de estos están enmarcados por las características de uso de cada una de las empresas que los han desarrollado. Dentro de estas empresas se encuentran mayormente las empresas de tecnología, desarrollo <i>web</i>, ventas por internet, entre otras, que apuestan por sus propios formatos; a continuación en la tabla 1, se presentan algunos de los más relevantes:
 
     .row.justify-content-start
       .col-lg-8
@@ -201,10 +203,10 @@
           td Es una alternativa al PDF. A diferencia de este, nació como un formato de archivo abierto. Muchos libros de dominio público están escaneados con este formato. Permite anotaciones y marcadores.
         tr
           th.text-center HTML (.html).
-          td Es el formato propio de las páginas web y todos los dispositivos que tengan instalado un navegador lo leen. La desventaja es que no incluyen las imágenes, vídeos, etc., en un solo archivo.
+          td Es el formato propio de las páginas <i>web</i> y todos los dispositivos que tengan instalado un navegador lo leen. La desventaja es que no incluyen las imágenes, vídeos, etc., en un solo archivo.
         tr
           th.text-center Compiled HTML (.chm).
-          td Es un formato creado por Microsoft para disponer el contenido de la ayuda en línea. Se usa para editar ebooks porque puede compilar varios HTML en un solo archivo y enlazarlos entre sí.
+          td Es un formato creado por Microsoft para disponer el contenido de la ayuda en línea. Se usa para editar <i>ebooks</i> porque puede compilar varios HTML en un solo archivo y enlazarlos entre sí.
         tr
           th.text-center TXT (.txt). 
           td Extremadamente sencillo. Es un texto sin ninguna característica respecto a fuente, tamaño, resalte… Es el tipo de archivo más compatible, pero, al igual que el RTF, tampoco es apropiado para editar libros electrónicos.
@@ -213,7 +215,7 @@
           td Es el formato de texto enriquecido. Microsoft lo creó para poder dar características al texto (cursivas. tipo de fuente, tamaño…). La mayoría de procesadores de texto leen y escriben este formato, y prácticamente todos los lectores lo soportan. Por su sencillez, no tiene muchas funcionalidades propias del libro electrónico.
         tr
           th.text-center DOC (.doc, .docx). 
-          td Es el formato propio de Microsoft Word. La edición de ebooks en este formato suele ser menos profesional.
+          td Es el formato propio de Microsoft Word. La edición de <i>ebooks</i> en este formato suele ser menos profesional.
 
     .tema2-1
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
