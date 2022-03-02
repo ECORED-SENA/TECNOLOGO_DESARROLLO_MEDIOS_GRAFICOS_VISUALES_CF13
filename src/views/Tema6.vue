@@ -105,7 +105,7 @@
           .cajon.color-acento-contenido.p-4       
             p.mb-0 Es importante destacar que el usuario digital desea que la experiencia sea agradable, sencilla, funcional, interesante y atrayente, a través de la percepción de formas, colores y diseños que le resulten muy atractivos, con indicaciones de interacción claras y concretas; que se traduzca en una venta efectiva, o en el retorno o permanencia de dicho usuario con la página <i>web</i>.
         h4.mb-4.color-1 UI = arquitectura de información + elementos visuales + interacción.
-        p.mb-0 El diseño UI o interfaz de usuario, por el contrario, es el proceso mediante el cual se pueden definir los elementos correspondientes a crear interfaces entre las personas y los diferentes dispositivos digitales, resaltando no solo la parte visual, en cuanto a forma, función y utilidad, sino guiando al usuario durante toda su experiencia de una manera fácil y amigable en su uso. Su función principal es la de mejorar la experiencia del usuario. 
+        p.mb-0 En síntesis, se puede decir que el UI da el Look and Feel con la estructura e interacción de los elementos, un buen manejo y uso de una UI, permite un excelente manejo de la UX, aunque no lo es todo, son solo instrumentos que ayudan a orientar y guiar a los usuarios para llegar a un objetivo.
       
     p.mb-5 En contra parte con los UX, un UI <i>Designer</i>, es la persona encargada en crear las interfases para que los productos sean acordes a la experiencia de los usuarios, además cuenta con la necesidad de adaptar o preservar la visualización en todos los dispositivos, trabaja de la mano con el desarrollador <i>web</i>, proporcionando guías de estilos y patrones de uso, dentro de las actividades que un UI debe realizarse encuentra:
     
@@ -133,7 +133,7 @@
     #t_6_3.titulo-segundo.color-acento-contenido
       h2 6.3 Investigación
 
-    .row.justify-content-center.align-items-center(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6
         p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudio previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
         p.mb-4.color-1  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
@@ -142,6 +142,7 @@
         figure.mb-0
             img(src='@/assets/curso/tema6/img11.png') 
 
+    p.mb-3 Para lograr un diseño de página o sitio web de gran calidad, es necesario considerar las fases que a continuación se describen:
     TabsC.color-primario
       .p-4(titulo="Análisis del proyecto y definición de los objetivos")
         .row.justify-content-center(data-aos="zoom-in")

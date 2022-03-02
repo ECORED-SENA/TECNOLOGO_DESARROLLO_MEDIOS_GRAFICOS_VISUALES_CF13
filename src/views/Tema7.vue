@@ -42,7 +42,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .tema-7
+        .tema-7-info
           ImagenInfografica.color-acento-contenido.mb-5
             template(v-slot:imagen)
               figure
@@ -313,7 +313,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         figure.mb-0
-          img(src='@/assets/curso/tema7/img20.svg')
+          img(src='@/assets/curso/tema7/img25.svg')
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-4

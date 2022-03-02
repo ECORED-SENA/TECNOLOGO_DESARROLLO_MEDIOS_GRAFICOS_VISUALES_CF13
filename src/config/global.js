@@ -255,7 +255,7 @@ export default {
     {
       termino: 'Interfaz',
       significado:
-        'RAE, Conexión o frontera común entre dos o más elementos o sistemas independientes, enlace de comunicaciones. ',
+        '<span>RAE</span>, Conexión o frontera común entre dos o más elementos o sistemas independientes, enlace de comunicaciones. ',
     },
     {
       termino: 'Look and Feel',
