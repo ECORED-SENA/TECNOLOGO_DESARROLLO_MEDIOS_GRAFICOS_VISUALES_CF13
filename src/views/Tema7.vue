@@ -46,7 +46,7 @@
           ImagenInfografica.color-acento-contenido.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema7/img03.svg')               
+                img(src='@/assets/curso/tema7/img26.png')               
 
             .tarjeta.color-acento-contenido.p-3(x="48%" y="19.5%" numero="1")            
               p.mb-0 Buen tamaño que sea legible.       

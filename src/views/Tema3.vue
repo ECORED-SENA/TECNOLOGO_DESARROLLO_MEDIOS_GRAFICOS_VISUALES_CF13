@@ -285,11 +285,11 @@
           .bloque-texto-d.color-secundario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
-              p.mb-0.text-regular Siendo así, las tarjetas representan un excelente vínculo de interacción entre el usuario y el sitio <i>web</i>; desde su práctico diseño rectangular, hasta su portabilidad y fácil distribución, el diseño <i>web</i> de tarjetas es sin duda un estilo vanguardista y de gran utilidad informativa.             
-              i.fas.fa-quote-right.text-white
+              p.mb-0.text-regular Siendo así, las tarjetas representan un excelente vínculo de interacción entre el usuario y el sitio <span style="font-style: italic">web</span>; desde su práctico diseño rectangular, hasta su portabilidad y fácil distribución, el diseño <span style="font-style: italic">web</span> de tarjetas es sin duda un estilo vanguardista y de gran utilidad informativa.             
+              i.fas.fa-quote-right
             .bloque-texto-d__autor 
               b.mb-0 (Puente, 2015)
-              i.fas.fa-quote-right
+              //i.fas.fa-quote-right
               
       .col-lg-5.d-flex.align-items-center
         figure.mb-0
