@@ -23,7 +23,7 @@
     p.mb-5 Los pasos indicados en el esquema facilitan la comprensión de los requerimientos del proyecto, promoviendo el proceso creativo, la colaboración y trabajo en equipo, a continuación  se conocerá la descripción de cada uno de ellos.
 
     .row(style="background-color: #F0F4F7")
-      .col-lg-12.pt-5
+      .col-lg-12.pt-5.px-0
         SlyderE(indicadores="derecha")
           .row.mb-0
             .col-lg-6

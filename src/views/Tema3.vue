@@ -106,7 +106,7 @@
             | Las características propias de este tipo de elementos permiten la posibilidad de insertar videos, sonidos, imágenes, animaciones, gráficos y demás, utilizando formatos determinados para cada uso. 
           li 
             i.fas.fa-square 
-            | Por sus características básicas los <i>ebooks</i> son libros que facilitan el conocimiento universal ya que pueden llegar de manera inmediata, fácil y práctica, a cualquier entorno, comunidad rural o población limitada, por ejemplo, por las condiciones geográficas. 
+            p.mb-0 Por sus características básicas los <i>ebooks</i> son libros que facilitan el conocimiento universal ya que pueden llegar de manera inmediata, fácil y práctica, a cualquier entorno, comunidad rural o población limitada, por ejemplo, por las condiciones geográficas. 
           li 
             i.fas.fa-square 
             | Una ventaja frente a las obras impresas es la facilidad de editar, cambiar o añadir contenido al libro en cualquier momento, lo cual supone costos de ahorro.  
@@ -197,9 +197,10 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/img10.png') 
     
-    .row.row-cols-5.mb-5
+    .row.row-cols-5.mb-5.indicador__container(@mouseover="mostrarIndicador = false")
       .col
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+          .indicador--click(v-if="mostrarIndicador")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema3/img11.png')})`}")
@@ -301,7 +302,7 @@
 export default {
   name: 'Tema3',
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
   }),
   mounted() {
     this.$nextTick(() => {

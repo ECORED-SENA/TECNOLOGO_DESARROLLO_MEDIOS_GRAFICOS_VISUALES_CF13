@@ -38,7 +38,7 @@
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
-          div.py-4.px-3.mt-3(style="background-color: #E8E8E8")
+          div.py-4.px-3.mt-0(style="background-color: #E8E8E8")
             p.mb-0 Hoy en día la experiencia de usuario se ha convertido en un tema fundamental no solo en el área de la tecnología y el diseño, sino que hace parte del enfoque de “vender” experiencias a las personas, es un factor que incide de manera notoria en el éxito o fracaso de un servicio o producto, se mide la calidad y el servicio por medio de las motivaciones que estos generan a los usuarios; es decir, las emociones y experiencias, establecen el valor económico de un servicio, bien o producto. 
 
     p.mb-5.text-center Con el fin de ampliar este concepto, se pueden identificar tres elementos a partir del siguiente ejemplo:
@@ -205,7 +205,7 @@
 
     p.mb-5 El proceso de elaboración de un sitio <i>web</i>, tiene una serie de etapas que deben ser planificadas en forma minuciosa para que sea exitoso y cumpla los objetivos deseados.
 
-    .row.mb-5(style="background-color: #F0F4F7")
+    .row.mb-5(style="background-color: #F0F4F7").bg--ligthblue
       .col-lg-12.pt-5
         SlyderE(indicadores="derecha")
           .row.mb-0
