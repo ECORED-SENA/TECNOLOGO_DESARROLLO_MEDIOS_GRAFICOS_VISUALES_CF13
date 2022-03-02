@@ -45,11 +45,12 @@
       .col-lg-7
         p.mb-4 Al pensar en la creación de alguna publicación electrónica como los EPUB, se debe pensar en que existen dos tipos o formatos que se deben tener presentes, cada uno con sus pros y sus contras, dependiendo como siempre, de las necesidades y presupuestos de los clientes, así es como se encuentran los tipos de disposición o diseño fijo y otros conocidos como los ajustables. 
         div.p-4(style="background-color: #E2F4F6")
-          p.mb-4 Para poder establecer una decisión adecuada, es necesario que se  pueda conocer un poco más de cada una, ya que serán las encargadas de darle, como su nombre lo indica el diseño de nuestra pieza o publicación. 
-          p.mb-0.color-1 Algunas de las principales características de los EPUB son:
+          p.mb-0 Para poder establecer una decisión adecuada, es necesario que se  pueda conocer un poco más de cada una, ya que serán las encargadas de darle, como su nombre lo indica el diseño de nuestra pieza o publicación.           
       .col-lg-5.d-flex.align-items-center
         figure.mb-0
             img(src='@/assets/curso/tema2/img04.png')      
+    
+    p.mb-4.color-1 Algunas de las principales características de los EPUB son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-5.d-flex.align-items-center
@@ -76,7 +77,6 @@
           .col-lg-4.d-flex.align-items-center
             p.mb-0 Es muy probable que la mayoría de los géneros se puedan encontrar en este tipo de diseño ajustables, lo que hace que se adapte fácilmente a las disposiciones de los usuarios, esto hace que los textos que en los textos que son más pesados, su distribución o formato sea en una columna, siendo el preferido por la mayoría de autores dado que es ajustable a todos los lectores de formatos EPUB. 
           .col-lg-4.d-flex
-            .tema-2-boton-1
               .tarjeta--boton.color-primario.p-4
                 .row.justify-content-center.mb-3
                   .col-12
@@ -125,7 +125,7 @@
       .row.tema2-div1  
         .col-lg-4.d-flex.align-items-center
           p.mb-0 Es un tipo de diseño que está elaborado para libros de cocina, novelas gráficas, guías interactivas, cuentos infantiles, etc., lo que ha venido transformándose ya con el tiempo y gracias a la tecnología y el avance de los programas de diseño y edición editorial, está haciendo la vida de los editores, autores y diseñadores, las cosas mucho más sencillas.
-        .col-lg-4.d-flex.tema-2-boton-1          
+        .col-lg-4.d-flex
             .tarjeta--boton.color-primario.p-4
               .row.justify-content-center.mb-3
                 .col-12

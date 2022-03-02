@@ -144,7 +144,7 @@
 
     p.mb-3 Para lograr un diseño de página o sitio web de gran calidad, es necesario considerar las fases que a continuación se describen:
     TabsC.color-primario
-      .p-4(titulo="Análisis del proyecto y definición de los objetivos")
+      .p-4.fondo-gris(titulo="Análisis del proyecto y definición de los objetivos")
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b>Análisis del proyecto y definición de los objetivos</b>
@@ -154,7 +154,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img12.png') 
 
-      .p-4(titulo="Planificación")
+      .p-4.fondo-gris(titulo="Planificación")
         .row.justify-content-center(data-aos="zoom-in-up")
           .col-lg-6
             p.mb-4.color-1 <b>Planificación</b>
@@ -163,7 +163,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img13.png') 
 
-      .p-4(titulo="<i>Benchmarking</i>")
+      .p-4.fondo-gris(titulo="<i>Benchmarking</i>")
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b><i>Benchmarking</i></b>
@@ -172,7 +172,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img14.png') 
 
-      .p-4(titulo="Estructura de navegación")
+      .p-4.fondo-gris(titulo="Estructura de navegación")
         .row.justify-content-center(data-aos="zoom-in-up")
           .col-lg-6
             p.mb-4.color-1 <b>Estructura de navegación</b>
@@ -181,7 +181,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img15.png') 
 
-      .p-4(titulo="Costos de inversión")
+      .p-4.fondo-gris(titulo="Costos de inversión")
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b>Costos de inversión</b>
@@ -190,7 +190,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img16.png') 
 
-      .p-4(titulo="Beneficios a obtener")
+      .p-4.fondo-gris(titulo="Beneficios a obtener")
         .row.justify-content-center(data-aos="zoom-in-up")
           .col-lg-6
             p.mb-4.color-1 <b>Beneficios a obtener</b>

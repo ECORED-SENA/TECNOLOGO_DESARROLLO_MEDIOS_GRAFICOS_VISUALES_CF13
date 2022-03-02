@@ -16,9 +16,9 @@
         .col-lg-1.col-md-3.order-lg-1.order-sm-1.d-flex.justify-content-center
           figure.introduccion-cubo.mb-0
             img(src='@/assets/curso/introduccion/img01.svg') 
-        .col-lg-3.col-md-9.order-lg-3.order-sm-3.d-flex.justify-content-center
-          figure.introduccion-imagen.mb-0
-            img(src='@/assets/curso/introduccion/img02.png') 
+        .col-lg-3.col-md-9.order-lg-3.order-sm-3.d-flex
+          figure.introduccion-imagen.mb-0.d-flex
+            img(src='@/assets/curso/introduccion/img02.png')
 
     figure
       .video
