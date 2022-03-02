@@ -17,9 +17,8 @@ RTA:/ Se propone meter los numeros en el contenedor
 RTA:/ El slider queda asi: ponerle al a fila margenes negativos 
 
 
-H2: El video de introduccino no esta disponible en la tarjeta padre
 H13: El video de Evaluación heurística o usabilidad no esta disponible en la tarjeta padre
-
 H20: Correccion ortográfica en una unidad didactica
 H21: Correccion ortográfica en una unidad didactica
 H22: Piden eliminar una de las unidades dideacticas. No se elimina y sugiere contactar el lider del equipo
+H24: No se ha logrado localizar el documento con los créditos actualizados
