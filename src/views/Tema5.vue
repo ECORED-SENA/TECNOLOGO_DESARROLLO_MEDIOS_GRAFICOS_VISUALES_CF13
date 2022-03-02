@@ -261,8 +261,8 @@
 
     p.mb-4 Con el fin de ampliar el concepto a continuación se presenta el video “Los decálogos de Nielsen” y sus principios de usabilidad.            
     figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video        
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/_lzG-OPbPDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
 
     #t_5_2.titulo-segundo.color-acento-contenido
