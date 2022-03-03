@@ -77,13 +77,19 @@
             | Se pueden portar en diversos dispositivos, multipropósito.
 
       .col-lg-4.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img02.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 10% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 2% ; width: 60px ")
     
     .row.justify-content-start.mb-5(data-aos="zoom-in")
       .col-lg-4.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img03.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5% ; right: 0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 10%; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: ; right: -8% ; top: ; bottom: 10% ; width: 60px ")
       .col-lg-8.d-flex.align-items-center
         ul.lista-ul--color          
           li 
@@ -124,8 +130,11 @@
 
         p.mb-0 La revista electrónica utiliza recursos multimedia y presenta las mismas características de la revista tradicional, se distribuye en el mercado con un periodo regular, contiene una portada, contraportada, parte editorial, índice, fotos, textos, artículos, anuncios, publicidad, ilustraciones etc. <font class="color-1">Este tipo de publicación puede ser presentada en diferentes formatos como el PDF, HTML, EPUB, entre otros. Una revista puede ser:</font> 
       .col-lg-6.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img04.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -4% ; right: ; top: ; bottom: 2% ; width: 60px ")
 
     .row.mb-5 
       .col-lg-3.d-flex
@@ -164,8 +173,11 @@
     
     .row.justify-content-start.mb-5(data-aos="zoom-in")
       .col-lg-4.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img09.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right: % ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 10%; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  ; right: -8% ; top: ; bottom: 2% ; width: 60px ")
       .col-lg-8        
         .row.justify-content-start.mb-4
           .col-lg-5.py-0.border(style="background-color: #FDD835")            
@@ -194,8 +206,11 @@
         p.mb-4 El catálogo es una pieza netamente comercial que utilizan las empresas para dar a conocer sus productos, bienes o servicios y con ello generar ventas. Esta pieza depende de la calidad de la imagen ya que los productos mostrados no se pueden medir, probar o tocar, solo se puede mirar.  Los catálogos de ventas electrónicos son elementos de marketing directo, son muy utilizados pues ahorran a las empresas millones de pesos en publicidad y ayudan con el cuidado del medio ambiente. 
         b.mb-0.color-1 Las características principales para que esta pieza gráfica funcione de manera eficaz y adecuada son:        
       .col-lg-6.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img10.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5% ; right: ; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -4% ; right:  ; top: ; bottom: 2% ; width: 60px ")
     
     .row.row-cols-5.mb-5.indicador__container(@mouseover="mostrarIndicador = false")
       .col
@@ -237,8 +252,11 @@
 
     .row.justify-content-start.mb-5(data-aos="zoom-in")
       .col-lg-4.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img16.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%; right:  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 5%; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  ; right: -9% ; top: ; bottom: 13% ; width: 60px ")
       .col-lg-8
         .row.justify-content-start.mb-4
           .col-lg-5.py-0.border(style="background-color: #FDD835")            
@@ -293,8 +311,11 @@
               //i.fas.fa-quote-right
               
       .col-lg-5.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img17.png')  
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  3% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  5% ; right:; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 4% ; width: 60px ")
     
 </template>
 
