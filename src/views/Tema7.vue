@@ -374,8 +374,12 @@
 </template>
 
 <script>
+import BannerInterno from '../components/BannerInterno.vue'
 export default {
   name: 'Tema7',
+  components: {
+    BannerInterno,
+  },
   data: () => ({
     // variables de vue
   }),

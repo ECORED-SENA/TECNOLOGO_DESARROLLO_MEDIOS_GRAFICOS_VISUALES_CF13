@@ -4,7 +4,8 @@ export default {
     descripcionCurso:
       'El diseño editorial no solo se enfoca en la creación de contenidos impresos, sino que ha evolucionado a digitales, que se adaptan para posibilitar la lectura en diversos dispositivos; por ello es de gran utilidad comprender en qué consiste la diagramación, que dependerá de los diferentes tipos de productos.  El EPUB es uno de los formatos más utilizados para la publicación de libros electrónicos y es importante entender las diferencias y las características de cada uno.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerInterno: require('@/assets/curso/interno.png'),
   },
   menuPrincipal: {
     menu: [

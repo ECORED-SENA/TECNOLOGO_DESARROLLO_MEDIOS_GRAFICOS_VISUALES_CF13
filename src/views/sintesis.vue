@@ -14,8 +14,12 @@
 </template>
 
 <script>
+import BannerInterno from '../components/BannerInterno.vue'
 export default {
   name: 'Sintesis',
+  components: {
+    BannerInterno,
+  },
   data: () => ({
     // variables de vue
   }),

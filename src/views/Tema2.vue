@@ -20,8 +20,11 @@
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
       .row.justify-content-start(style="position:relative; width:103%; height:100%;")
         .col-lg-5
-          figure.mb-0
-            img(src='@/assets/curso/tema2/img02.png')         
+          .imagen-adornos-flotantes
+            img(src='@/assets/curso/tema2/img02.png')        
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 12% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 2% ; width: 60px ")   
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
@@ -33,8 +36,11 @@
         p.mb-4 El uso incrementado de la tableta por encima de los equipos de cómputo incentivó el manejo del formato de archivo de libro electrónico con la terminación EPUB. La facilidad para realizar múltiples tareas, el manejo de diferentes herramientas, imágenes y videos, hacen del ebook uno de los mejores instrumentos tecnológicos ya que permite, por ejemplo, la edición de elementos (modificar, subrayar), además de su portabilidad siendo una de sus mayores ventajas frente al libro de papel, puesto que se puede llevar a todas partes, en el celular o dispositivo disponible, es accesible y de bajo precio. Adicionalmente las grandes compañías de ventas por internet han jugado un papel importante en la venta, expansión y uso de este tipo de formato, en el cual no es necesario contar con un espacio físico para su almacenamiento, por el contrario, se pueden almacenar de manera fácil y eficiente, bajando inclusive los costos de producción.  
         p.mb-0 A pesar de ser EPUB un formato tan importante, existen otro tipo de formatos desarrollados por diferentes empresas, que tienen compatibilidad con sus propios productos. <font class="color-1">Tal es el caso del formato PDF (siglas en inglés de <i>Portable Document Format</i>, que traduce “formato de documento portátil”),</font> uno de los más utilizados en el mercado; sin embargo, el formato EPUB permite dentro de la experiencia al cliente, redimensionar la escala de los documentos y el tipo y tamaño de fuente tipográfica a utilizar, es un formato muy versátil y que permite gracias a sus herramientas, tener más usos que el formato PDF. 
       .col-lg-6
-        figure.mb-0
-          img(src='@/assets/curso/tema2/img03.svg')      
+        .imagen-adornos-flotantes
+          img(src='@/assets/curso/tema2/img03.png')   
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 10% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 2% ; width: 60px ")   
 
     Separador
 
@@ -47,15 +53,21 @@
         div.p-4(style="background-color: #E2F4F6")
           p.mb-0 Para poder establecer una decisión adecuada, es necesario que se  pueda conocer un poco más de cada una, ya que serán las encargadas de darle, como su nombre lo indica el diseño de nuestra pieza o publicación.           
       .col-lg-5.d-flex.align-items-center
-        figure.mb-0
-            img(src='@/assets/curso/tema2/img04.png')      
+        .imagen-adornos-flotantes
+          img(src='@/assets/curso/tema2/img04.png')      
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 10% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 2% ; width: 60px ")   
     
     p.mb-4.color-1 Algunas de las principales características de los EPUB son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-5.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema2/img05.png')   
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  5%; right: ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 20%; top:0 ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 70% ; right: ; top: ; bottom: 10% ; width: 60px ")   
       .col-lg-7.d-flex.align-items-center
         div
           .row.justify-content-start.mb-4
@@ -115,8 +127,11 @@
             .cajon.color-acento-contenido.p-4       
               p.mb-0.color-1 Este formato trabaja como una copia o réplica digitalizada de los libros impresos, con la ventaja de poder añadir elementos interactivos, lo que permite más interacción por parte del usuario, por otro lado, es posible que toque hacer desplazamientos verticales, horizontales y de zoom, para poder acceder a todo el contenido.  
         .col-lg-5
-          figure
+          .imagen-adornos-flotantes
             img.m-0(src='@/assets/curso/tema2/img09.png')  
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 20% ; width: 60px ")   
 
     p.mb-5 No es el formato más sencillo con el cual trabajar, pero permite a los diseñadores y autores, tener un control total sobre sus obras y diseños, como se van a visualizar, como se va a visualizar, etc.
 
@@ -218,10 +233,10 @@
           td Es el formato propio de Microsoft Word. La edición de <i>ebooks</i> en este formato suele ser menos profesional.
 
     .tema2-1
-      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/tema2/img13.svg')})`}"
-        )
+      .bloque-texto-g.color-primario.p-5.mb-0(data-aos="zoom-in")        
+        .bloque-texto-g__img.py-5(
+          :style="{'background-image': `url(${require('@/assets/curso/tema2/img13.png')})`}"
+        )        
         .bloque-texto-g__texto.p-4
           p.mb-0 Aunque puede que la forma de lectura varíe de usuario a usuario, porque variará el tipo de formato, y el dispositivo que use, la información como los textos y las imágenes, son elementos que no deberían sufrir ningún cambio, por el contrario, se adaptará igual o lo más similar a todos los dispositivos.
 
@@ -229,8 +244,12 @@
 </template>
 
 <script>
+import BannerInterno from '../components/BannerInterno.vue'
 export default {
   name: 'Tema2',
+  components: {
+    BannerInterno,
+  },
   data: () => ({
     // variables de vue
   }),

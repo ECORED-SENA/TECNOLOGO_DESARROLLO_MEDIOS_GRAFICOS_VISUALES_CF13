@@ -184,6 +184,23 @@ caption
     background-color: #EBF4FD
 
 
+  
+.imagen-adornos-flotantes
+  position: relative
+  &__img
+    img
+      position: absolute
+      z-index: 99
+      animation: float 3s ease-in-out infinite alternate
+
+@keyframes float
+  0%
+    transform: translateY(10px)
+
+  100%
+    transform: translateY(0px)
+
+
 
 
 

@@ -299,8 +299,12 @@
 </template>
 
 <script>
+import BannerInterno from '../components/BannerInterno.vue'
 export default {
   name: 'Tema3',
+  components: {
+    BannerInterno,
+  },
   data: () => ({
     mostrarIndicador: true,
   }),
