@@ -15,7 +15,7 @@
         figure.mb-0
           img(src='@/assets/curso/tema3/img01.png') 
       .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
-        p.mb-0 Existen diversos tipos de publicaciones que se distribuyen con diferente periodicidad, las publicaciones periódicas salen al mercado de una manera regular, ya sea diaria, semanal, quincenal o mensual; dentro de estas publicaciones se encuentran por ejemplo los libros y las revistas. <font class="color-1"><b>Estas publicaciones sirven para difundir el conocimiento, información en diversos contextos, cultura, y noticias de interés.</b></font>
+        p.mb-0 Existen diversos tipos de publicaciones que se distribuyen con diferente periodicidad, las publicaciones periódicas salen al mercado de una manera regular, ya sea diaria, semanal, quincenal o mensual; dentro de estas publicaciones se encuentran por ejemplo los libros y las revistas. <b>Estas publicaciones sirven para difundir el conocimiento, información en diversos contextos, cultura, y noticias de interés.</b>
 
     p.mb-5 Para comprender en profundidad algunas diferencias entre las publicaciones impresas y electrónicas, revise la siguiente tabla 2:
 
@@ -58,7 +58,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
         
-        p.mb-5 <font class="color-1">El ebook o libro en formato digital o electrónico, está diseñado para poder ser leído en cualquier dispositivo electrónico, tiene muchas similitudes con un libro impreso,</font> sin embargo, las publicaciones en medios digitales presentan las siguientes ventajas frente a las impresas:
+        p.mb-5 <b>El <i>ebook</i> o libro en formato digital o electrónico, está diseñado para poder ser leído en cualquier dispositivo electrónico, tiene muchas similitudes con un libro impreso,</b> sin embargo, las publicaciones en medios digitales presentan las siguientes ventajas frente a las impresas:
         ul.lista-ul--color                  
           li 
             i.fas.fa-square 
@@ -128,7 +128,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
 
-        p.mb-0 La revista electrónica utiliza recursos multimedia y presenta las mismas características de la revista tradicional, se distribuye en el mercado con un periodo regular, contiene una portada, contraportada, parte editorial, índice, fotos, textos, artículos, anuncios, publicidad, ilustraciones etc. <font class="color-1">Este tipo de publicación puede ser presentada en diferentes formatos como el PDF, HTML, EPUB, entre otros. Una revista puede ser:</font> 
+        p.mb-0 La revista electrónica utiliza recursos multimedia y presenta las mismas características de la revista tradicional, se distribuye en el mercado con un periodo regular, contiene una portada, contraportada, parte editorial, índice, fotos, textos, artículos, anuncios, publicidad, ilustraciones etc. <b>Este tipo de publicación puede ser presentada en diferentes formatos como el PDF, HTML, EPUB, entre otros. Una revista puede ser:</b> 
       .col-lg-6.d-flex.align-items-center
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img04.png') 
@@ -189,7 +189,8 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
 
         p.mb-4 Las presentaciones digitales son productos multimedia, realizados en computador, que contienen diapositivas (<i>slide</i>) con información relevante de un tema en particular, casi siempre una presentación es un documento en el cual se debe incluir mucha información, por este motivo es preciso definir la información más relevante a presentar, la cual debe ser clara y concisa, utilizando la menor cantidad de textos, e integrando otros recursos como imágenes, fotografías, esquemas, videos, entre otros.
-        p.mb-4.color-1 La presentación se ayuda de una guía o índice para seguir un orden estipulado, requiere de un trabajo previo de investigación, en donde todos los datos deben ser concretos, claros y verídicos, ya que por lo general su desarrollo se enmarca especialmente en el área laboral y académica. Un ejemplo son las presentaciones que se realizan para una exposición, utilizando el programa Power Point. 
+        div.p-4.mb-4(style="background-color: #FFF5E5")
+          p.mb-0 La presentación se ayuda de una guía o índice para seguir un orden estipulado, requiere de un trabajo previo de investigación, en donde todos los datos deben ser concretos, claros y verídicos, ya que por lo general su desarrollo se enmarca especialmente en el área laboral y académica. Un ejemplo son las presentaciones que se realizan para una exposición, utilizando el programa Power Point. 
         p.mb-0 Un elemento clave en el desarrollo de las presentaciones es la parte visual, fotografías, imágenes y videos que permiten complementar el contenido y motivan al espectador frente al tema que se está desarrollando; la comunicación multimedia ayuda a la organización de todos los componentes que conforman la presentación para facilitar su navegación y posterior divulgación, la integración de sonido conecta al participante con el contexto general de la presentación.
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")      
@@ -204,7 +205,7 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
 
         p.mb-4 El catálogo es una pieza netamente comercial que utilizan las empresas para dar a conocer sus productos, bienes o servicios y con ello generar ventas. Esta pieza depende de la calidad de la imagen ya que los productos mostrados no se pueden medir, probar o tocar, solo se puede mirar.  Los catálogos de ventas electrónicos son elementos de marketing directo, son muy utilizados pues ahorran a las empresas millones de pesos en publicidad y ayudan con el cuidado del medio ambiente. 
-        b.mb-0.color-1 Las características principales para que esta pieza gráfica funcione de manera eficaz y adecuada son:        
+        b.mb-0 Las características principales para que esta pieza gráfica funcione de manera eficaz y adecuada son:        
       .col-lg-6.d-flex.align-items-center
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema3/img10.png') 
@@ -280,7 +281,7 @@
             i.fas.fa-square 
             | Al apilarlas se ahorra espacio; se pueden agrupar y/o desplegar para ser utilizadas en el momento en el que sean requeridas.
     
-        p.mb-0 <b class="color-1">La funcionalidad de este tipo de diseño es limitada.</b> Por tanto, no es una buena idea para la promoción y/o venta de un amplio catálogo de productos, por ejemplo. Sin embargo, representa una forma actualizada a las necesidades del usuario en línea y su tendencia al uso de dispositivos móviles.
+        p.mb-0 <b>La funcionalidad de este tipo de diseño es limitada.</b> Por tanto, no es una buena idea para la promoción y/o venta de un amplio catálogo de productos, por ejemplo. Sin embargo, representa una forma actualizada a las necesidades del usuario en línea y su tendencia al uso de dispositivos móviles.
     
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-7
@@ -295,10 +296,9 @@
           li 
             i.fas.fa-square 
             | Si el contenido condensa información clave junto con imágenes de alta resolución para hacer la navegación más dinámica y fluida.
-      
-        .tema2
-          .cajon.color-acento-contenido.p-4       
-            p.mb-0.color-1 Al igual que el consumidor promedio, el usuario de un sitio <i>web</i> no pretende únicamente encontrarse con opciones de productos, sino que, de manera inconsciente busca involucrarse emocionalmente con estos. englobando esto en un concepto simple y de gran utilidad en la <i>web</i>, se puede decir que las emociones se comparten para que los productos sean consumidos.
+              
+        div.p-4.mb-4(style="background-color: #FFF5E5")
+            p.mb-0 Al igual que el consumidor promedio, el usuario de un sitio <i>web</i> no pretende únicamente encontrarse con opciones de productos, sino que, de manera inconsciente busca involucrarse emocionalmente con estos. englobando esto en un concepto simple y de gran utilidad en la <i>web</i>, se puede decir que las emociones se comparten para que los productos sean consumidos.
         
         .tema3
           .bloque-texto-d.color-secundario.p-4
