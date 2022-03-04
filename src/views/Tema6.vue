@@ -33,8 +33,11 @@
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
       .row.justify-content-start(style="position:relative; width:103%; height:100%;")
         .col-lg-5
-          figure.mb-0
-            img(src='@/assets/curso/tema6/img03.png')         
+          .imagen-adornos-flotantes
+            img(src='@/assets/curso/tema6/img03.png')  
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0% ; right:  ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 30%; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: 20% ; top: ; bottom: 10% ; width: 60px ")             
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
@@ -93,13 +96,19 @@
         p.mb-4 El diseño UI o interfaz de usuario, por el contrario, es el proceso mediante el cual se pueden definir los elementos correspondientes a crear interfaces entre las personas y los diferentes dispositivos digitales, resaltando no solo la parte visual, en cuanto a forma, función y utilidad, sino guiando al usuario durante toda su experiencia de una manera fácil y amigable en su uso. Su función principal es la de mejorar la experiencia del usuario. 
         p.mb-0.color-1 Las nuevas tecnologías también afectan al diseño, por eso en el diseño UI, es fundamental la experiencia del usuario digital en cuanto a la parte visual en la navegación, y a las interfaces con las que interactúe, preferiblemente utilizando el menor número de pantallas.
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img08.png') 
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img09.png') 
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0% ; right:  ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 0%; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 10% ; width: 60px ")      
       .col-lg-6       
         .tema2.mb-5
           .cajon.color-acento-contenido.p-4       
@@ -125,8 +134,11 @@
             i.fas.fa-square 
             | Además, conocer de diseños y guías de estilo, como los colores, diseños de tipografías y todo el entorno de diseño.   
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img10.png') 
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
     Separador
 
@@ -139,8 +151,11 @@
         p.mb-4.color-1  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
         p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el Card sorting, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img11.png') 
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
     p.mb-3 Para lograr un diseño de página o sitio web de gran calidad, es necesario considerar las fases que a continuación se describen:
     TabsC.color-primario
@@ -151,8 +166,11 @@
             p.mb-4 Se debe iniciar por dar respuesta a los siguientes interrogantes: ¿por qué es necesario la creación del sitio <i>web</i> y para qué se necesita?, ¿qué buscarán los usuarios y qué imagen se quiere causar en ellos?, ¿qué recursos se tienen, y cuánto tiempo se requerirá para su creación?
             p.mb-0 Los objetivos deben ser medibles, por lo tanto, es importante determinar o segmentar el tipo clases o perfiles de usuarios que tendrá el sitio <i>web</i>, pues con base en ello se delimitan los criterios de diseño y contenido, así como el lenguaje que se utilizará y la estética del sitio <i>web</i>.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img12.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
       .p-4.fondo-gris(titulo="Planificación")
         .row.justify-content-center(data-aos="zoom-in-up")
@@ -160,8 +178,11 @@
             p.mb-4.color-1 <b>Planificación</b>
             p.mb-0 Hace referencia a los requerimientos técnicos que sean necesarios, definición del equipo de trabajo, estructura o interrelación de las páginas en el sitio <i>web</i>, así mismo, estudios de mercadeo. Se incluye también otros aspectos como: selección del <i>software</i> (licenciado), sistemas operativos a usar, editor de páginas <i>web</i>, lenguajes de programación, esquemas de páginas o planos de pantalla, animaciones, entre otros aspectos. Si el sitio <i>web</i> se publica en Internet, debe reservarse el dominio y solicitar el servicio de hospedaje en empresas que prestan estos servicios.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img13.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
       .p-4.fondo-gris(titulo="<i>Benchmarking</i>")
         .row.justify-content-center(data-aos="zoom-in")
@@ -169,8 +190,11 @@
             p.mb-4.color-1 <b><i>Benchmarking</i></b>
             p.mb-0 Es un proceso mediante el cual se toman “comparadores” o “benchmark”, que permiten realizar un análisis comparativo frente a otros productos y servicios de empresas líderes en el mismo sector de mercado, a fin de implementar mejoras o buenas prácticas.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img14.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
       .p-4.fondo-gris(titulo="Estructura de navegación")
         .row.justify-content-center(data-aos="zoom-in-up")
@@ -178,8 +202,11 @@
             p.mb-4.color-1 <b>Estructura de navegación</b>
             p.mb-0 Un sitio <i>web</i> bien diseñado debe tener una estructura precisa y sus páginas deben estar interrelacionadas. A la página principal se vinculan las demás mediante enlaces con códigos HTML. Existen varios tipos de estructura de navegación: Estructura lineal, estructura jerárquica, estructura radial y estructura de red.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img15.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
       .p-4.fondo-gris(titulo="Costos de inversión")
         .row.justify-content-center(data-aos="zoom-in")
@@ -187,8 +214,11 @@
             p.mb-4.color-1 <b>Costos de inversión</b>
             p.mb-0 Es el estudio de viabilidad que refleja la cantidad de dinero a invertir, se tendrán en cuenta aspectos como el tiempo que se requiere, el personal, el dominio y hospedaje <i>web</i>, las licencias y el mantenimiento requerido.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img16.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
 
       .p-4.fondo-gris(titulo="Beneficios a obtener")
         .row.justify-content-center(data-aos="zoom-in-up")
@@ -196,8 +226,11 @@
             p.mb-4.color-1 <b>Beneficios a obtener</b>
             p.mb-0 Es vital medir el tiempo de retorno de la inversión, que puede ser tangible en forma de dinero.
           .col-lg-5
-            figure.mb-0
+            .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img17.png') 
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0%  ; right: ; top:0% ; bottom: ; width: 60px ")
+              .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 10% ; width: 60px ")      
     Separador
 
     #t_6_4.titulo-segundo.color-acento-contenido
@@ -213,56 +246,77 @@
               h3.mb-5.color-1 Trabajo de un equipo interdisciplinario
               p.mb-0 Contar con un ingeniero de sistemas, un diseñador, expertos en mercadeo, personas expertas en redacción y comunicación, y demás personas que aporten a través de sus ideas para lograr el éxito del mismo.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img18.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
           
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Cronograma 
               p.mb-0 En el que se pueden desarrollar actividades lineales o paralelas, en algunas oportunidades al revisar el progreso, se detectan errores y se hace necesario retroceder en el trabajo. Los proyectos usualmente crecen, se nutre de información y deben mantenerse actualizados.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img19.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Interacción con los clientes o usuarios <i>web</i>
               p.mb-0 Para tener en cuenta sus necesidades y opinión frente al producto o servicio ofrecido; el trabajo de la mano con el cliente o usuarios propenderá su fidelización.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img20.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Reunir información
               p.mb-0 Buscar, observar y analizar la información necesaria que permita lograr una conceptualización sobre temas que se espera abordar con el servicio <i>web</i>, además de tener en cuenta la normatividad vigente relacionada con estas.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img21.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Objetivos claros y precisos
               p.mb-0 Que pueden modificarse en el tiempo, es decir determinar la misión del proyecto, que debe orientarse a satisfacer las necesidades del usuario digital. Para ello también es vital, conocer el tipo de persona a la cual va dirigida, entre mayor conocimiento se tenga de los usuarios mayor será el éxito.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img22.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Segmentación del usuario 
               p.mb-0 Conocer sus intereses, el estrato socioeconómico, la edad, las creencias y orientaciones culturales, ya que, por ejemplo, no es lo mismo diseñar una página para adolescentes colombianos que diseñar una página para adultos hindúes.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img23.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Retroalimentación
               p.mb-0 A través de encuestas, mediciones de impacto, así como las preguntas de los usuarios, para ir mejorando la calidad de la página y concretar unos mejores resultados.
             .col-lg-6
-              figure(data-aos="zoom-in-up")
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema6/img24.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
           .row.mb-0
             .col-lg-6
@@ -271,6 +325,9 @@
             .col-lg-6
               figure(data-aos="zoom-in-up")
                 img(src='@/assets/curso/tema6/img25.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  10% ; top: ; bottom: 15% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     p.mb-5 Teniendo en cuenta la organización y planificación es preciso determinar el contenido de la página <i>web</i> de la siguiente forma.
     
@@ -278,11 +335,17 @@
       .col-lg-6
         p.mb-4 Es preciso determinar el lenguaje y la redacción deben estar acordes con los requerimientos de la <i>web</i>. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
         p.mb-4.color-1 La información debe tener una estructura lógica y ordenada; sin embargo, en la página <i>web</i> la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.
-        figure
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema6/img27.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
-        figure
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema6/img28.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right:  3% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -4%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
         p.mb-4 Verificar la navegación, revisando varias posibilidades como menús con teclas o desplegables, cenefa horizontal o lateral, barra de navegación, etc. Se determinará la imagen corporativa, mediante imágenes o logotipos, la paleta de colores, tipos y tamaños de fuente, así como la estructura gráfica por niveles y jerarquía, estructura de encabezados y de los pies de página.
         p.mb-0.color-1 Pueden utilizarse algunos recursos como, la dramatización o producción de ficción que consiste en contar creativamente o inventar una historia, recurso utilizado por las agencias comerciales y que es atractiva para el público; se puede recurrir también a la producción documental basado en la realidad, o a la producción de video creación que es un cortometraje experimental.  
     
@@ -302,8 +365,11 @@
     
     .row.justify-content-center.mb-0(data-aos="zoom-in-up")
       .col-lg-4.d-flex
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema6/img30.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-8.d-flex.align-items-center.p-0
         div.p-4(style="background-color:#F6F6F6")
           p.mb-4 Se pueden encontrar en el mercado, sistemas de gestión de contenido conocidos por sus siglas como CMS, y son estos, softwares que ayudan a los usuarios a crear, administrar y domificar contenido de un sitio WEB, sin la necesidad de conocimientos de programación, siendo lenguajes mucho más simples, transformándose en herramientas necesarias si se piensan construir proyectos desde cero y sin el conocimiento especializado. 
