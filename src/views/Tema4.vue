@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-7.d-flex.align-items-center
         div
-          p.mb-4 Todo proyecto nace con la necesidad de resolver, generar o ejecutar una idea en particular. Este momento de creación es llamado preproducción y comprende en este caso la creación de diferentes componentes como el guion y el <i>storyboard</i>. <b class="color-1">Esta fase permite reconocer cuáles herramientas y recursos serán necesarios, para el desarrollo del proyecto en general.</b> 
+          p.mb-4 Todo proyecto nace con la necesidad de resolver, generar o ejecutar una idea en particular. Este momento de creación es llamado preproducción y comprende en este caso la creación de diferentes componentes como el guion y el <i>storyboard</i>. <b>Esta fase permite reconocer cuáles herramientas y recursos serán necesarios, para el desarrollo del proyecto en general.</b> 
           p.mb-0 La siguiente figura 1 presenta los pasos a seguir en preproducción, de un proyecto gráfico, desde el inicio del proyecto hasta las decisiones y acciones tomadas previas a su ejecución. 
       .col-lg-5.d-flex.align-items-center
         .imagen-adornos-flotantes
@@ -31,7 +31,7 @@
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 Necesidad
-              p.mb-0 La necesidad se encuentra enmarcada en la carencia o falta de algo, a partir de allí crear un nuevo proyecto editorial respondiendo a los interrogantes: <font class="color-1">¿qué?, ¿para quién?, ¿cuándo?, ¿cuánto?, ¿cómo?, ¿en qué medio?, etc.</font>
+              p.mb-0 La necesidad se encuentra enmarcada en la carencia o falta de algo, a partir de allí crear un nuevo proyecto editorial respondiendo a los interrogantes: <b>¿qué?, ¿para quién?, ¿cuándo?, ¿cuánto?, ¿cómo?, ¿en qué medio?, etc.</b>
             .col-lg-6
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img03.png') 
