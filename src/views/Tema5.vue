@@ -12,7 +12,7 @@
       .col-lg-4.d-flex
         div
           p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1"><b>UX</b></font> (<i>User Expirence</i> en inglés, o experiencia de usuario ) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
-          p.mb-0.color-1 La arquitectura de la información busca básicamente el ordenamiento de todos los datos disponibles para que el usuario de manera lógica y ordenada realice la búsqueda de forma más rápida, fácil, ágil y dinámica.
+          b.mb-0 La arquitectura de la información busca básicamente el ordenamiento de todos los datos disponibles para que el usuario de manera lógica y ordenada realice la búsqueda de forma más rápida, fácil, ágil y dinámica.
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema5/img01.svg') 
@@ -36,7 +36,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-7
         p.mb-4 Se puede afirmar que cuando se habla de la arquitectura de la información se debe pensar en jerarquías, categorías y todos los elementos que puedan estar a beneficio de los usuarios, de su buena navegación e interactividad; es importante que se aprecie como un recurso indispensable, ya que a primera vista podría parecer un tema sin mucha relevancia, y su importancia va más allá de una simple organización. 
-        p.mb-4 Según Steven Krug autor del libro <b class="color-1">“No me Hagas Pensar”</b>; existen cuatro preguntas que el usuario continuamente hace al momento de ingresar a un sitio
+        p.mb-4 Según Steven Krug autor del libro <b>“No me Hagas Pensar”</b>; existen cuatro preguntas que el usuario continuamente hace al momento de ingresar a un sitio
         figure.mb-0
           img(src='@/assets/curso/tema5/img04.svg') 
       .col-lg-5
@@ -55,7 +55,8 @@
       .col-lg-7.d-flex.align-items-center
         div
           p.mb-4 De esta forma se evitan daños como las migraciones de usuarios insatisfechos o quejas por reclamos de fallas en funcionalidades o malas interconexiones, esto no solo genera un mal concepto de marca, sino que genera confusión y duda sobre sus acciones, generando y asociando sensaciones negativas que desestiman y desvalorizan la compañía.
-          p.color-1.mb-4 <b>Teniendo en cuenta las preguntas a las que se debe reaccionar se deben entender estos conceptos que ayudarán a enfatizar los esfuerzos requeridos en cada uno de los campos a reaccionar, estos conceptos serán pilares que variarán según las necesidades, el negocio o los logros a alcanzar.</b>
+          div.p-4.mb-4(style="background-color: #FFF5E5")
+            p.mb-0 <b>Teniendo en cuenta las preguntas a las que se debe reaccionar se deben entender estos conceptos que ayudarán a enfatizar los esfuerzos requeridos en cada uno de los campos a reaccionar, estos conceptos serán pilares que variarán según las necesidades, el negocio o los logros a alcanzar.</b>
           p.mb-0 Por tanto, se pueden resumir estos tres grandes temas que hacen parte de la IA (<i>Information Architecture</i>, por sus siglas en inglés) o Arquitectura de la información.
 
     //- .row.justify-content-center.mb-5
@@ -184,7 +185,7 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
         
         p.mb-4 La IA concluye con la documentación que permite la detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan <i>software</i> especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
-        p.mb-4 <font class="color-1">A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos.</font>        
+        p.mb-4 A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos. 
         p.mb-0 Cada proceso tendrá su propio flujo de interacciones y evaluará la correcta funcionalidad y usabilidad del proyecto. 
       .col-lg-6.d-flex.align-items-center
         .imagen-adornos-flotantes
@@ -198,7 +199,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido
       h2 5.1 Evaluación heurística o usabilidad
 
-    .row.justify-content-start.mb-0(data-aos="zoom-in-up")
+    .row.justify-content-start.mb-4(data-aos="zoom-in-up")
       .col-lg-6        
         p.mb-5 Luego de la implementación de la arquitectura de información por medio del uso de tarjetas, el proceso de evaluación heurística o metodología de inspección en experiencia de usuario busca identificar y resolver aquellas problemáticas presentes en la usabilidad de los componentes de un producto, teniendo como principal objetivo medir la facilidad de uso, que se centra en el conocimiento del diseño y la experiencia de usuario. 
         .row.justify-content-start.mb-4
@@ -218,7 +219,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 10% ; width: 60px ")      
     
-    p.mb-5.color-1 Las heurísticas o el conjunto de técnicas o métodos para resolver un problema” del griego “hallar, inventar”, son una serie de elementos a tener en cuenta al momento de evaluar el diseño de las interfaces de usuario, recopiladas por el ingeniero Jakob Nielsen:
+    p.mb-5 Las heurísticas o el conjunto de técnicas o métodos para resolver un problema” del griego “hallar, inventar”, son una serie de elementos a tener en cuenta al momento de evaluar el diseño de las interfaces de usuario, recopiladas por el ingeniero Jakob Nielsen:
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-4
@@ -319,7 +320,7 @@
       .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
         div 
           p.mb-4 Existen diferentes tipos de flujogramas, se encuentran en formato vertical, horizontal, panorámico, arquitectónico y de bloques. Las principales ventajas de este tipo de elementos es que ayudan a conectar diversas ideas en torno a la productividad del proyecto a ejecutar, al ser un elemento tan visual, es de mejor entendimiento para el equipo de producción. 
-          p.mb-0.color-1 En su realización se van presentando los problemas y oportunidades y conexiones que surgen a partir del proceso de observación, los que serán ubicados en estos diagramas.
+          b.mb-0 En su realización se van presentando los problemas y oportunidades y conexiones que surgen a partir del proceso de observación, los que serán ubicados en estos diagramas.
     
     p.mb-5.text-center Los flujogramas utilizan símbolos y convenciones para su mayor entendimiento y uso, ver tabla 3.
     
