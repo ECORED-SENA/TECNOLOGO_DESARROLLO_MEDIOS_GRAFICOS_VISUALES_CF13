@@ -10,7 +10,7 @@
 
     .row.justify-content-center
       .col-lg-7
-        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <font class="color-1"><b>UX</b></font> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <font class="color-1"><b>UI</b></font>, vienen de User Interface o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
+        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <b>UX</b> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <b>UI</b>, vienen de User Interface o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
       .col-lg-5
         figure.mb-0
           img(src='@/assets/curso/tema6/img01.png') 
@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-5
       .col-lg-5.d-flex
         div
-          p.mb-0 Las nuevas tecnologías hacen que se tengan grandes avances y cambios no solo en la vida cotidiana sino también en el diseño interactivo de publicaciones; <font class="color-1">junto con el progreso de la tecnología se introducen nuevas palabras y conceptos como la “experiencia de usuario” o sus siglas en inglés UX, que se centra en la experiencia y el grado de satisfacción que percibe el usuario al interactuar con un producto tecnológico.</font> 
+          p.mb-0 Las nuevas tecnologías hacen que se tengan grandes avances y cambios no solo en la vida cotidiana sino también en el diseño interactivo de publicaciones; junto con el progreso de la tecnología se introducen nuevas palabras y conceptos como la “experiencia de usuario” o sus siglas en inglés UX, que se centra en la experiencia y el grado de satisfacción que percibe el usuario al interactuar con un producto tecnológico.
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema6/img02.svg') 
@@ -77,7 +77,7 @@
           img(src='@/assets/curso/tema6/img06.png') 
 
     p.mb-4 ¿Cómo se puede lograr esta experiencia?
-    p.mb-4.color-1 Una buena UX, se logra enfocándose en el cliente y en conocer las necesidades de ellos, alineando al proyecto y a la empresa, para cumplir los objetivos planteados, sin descuidar sus limitaciones tanto técnicas como monetarias.    
+    p.mb-4 <b>Una buena UX, se logra enfocándose en el cliente y en conocer las necesidades de ellos, alineando al proyecto y a la empresa, para cumplir los objetivos planteados, sin descuidar sus limitaciones tanto técnicas como monetarias.</b>    
     p.mb-4 El UX <i>Designer</i> o diseñador de la experiencia de usuario debe concentrar su conocimiento en desarrollar aspectos como:
 
     div(style="background-color: #E2F4F6")
@@ -94,7 +94,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-6
         p.mb-4 El diseño UI o interfaz de usuario, por el contrario, es el proceso mediante el cual se pueden definir los elementos correspondientes a crear interfaces entre las personas y los diferentes dispositivos digitales, resaltando no solo la parte visual, en cuanto a forma, función y utilidad, sino guiando al usuario durante toda su experiencia de una manera fácil y amigable en su uso. Su función principal es la de mejorar la experiencia del usuario. 
-        p.mb-0.color-1 Las nuevas tecnologías también afectan al diseño, por eso en el diseño UI, es fundamental la experiencia del usuario digital en cuanto a la parte visual en la navegación, y a las interfaces con las que interactúe, preferiblemente utilizando el menor número de pantallas.
+        p.mb-0 Las nuevas tecnologías también afectan al diseño, por eso en el diseño UI, es fundamental la experiencia del usuario digital en cuanto a la parte visual en la navegación, y a las interfaces con las que interactúe, preferiblemente utilizando el menor número de pantallas.
       .col-lg-6
         .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img08.png') 
@@ -148,7 +148,8 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6
         p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudio previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
-        p.mb-4.color-1  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
+        div.p-4.mb-4(style="background-color: #FFF5E5")
+          p.mb-0  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
         p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el Card sorting, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
       .col-lg-6
         .imagen-adornos-flotantes
@@ -334,7 +335,7 @@
     .row.mb-0(data-aos="zoom-in-up")
       .col-lg-6
         p.mb-4 Es preciso determinar el lenguaje y la redacción deben estar acordes con los requerimientos de la <i>web</i>. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
-        p.mb-4.color-1 La información debe tener una estructura lógica y ordenada; sin embargo, en la página <i>web</i> la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.
+        p.mb-4 <b>La información debe tener una estructura lógica y ordenada; sin embargo, en la página <i>web</i> la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.</b>
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema6/img27.png') 
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
@@ -347,7 +348,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -4%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
         p.mb-4 Verificar la navegación, revisando varias posibilidades como menús con teclas o desplegables, cenefa horizontal o lateral, barra de navegación, etc. Se determinará la imagen corporativa, mediante imágenes o logotipos, la paleta de colores, tipos y tamaños de fuente, así como la estructura gráfica por niveles y jerarquía, estructura de encabezados y de los pies de página.
-        p.mb-0.color-1 Pueden utilizarse algunos recursos como, la dramatización o producción de ficción que consiste en contar creativamente o inventar una historia, recurso utilizado por las agencias comerciales y que es atractiva para el público; se puede recurrir también a la producción documental basado en la realidad, o a la producción de video creación que es un cortometraje experimental.  
+        p.mb-0 <b>Pueden utilizarse algunos recursos como, la dramatización o producción de ficción que consiste en contar creativamente o inventar una historia, recurso utilizado por las agencias comerciales y que es atractiva para el público; se puede recurrir también a la producción documental basado en la realidad, o a la producción de video creación que es un cortometraje experimental.</b>  
     
     Separador
     
@@ -373,7 +374,7 @@
       .col-lg-8.d-flex.align-items-center.p-0
         div.p-4(style="background-color:#F6F6F6")
           p.mb-4 Se pueden encontrar en el mercado, sistemas de gestión de contenido conocidos por sus siglas como CMS, y son estos, softwares que ayudan a los usuarios a crear, administrar y domificar contenido de un sitio WEB, sin la necesidad de conocimientos de programación, siendo lenguajes mucho más simples, transformándose en herramientas necesarias si se piensan construir proyectos desde cero y sin el conocimiento especializado. 
-          p.mb-0.color-1 Estos gestores proporcionan entornos posibles a actualizaciones y mantenimientos sin la necesidad de otros usuarios, ni el conocimiento técnico para su manipulación.    
+          p.mb-0 <b>Estos gestores proporcionan entornos posibles a actualizaciones y mantenimientos sin la necesidad de otros usuarios, ni el conocimiento técnico para su manipulación.</b>    
 </template>
 
 <script>

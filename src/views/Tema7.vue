@@ -10,7 +10,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.d-flex
-        p.mb-0 La diagramación o maquetación, es el proceso mediante el cual se organizan textos, imágenes, en algunos casos medios audiovisuales, entre otros, dentro de un espacio determinado. <font class="color-1">Estos elementos pueden ser organizados para productos impresos o electrónicos, como libros, revistas, diarios, entre otros.</font>  
+        p.mb-0 La diagramación o maquetación, es el proceso mediante el cual se organizan textos, imágenes, en algunos casos medios audiovisuales, entre otros, dentro de un espacio determinado. <b >Estos elementos pueden ser organizados para productos impresos o electrónicos, como libros, revistas, diarios, entre otros.</b>  
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema7/img01.png') 
@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-0(data-aos="zoom-in-up")
       .col-lg-6
         p.mb-4 El diseño en herramientas digitales, se basa en los pilares de la comunicación visual y el uso de herramientas de medios digitales. Se identifica como un elemento editorial de carácter creativo, el cual  no solo busca generar material de lectura, sino también incluir objetos visuales que facilitan y dinamizan la consulta de la información, a fin de comunicar y transmitir un mensaje claro y específico, para esto se debe tener en cuenta los siguientes factores que ayudan a simplificar y tener éxito en una publicación de carácter digital, a nivel comercial, y  ajustándose a las tendencias influenciadas por el diseño y la tecnología.
-        p.mb-0.color-1 Los elementos que se deberán tener en cuenta y que son parte fundamentas en el diseño, el cual será un elemento identificador en todos los proyectos a realizar son los siguientes:
+        p.mb-0 <b>Los elementos que se deberán tener en cuenta y que son parte fundamentas en el diseño, el cual será un elemento identificador en todos los proyectos a realizar son los siguientes:</b>
       .col-lg-6
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img02.png') 
@@ -138,7 +138,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
         p.mb-4 En diseño de publicaciones digitales que se distribuyen en la <i>web</i>, es de vital importancia el buen manejo y uso de las imágenes, en cuanto a su calidad y resolución. 
-        p.mb-4.color-1 El uso de formatos adecuados, una excelente resolución y calidad son de vital importancia, ya que con los avances y mejoras en HTML5 y CSS3 y su compatibilidad con diversos navegadores, permiten una mejor calidad y usabilidad de los componentes.
+        p.mb-4 <b>El uso de formatos adecuados, una excelente resolución y calidad son de vital importancia, ya que con los avances y mejoras en HTML5 y CSS3 y su compatibilidad con diversos navegadores, permiten una mejor calidad y usabilidad de los componentes.</b>
         p.mb-0 La propuesta gráfica y los recursos deben mantener siempre el mismo estilo, de igual manera asegurar que la armonía entre contenido e imagen, correspondan con el producto editorial.   Las imágenes pueden ser de carácter propio, de galerías pagas, por las cuales se realiza un pago para su uso, o bancos de imágenes gratis autorizados.
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
@@ -216,7 +216,8 @@
               .col-lg-2.p-0(style="position:relative; height:10px")
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
-        p.mb-0 El guion literario es una herramienta secuencial en del desarrollo de productos multimedia, está enmarcada en el diseño mismo de aplicabilidad, en la creación y concepto del producto.  Se necesita un guion literario para describir paso a paso el contenido total de un proyecto, que exprese en forma detallada lo que se quiere transmitir, es decir el mensaje, por lo que es preciso investigar y preparar la historia. Describe las diversas situaciones, los diálogos, las acciones en la historia a contar. <font class="color-1">Este guion podrá ser de ficción o realidad, en esta última clasificación se encuentran los guiones informativos, los de formación y de opinión, los cuales sirven para evitar incongruencias, nerviosismo, titubeos, coletillas, etc.; enfocándose en el tema y logrando precisión en el desarrollo de la historia.</font>
+        p.mb-4 El guion literario es una herramienta secuencial en del desarrollo de productos multimedia, está enmarcada en el diseño mismo de aplicabilidad, en la creación y concepto del producto.  Se necesita un guion literario para describir paso a paso el contenido total de un proyecto, que exprese en forma detallada lo que se quiere transmitir, es decir el mensaje, por lo que es preciso investigar y preparar la historia. Describe las diversas situaciones, los diálogos, las acciones en la historia a contar. 
+        p.mb-0 Este guion podrá ser de ficción o realidad, en esta última clasificación se encuentran los guiones informativos, los de formación y de opinión, los cuales sirven para evitar incongruencias, nerviosismo, titubeos, coletillas, etc.; enfocándose en el tema y logrando precisión en el desarrollo de la historia.
       .col-lg-6
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img12.png') 
@@ -241,7 +242,7 @@
                 figure.p-0.m-0.cubo-titulo
                   img.m-0(src='@/assets/curso/cubo.svg') 
         p.mb-4 El <i>storyboard</i> o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
-        p.mb-4.color-1 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
+        p.mb-4 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
         p.mb-0 El <i>story</i> sirve principalmente para realizar un spot, guion de cine, anuncio o comercial.
        
     Separador
@@ -369,12 +370,12 @@
                     figure.p-0.m-0.cubo-titulo
                       img.m-0(src='@/assets/curso/cubo.svg') 
         p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
-        p.mb-0.color-1 Clasificación de tarjetas o el llamado Card sorting, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
+        p.mb-0 Clasificación de tarjetas o el llamado Card sorting, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
     
     .row.align-items-center.justify-content-center(data-aos="zoom-in-up") 
       .col-lg-7
         p.mb-4 Estudio de campo o investigación contextual, las pruebas de usabilidad necesitan más tiempo que la clasificación de tarjetas y consiste en ir directamente al contexto real de sus usuarios, es decir donde ellos probablemente usen su sitio <i>web</i> y mediante una entrevista no tan formal, se les pide que indiquen cómo realizan el proceso mientras interactúan con la pantalla. Hay retroalimentación directa del usuario lo cual es una gran ventaja; aunque en ocasiones el estudio de campo puede hacerse virtualmente, al aparecer resta espontaneidad al usuario.
-        p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio <i>web</i>.  <b class="color-1">Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio <i>web</i>, es decir, el nivel de consecución de nuestras metas y objetivos de la página <i>web</i>. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.</b>
+        p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio <i>web</i>.  Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio <i>web</i>, es decir, el nivel de consecución de nuestras metas y objetivos de la página <i>web</i>. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.
       .col-lg-5
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img22.png')
@@ -391,7 +392,7 @@
         p.mb-4 Un prototipo se conoce como un diseño de prueba y puede tomar la forma de un producto o modelo de negocio el cual se diseña y construye con el objeto de validar las ideas de manera fácil, rentable y efectiva, para verificar la viabilidad de producción o comercialización; lo cual permite corregir defectos antes de generar un producto final. En los procesos de innovación la construcción de un prototipo se convierte en una pieza fundamental para lograr medir y minimizar los riesgos. La validación se define como el proceso que determina la precisión con la cual el modelo computacional representa el modelo físico del mundo real. Existen diferentes tipos de prototipos los cuales se pueden evaluar de acuerdo con su estado de desarrollo.
         .tema2
           .cajon.color-acento-contenido.p-4       
-            p.mb-0.color-1 Existen prototipos denominados de inspiración, los cuales constituyen el primer bosquejo de desarrollo de una idea, también existen prototipos de evolución, este tipo de prototipos se derivan de los mejores prototipos de inspiración y se caracterizan por que requieren una mayor cantidad de tiempo y recursos para su fabricación debido a que se requiere un estado de avance que permita demostrar sus funcionalidades y ventajas de cara a las necesidades del cliente.
+            p.mb-0 Existen prototipos denominados de inspiración, los cuales constituyen el primer bosquejo de desarrollo de una idea, también existen prototipos de evolución, este tipo de prototipos se derivan de los mejores prototipos de inspiración y se caracterizan por que requieren una mayor cantidad de tiempo y recursos para su fabricación debido a que se requiere un estado de avance que permita demostrar sus funcionalidades y ventajas de cara a las necesidades del cliente.
       .col-lg-6
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img23.png')
@@ -408,7 +409,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
         p.mb-4 Una prueba de concepto permite la validación de los prototipos, cuando estos son sometidos a condiciones reales de operación. El objetivo de esta prueba es valorar el concepto de un resultado de investigación que puede dar origen a un producto, proceso o servicio nuevo o significativamente mejorado, antes de comenzar su desarrollo a nivel industrial y, por ende, su posterior incursión en el mercado. 
-        p.mb-0.color-1 El desarrollo de una prueba de concepto permite evaluar la utilidad, viabilidad y sostenibilidad de conocimientos e invenciones susceptibles de transferencia y capaces de impactar el desarrollo productivo. Permite reducir la incertidumbre y los riesgos asociados a la transferencia de conocimientos y de tecnologías, determinando el estado de desarrollo de los resultados de investigación y lo que estos deben superar para que estén listos desde la visión del mercado y las necesidades de la sociedad.
+        p.mb-0 El desarrollo de una prueba de concepto permite evaluar la utilidad, viabilidad y sostenibilidad de conocimientos e invenciones susceptibles de transferencia y capaces de impactar el desarrollo productivo. Permite reducir la incertidumbre y los riesgos asociados a la transferencia de conocimientos y de tecnologías, determinando el estado de desarrollo de los resultados de investigación y lo que estos deben superar para que estén listos desde la visión del mercado y las necesidades de la sociedad.
           
 </template>
 
