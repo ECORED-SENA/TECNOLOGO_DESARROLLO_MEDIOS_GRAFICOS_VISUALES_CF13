@@ -25,8 +25,11 @@
         p.mb-4 El diseño en herramientas digitales, se basa en los pilares de la comunicación visual y el uso de herramientas de medios digitales. Se identifica como un elemento editorial de carácter creativo, el cual  no solo busca generar material de lectura, sino también incluir objetos visuales que facilitan y dinamizan la consulta de la información, a fin de comunicar y transmitir un mensaje claro y específico, para esto se debe tener en cuenta los siguientes factores que ayudan a simplificar y tener éxito en una publicación de carácter digital, a nivel comercial, y  ajustándose a las tendencias influenciadas por el diseño y la tecnología.
         p.mb-0.color-1 Los elementos que se deberán tener en cuenta y que son parte fundamentas en el diseño, el cual será un elemento identificador en todos los proyectos a realizar son los siguientes:
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img02.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     .row.justify-content-start.mb-4
       .col-lg-2.py-0.border(style="background-color: #FDD835")            
@@ -86,8 +89,11 @@
               p.mb-4 El color puede ayudar a generar mayores ventas, ya que su impacto genera expectativa e interés. 
               p.mb-0 El color es uno de los elementos principales de cualquier tipo de diseño, ya que transmite, atrae y crea sensaciones en el espectador, para generar un buen impacto visual. 
             .col-lg-5
-              figure.mb-0
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema7/img04.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 8%  ; right: ; top:12% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -0%  ; right:  ; top: ; bottom: 3% ; width: 60px ")      
             .col-lg-1
           .row.align-items-center
             .col-lg-6
@@ -95,8 +101,11 @@
               p.mb-4 En la elección del color se debe tener en cuenta también la llamada psicología del color, que permite por medio de bases científicas, relacionar el color con sensaciones, sentimientos y emociones que generan en el individuo. 
               p.mb-0 La elección del color se puede realizar con base a las leyes compositivas y combinación de los mismos.
             .col-lg-5
-              figure.mb-0
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema7/img04.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 8%  ; right: ; top:12% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -0%  ; right:  ; top: ; bottom: 3% ; width: 60px ")      
             .col-lg-1
           .row.align-items-center
             .col-lg-6
@@ -105,14 +114,20 @@
               p.mb-4 La psicología del color en este tipo de piezas es fundamental en el desarrollo de las mismas.  
               p.mb-0 El círculo cromático es una herramienta valiosa para realizar buenas elecciones de combinación y uso del color.
             .col-lg-5
-              figure.mb-0
+              .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema7/img04.png') 
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 8%  ; right: ; top:12% ; bottom: ; width: 60px ")
+                .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -0%  ; right:  ; top: ; bottom: 3% ; width: 60px ")      
             .col-lg-1
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img05.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
         .row.justify-content-start.mb-4
           .col-lg-3.py-0.border(style="background-color: #FDD835")            
@@ -139,8 +154,11 @@
         p.mb-4 as animaciones, videos y demás elementos visuales con movimiento, hacen mucho más atractivo cualquier sitio <i>web</i>, sin embargo, representan algo de peso extra por sus características generales, se recomienda que no sobrepasen un 30 % ya que pueden causar saturación y lentitud, haciendo que la usabilidad de las páginas se reduzca y sean los usuarios los que decidan buscar otras opciones.
         p.mb-0 A continuación, algunos elementos de relevancia en el diseño como botones e íconos, retículas de diseño, columnas, <i>padding</i> y retícula <i>responsive</i>.
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img06.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     .tema-7
       TabsA.color-acento-botones.mb-5        
@@ -200,13 +218,19 @@
                   img.m-0(src='@/assets/curso/cubo.svg') 
         p.mb-0 El guion literario es una herramienta secuencial en del desarrollo de productos multimedia, está enmarcada en el diseño mismo de aplicabilidad, en la creación y concepto del producto.  Se necesita un guion literario para describir paso a paso el contenido total de un proyecto, que exprese en forma detallada lo que se quiere transmitir, es decir el mensaje, por lo que es preciso investigar y preparar la historia. Describe las diversas situaciones, los diálogos, las acciones en la historia a contar. <font class="color-1">Este guion podrá ser de ficción o realidad, en esta última clasificación se encuentran los guiones informativos, los de formación y de opinión, los cuales sirven para evitar incongruencias, nerviosismo, titubeos, coletillas, etc.; enfocándose en el tema y logrando precisión en el desarrollo de la historia.</font>
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img12.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     .row.align-items-center.justify-content-center(data-aos="zoom-in") 
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img13.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6        
         .row.justify-content-start.mb-4
           .col-lg-4.py-0.border(style="background-color: #FDD835")            
@@ -250,8 +274,11 @@
             | Aumenta las visitas e ingresos percibidos.
         p.mb-0 Las pruebas por parte de los usuarios, son técnicas creadas para evaluar como con los mismos usuarios las opciones de accesibilidad, usabilidad y demás información pertinente que solo el usuario de las páginas <i>web</i> es posible y es capaz de analizar, es información que es analizada directamente por los usuarios en tiempo real; en contraste a otras metodologías donde expertos son los encargados de evaluar las interfaces.
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img14.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
     
     p.mb-5 Las pruebas como su nombre lo indica es la posibilidad que un usuario en vez de realizar preguntas de ¿cómo resolverlo? O ¿Cómo hacerlo? Sea el mismo el encargado de resolver su pregunta.
     
@@ -317,8 +344,11 @@
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-4
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img21.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -8% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-8
         p.mb-4 Pasos para determinar la usabilidad de un sitio:
         .row.justify-content-start.mb-4
@@ -346,8 +376,11 @@
         p.mb-4 Estudio de campo o investigación contextual, las pruebas de usabilidad necesitan más tiempo que la clasificación de tarjetas y consiste en ir directamente al contexto real de sus usuarios, es decir donde ellos probablemente usen su sitio <i>web</i> y mediante una entrevista no tan formal, se les pide que indiquen cómo realizan el proceso mientras interactúan con la pantalla. Hay retroalimentación directa del usuario lo cual es una gran ventaja; aunque en ocasiones el estudio de campo puede hacerse virtualmente, al aparecer resta espontaneidad al usuario.
         p.mb-0 El rastreo ocular, es una técnica que sirve para determinar dónde está mirando un usuario, la página que elige, en qué orden se desplaza y el tiempo durante el cual mira. Se puede determinar dónde y cuándo se conectan los usuarios digitales de su sitio <i>web</i>.  <b class="color-1">Entre más intenso y fuerte el color del mapa, es mayor el tiempo que el usuario mira ese sector de la pantalla. Por medio de este proceso es más fácil entender la usabilidad y eficacia del sitio <i>web</i>, es decir, el nivel de consecución de nuestras metas y objetivos de la página <i>web</i>. Con base en el rastreo ocular, los investigadores y especialistas en marketing han podido determinar que la mayoría de las personas utilizan el patrón de la Z y de la F al mover sus ojos y recorrer la pantalla.</b>
       .col-lg-5
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img22.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     Separador
     #t_7_3.titulo-segundo.color-acento-contenido
@@ -360,13 +393,19 @@
           .cajon.color-acento-contenido.p-4       
             p.mb-0.color-1 Existen prototipos denominados de inspiración, los cuales constituyen el primer bosquejo de desarrollo de una idea, también existen prototipos de evolución, este tipo de prototipos se derivan de los mejores prototipos de inspiración y se caracterizan por que requieren una mayor cantidad de tiempo y recursos para su fabricación debido a que se requiere un estado de avance que permita demostrar sus funcionalidades y ventajas de cara a las necesidades del cliente.
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img23.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5%  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     .row.align-items-center.justify-content-center(data-aos="zoom-in") 
       .col-lg-6
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img24.png')
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%; right:   ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
         p.mb-4 Una prueba de concepto permite la validación de los prototipos, cuando estos son sometidos a condiciones reales de operación. El objetivo de esta prueba es valorar el concepto de un resultado de investigación que puede dar origen a un producto, proceso o servicio nuevo o significativamente mejorado, antes de comenzar su desarrollo a nivel industrial y, por ende, su posterior incursión en el mercado. 
         p.mb-0.color-1 El desarrollo de una prueba de concepto permite evaluar la utilidad, viabilidad y sostenibilidad de conocimientos e invenciones susceptibles de transferencia y capaces de impactar el desarrollo productivo. Permite reducir la incertidumbre y los riesgos asociados a la transferencia de conocimientos y de tecnologías, determinando el estado de desarrollo de los resultados de investigación y lo que estos deben superar para que estén listos desde la visión del mercado y las necesidades de la sociedad.
