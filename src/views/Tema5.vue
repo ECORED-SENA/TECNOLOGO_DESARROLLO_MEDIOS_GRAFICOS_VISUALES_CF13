@@ -22,8 +22,11 @@
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
       .row.justify-content-start(style="position:relative; width:103%; height:100%;")
         .col-lg-5
-          figure.mb-0
-            img(src='@/assets/curso/tema5/img02.png')         
+          .imagen-adornos-flotantes
+            img(src='@/assets/curso/tema5/img02.png')   
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: -5% ; width: 60px ")      
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
@@ -37,8 +40,11 @@
         figure.mb-0
           img(src='@/assets/curso/tema5/img04.svg') 
       .col-lg-5
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema5/img03.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: -5% ; width: 60px ")      
 
     p.mb-4 Son estas preguntas las que se deben empezar a responder, desde la parte de diseño y funcionalidad, dándole al usuario la posibilidad de orientarse y a su vez ofrecer la mejor calidad al momento de navegar y usar la página o el documento electrónico. 
 
@@ -160,8 +166,11 @@
                   figure.mb-0
                     img(src='@/assets/curso/tema5/img15.svg')
         .col-lg-5
-          figure.mb-0(data-aos="zoom-in-up")
-            img(src='@/assets/curso/tema5/img10.png') 
+          .imagen-adornos-flotantes
+            img(src='@/assets/curso/tema5/img12.png') 
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: -5% ; width: 60px ")      
 
     .row.justify-content-start.mb-0(data-aos="zoom-in-up")
       .col-lg-6        
@@ -178,8 +187,11 @@
         p.mb-4 <font class="color-1">A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos.</font>        
         p.mb-0 Cada proceso tendrá su propio flujo de interacciones y evaluará la correcta funcionalidad y usabilidad del proyecto. 
       .col-lg-6.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema5/img16.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 10% ; width: 60px ")      
 
     Separador
 
@@ -200,15 +212,21 @@
         
         p.mb-0 Este decálogo desarrollado por Jakob Nielsen, reconocido experto mundial en usabilidad de la <i>web</i>, da diez principios heurísticos, centrados en mejorar la experiencia de usuario, en el desarrollo de posible resolución de problemas.        
       .col-lg-6.d-flex.align-items-center
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema5/img17.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 10% ; width: 60px ")      
     
     p.mb-5.color-1 Las heurísticas o el conjunto de técnicas o métodos para resolver un problema” del griego “hallar, inventar”, son una serie de elementos a tener en cuenta al momento de evaluar el diseño de las interfaces de usuario, recopiladas por el ingeniero Jakob Nielsen:
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-4
-        figure.mb-0
+        .imagen-adornos-flotantes
           img(src='@/assets/curso/tema5/img18.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:20% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 10% ; width: 60px ")      
       .col-lg-8
         ul.lista-ul--color.mb-4               
           li 
@@ -425,8 +443,11 @@
     
     .row.justify-content-center
       .col-lg-4
-        figure.mb-0
-          img(src='@/assets/curso/tema5/img34.svg') 
+        .imagen-adornos-flotantes
+          img(src='@/assets/curso/tema5/img34.png') 
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 0% ; right:  ; top: ; bottom: 0% ; width: 90px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 0%; top:20% ; bottom: ; width: 60px ")
+          .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 10% ; width: 60px ")      
       .col-lg-8
         ul.lista-ul--color.mb-4               
           li 
