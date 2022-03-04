@@ -10,12 +10,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4
-        p.mb-0 El llamado formato EPUB, <i>electronic publication</i> o publicación electrónica, es un tipo de formato basado en estándares <i>web</i>, que mejora la visualización y lectura en dispositivos electrónicos, es de gran utilidad ya que permite una independencia entre el contenido y la forma, <font class="color-1">ya que se acomoda y se ajusta a las necesidades pertinentes del entorno actual, puede ser abierto y utilizado en cualquier dispositivo electrónico y compatible en diferentes aplicaciones. </font>
+        p.mb-0 El llamado formato EPUB, <i>electronic publication</i> o publicación electrónica, es un tipo de formato basado en estándares <i>web</i>, que mejora la visualización y lectura en dispositivos electrónicos, es de gran utilidad ya que permite una independencia entre el contenido y la forma, ya que se acomoda y se ajusta a las necesidades pertinentes del entorno actual, puede ser abierto y utilizado en cualquier dispositivo electrónico y compatible en diferentes aplicaciones.
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema2/img01.svg') 
       .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
-        p.mb-0 Los avances tecnológicos y la inserción de nuevos y diversos dispositivos electrónicos en la era digital, crearon la necesidad de desarrollar nuevas formas de lectura, <font class="color-1">el libro en papel se fue trasladando poco a poco a los dispositivos comerciales como tabletas, celulares, computadores, entre otros y surge la llamada escritura hipermedia.</font>
+        p.mb-0 Los avances tecnológicos y la inserción de nuevos y diversos dispositivos electrónicos en la era digital, crearon la necesidad de desarrollar nuevas formas de lectura, <b>el libro en papel se fue trasladando poco a poco a los dispositivos comerciales como tabletas, celulares, computadores, entre otros y surge la llamada escritura hipermedia.</b>
 
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
       .row.justify-content-start(style="position:relative; width:103%; height:100%;")
@@ -34,7 +34,7 @@
     .row.justify-content-center.mb-0
       .col-lg-6
         p.mb-4 El uso incrementado de la tableta por encima de los equipos de cómputo incentivó el manejo del formato de archivo de libro electrónico con la terminación EPUB. La facilidad para realizar múltiples tareas, el manejo de diferentes herramientas, imágenes y videos, hacen del ebook uno de los mejores instrumentos tecnológicos ya que permite, por ejemplo, la edición de elementos (modificar, subrayar), además de su portabilidad siendo una de sus mayores ventajas frente al libro de papel, puesto que se puede llevar a todas partes, en el celular o dispositivo disponible, es accesible y de bajo precio. Adicionalmente las grandes compañías de ventas por internet han jugado un papel importante en la venta, expansión y uso de este tipo de formato, en el cual no es necesario contar con un espacio físico para su almacenamiento, por el contrario, se pueden almacenar de manera fácil y eficiente, bajando inclusive los costos de producción.  
-        p.mb-0 A pesar de ser EPUB un formato tan importante, existen otro tipo de formatos desarrollados por diferentes empresas, que tienen compatibilidad con sus propios productos. <font class="color-1">Tal es el caso del formato PDF (siglas en inglés de <i>Portable Document Format</i>, que traduce “formato de documento portátil”),</font> uno de los más utilizados en el mercado; sin embargo, el formato EPUB permite dentro de la experiencia al cliente, redimensionar la escala de los documentos y el tipo y tamaño de fuente tipográfica a utilizar, es un formato muy versátil y que permite gracias a sus herramientas, tener más usos que el formato PDF. 
+        p.mb-0 A pesar de ser EPUB un formato tan importante, existen otro tipo de formatos desarrollados por diferentes empresas, que tienen compatibilidad con sus propios productos. <b>Tal es el caso del formato PDF (siglas en inglés de <i>Portable Document Format</i>, que traduce “formato de documento portátil”),</b> uno de los más utilizados en el mercado; sin embargo, el formato EPUB permite dentro de la experiencia al cliente, redimensionar la escala de los documentos y el tipo y tamaño de fuente tipográfica a utilizar, es un formato muy versátil y que permite gracias a sus herramientas, tener más usos que el formato PDF. 
       .col-lg-6
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema2/img03.png')   
@@ -59,7 +59,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 2% ; width: 60px ")   
     
-    p.mb-4.color-1 Algunas de las principales características de los EPUB son:
+    p.mb-4 <b>Algunas de las principales características de los EPUB son:</b>
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-5.d-flex.align-items-center
@@ -80,7 +80,8 @@
                     img.m-0(src='@/assets/curso/cubo.svg')  
 
           p.mb-4 Este formato o diseño, básicamente emplea el contenido como elementos (textos e imágenes) flotantes, dándoles una organización según el tamaño del dispositivo en el cual se está visualizando, lo que ejerce que su aspecto y posicionamiento dependa de las dimensiones de la pantalla de dicho dispositivo, al igual que su orientación, sea vertical u horizontal, ayudando a los usuarios que los contenidos se organicen para optimizar la legibilidad de las dimensiones.
-          p.mb-4.color-1 Otra de las herramientas, es la posibilidad del lector de hacer cambios, como el tamaño del texto, lo que aporta considerablemente si se piensa en la usabilidad y accesibilidad para la mayoría de lectores que poseen deficiencias o problemas visuales. 
+          div.p-4.mb-4(style="background-color: #FFF5E5")
+            p.mb-0 Otra de las herramientas, es la posibilidad del lector de hacer cambios, como el tamaño del texto, lo que aporta considerablemente si se piensa en la usabilidad y accesibilidad para la mayoría de lectores que poseen deficiencias o problemas visuales. 
           p.mb-0 A medida que los elementos se van adaptando a las dimensiones de las pantallas, el usuario no se preocupa por su desplazamiento, ya que la organización se adapta y se hace natural, haciendo que los productos electrónicos sean más amigables con los usuarios.
 
     .tema-2-boton
@@ -112,7 +113,7 @@
     div.mb-5(data-aos="zoom-in-up")
       .row.justify-content-center
         .col-lg-7
-          p.mb-5 Vistos y entendidas las dos clases de diseños que existen, se avanza al archivo EPUB, y es que la diferencia radica que un EPUB es un formato único y que por ende posee una extensión como tal (.EPUB) <b class="color-1">que se perfila directamente sobre los diseños ajustables, dada su facilidad de ajustarse a todos los dispositivos sin perder calidad.</b>
+          p.mb-5 Vistos y entendidas las dos clases de diseños que existen, se avanza al archivo EPUB, y es que la diferencia radica que un EPUB es un formato único y que por ende posee una extensión como tal (.EPUB) <b>que se perfila directamente sobre los diseños ajustables, dada su facilidad de ajustarse a todos los dispositivos sin perder calidad.</b>
           .row.justify-content-start.mb-4
             .col-lg-3.py-0.border(style="background-color: #FDD835")            
               .row.justify-content-start.my-1
@@ -125,7 +126,7 @@
           p.mb-4  El Diseño fijo o también conocido como disposición pre-paginada, actúa como un “bloqueo” al contenido, de la misma manera que actuaría un PDF, siendo una gran ventaja para los diseños que incluyen historietas, o ilustraciones de libros para niños, donde las imágenes se deben ubicar en ciertas posiciones puntuales o fijas y que dependen del 100% de sus diseños y construcciones editoriales los que se apoyan en este tipo de diseño, siendo la versión digital más usada para las publicaciones que utilizan imágenes pesadas, fotografías a gran resolución, etc.
           .tema2
             .cajon.color-acento-contenido.p-4       
-              p.mb-0.color-1 Este formato trabaja como una copia o réplica digitalizada de los libros impresos, con la ventaja de poder añadir elementos interactivos, lo que permite más interacción por parte del usuario, por otro lado, es posible que toque hacer desplazamientos verticales, horizontales y de zoom, para poder acceder a todo el contenido.  
+              p.mb-0 Este formato trabaja como una copia o réplica digitalizada de los libros impresos, con la ventaja de poder añadir elementos interactivos, lo que permite más interacción por parte del usuario, por otro lado, es posible que toque hacer desplazamientos verticales, horizontales y de zoom, para poder acceder a todo el contenido.  
         .col-lg-5
           .imagen-adornos-flotantes
             img.m-0(src='@/assets/curso/tema2/img09.png')  
