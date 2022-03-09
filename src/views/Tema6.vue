@@ -8,7 +8,7 @@
         span 6
       h1 Metodología UX y UI
 
-    .row.justify-content-center
+    .row.justify-content-center.align-items-center
       .col-lg-7
         p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <b>UX</b> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <b>UI</b>, vienen de <i>User</i> <i>Interface</i> o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
       .col-lg-5
@@ -27,7 +27,7 @@
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema6/img02.svg') 
-      .col-lg-4.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-4.d-flex.align-items-center.p-4(style="background-color:#E2F4F6")
         p.mb-0 La UX, nace como la necesidad de desplazar la importancia que tiene la máquina en términos de usabilidad y eficacia respecto al servicio que presta, y centrarse en la interacción del humano y su satisfacción medida como experiencia de uso. 
 
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
@@ -41,7 +41,7 @@
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
-          div.py-4.px-3.mt-0(style="background-color: #E8E8E8")
+          div.p-4.mt-0(style="background-color: #E8E8E8")
             p.mb-0 Hoy en día la experiencia de usuario se ha convertido en un tema fundamental no solo en el área de la tecnología y el diseño, sino que hace parte del enfoque de “vender” experiencias a las personas, es un factor que incide de manera notoria en el éxito o fracaso de un servicio o producto, se mide la calidad y el servicio por medio de las motivaciones que estos generan a los usuarios; es decir, las emociones y experiencias, establecen el valor económico de un servicio, bien o producto. 
 
     p.mb-5.text-center Con el fin de ampliar este concepto, se pueden identificar tres elementos a partir del siguiente ejemplo:
@@ -68,7 +68,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema6/img05.png') 
 
-        div.p-3.tema-6-div1
+        div.p-4.tema-6-div1
           p.color-1.text-center.mb-3 <b>Ejemplo 3</b>
           p.mb-0 En la tercera imagen, podemos encontrar una descripción del producto, con información muy importante para muchos usuarios como las calorías y otras opciones, además de agregarlo a mis productos favoritos; es acá donde encontramos un plus y una UX o experiencia de usuario que llamará la atención de los usuarios.  
       
@@ -361,7 +361,7 @@
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema6/img29.svg') 
-      .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-5.d-flex.align-items-center.p-4(style="background-color:#E2F4F6")
         p.mb-0 La gestión de contenidos está relacionada con los procesos relacionados con agregar, transformar, catalogar, agrupar, autorizar, presentar y distribuir información con un determinado propósito. 
     
     .row.justify-content-center.mb-0(data-aos="zoom-in-up")

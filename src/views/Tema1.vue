@@ -8,7 +8,7 @@
         span 1 
       h1 Evolución histórica del libro
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-up")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-up")
       .col-lg-7
         p.mb-0 Desde sus orígenes, la humanidad ha tenido la necesidad de transmitir el conocimiento y sus tradiciones dada la cantidad de historias que han sucedido de generación en generación, con el pasar del tiempo, el asentamiento del hombre en poblaciones, la conformación de pequeñas comunidades, con la posterior creación de las primeras ciudades, se empiezan a construir las bibliotecas y con estas se vuelve una necesidad recopilar el conocimiento en todas las áreas de la vida, por medio del libro. <b>La divulgación de dichos conocimientos en épocas remotas, se efectuaba de manera oral, de persona a persona, el llamado voz a voz; sin embargo, cuando se creó y desarrolló el libro este oficio fue perdiendo fuerza hasta casi desaparecer.</b>  
       .col-lg-5

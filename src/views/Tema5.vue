@@ -8,7 +8,7 @@
         span 5
       h1 Arquitectura de la Información
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.d-flex
         div
           p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1"><b>UX</b></font> (<i>User Expirence</i> en inglés, o experiencia de usuario ) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
@@ -16,7 +16,7 @@
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema5/img01.svg') 
-      .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-5.d-flex.align-items-center.p-4(style="background-color:#E2F4F6")
         p.mb-0 Un ejemplo claro de cómo funciona la arquitectura de información, es compararlo con el manejo de una biblioteca, donde cada libro pertenece a una categoría específica, y se dispone en un espacio delimitado para ser ubicado de manera sencilla; los libros de historia se encuentran en una estantería delimitada, los de cocina en otra, los de política en un lugar diferente y así sucesivamente; estos tomos pueden ser ordenados de acuerdo con su importancia, su volumen o tamaño; de la misma manera pasa en la arquitectura de la información, busca que los datos presente una estructura fácil y comprensible para todo el público o para su gran mayoría. 
 
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
@@ -24,13 +24,13 @@
         .col-lg-5
           .imagen-adornos-flotantes
             img(src='@/assets/curso/tema5/img02.png')   
-            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  0% ; top: ; bottom: 0% ; width: 90px ")
+            .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:; right:  15% ; top: ; bottom: 0% ; width: 90px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: -5% ; width: 60px ")      
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
-          div.py-4.px-3.mt-3(style="background-color: rgba(226, 244, 246, 0.8)")
+          div.p-4.mt-3(style="background-color: rgba(226, 244, 246, 0.8)")
             p.mb-0 Este ordenamiento se puede realizar por medio de categorías de productos, contenidos, palabras clave etc.  Es fundamental que la información que se contenga, esté estructurada y sea comprensible, que tenga una lógica de lectura, que permita identificar elementos y sus reacciones, y que puedan tener en cuenta las interacciones y usabilidad de los usuarios.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
@@ -175,14 +175,9 @@
 
     .row.justify-content-start.mb-0(data-aos="zoom-in-up")
       .col-lg-6        
-        .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Implementación
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Implementación
+              
         
         p.mb-4 La IA concluye con la documentación que permite la detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan <i>software</i> especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
         p.mb-4 A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos. 
@@ -202,14 +197,9 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-up")
       .col-lg-6        
         p.mb-5 Luego de la implementación de la arquitectura de información por medio del uso de tarjetas, el proceso de evaluación heurística o metodología de inspección en experiencia de usuario busca identificar y resolver aquellas problemáticas presentes en la usabilidad de los componentes de un producto, teniendo como principal objetivo medir la facilidad de uso, que se centra en el conocimiento del diseño y la experiencia de usuario. 
-        .row.justify-content-start.mb-4
-          .col-lg-12.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 El decálogo de principios heurísticos de Jakob Nielsen
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+          h4.mb-0.me-3 El decálogo de principios heurísticos de Jakob Nielsen
+             
         
         p.mb-0 Este decálogo desarrollado por Jakob Nielsen, reconocido experto mundial en usabilidad de la <i>web</i>, da diez principios heurísticos, centrados en mejorar la experiencia de usuario, en el desarrollo de posible resolución de problemas.        
       .col-lg-6.d-flex.align-items-center
@@ -263,14 +253,9 @@
         
         p.mb-0 Para aplicar de manera objetiva los principios de usabilidad, se debe dar una calificación o medida a cada uno de los componentes; por ejemplo, aquellos que no cumplen con las necesidades requeridas se califican con 0, los que van en proceso, pero aún tienen falencias se califican con un valor de tres ( 3), y los que cumplen con todos los estándares de calidad con cinco (5), esto con el objetivo de realizar las mejoras respectivas. 
 
-    .row.justify-content-start.mb-4
-      .col-lg-6.py-0.border(style="background-color: #FDD835")            
-        .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Ventajas e inconvenientes de la evaluación heurística
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+    .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Ventajas e inconvenientes de la evaluación heurística
+              
     
     p.mb-5 Como cualquier metodología, la evaluación heurística posee ventajas y desventajas.
 

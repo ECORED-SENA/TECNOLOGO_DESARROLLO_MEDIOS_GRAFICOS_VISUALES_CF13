@@ -8,13 +8,13 @@
         span 3
       h1 <i>Ebooks</i>, <i>emagazines</i>, presentaciones, catálogos, <i>ecards</i>
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.d-flex
         p.mb-0 Muchas de las publicaciones que se conocen en la era de la impresión, como libros, revistas, catálogos entre otros, han migrado sus componentes al ámbito digital, conservando muchas de sus características esenciales y desarrollando otras funcionalidades que permiten una mayor interactividad por parte del usuario.  
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema3/img01.png') 
-      .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-5.d-flex.align-items-center.p-4(style="background-color:#E2F4F6")
         p.mb-0 Existen diversos tipos de publicaciones que se distribuyen con diferente periodicidad, las publicaciones periódicas salen al mercado de una manera regular, ya sea diaria, semanal, quincenal o mensual; dentro de estas publicaciones se encuentran por ejemplo los libros y las revistas. <b>Estas publicaciones sirven para difundir el conocimiento, información en diversos contextos, cultura, y noticias de interés.</b>
 
     p.mb-5 Para comprender en profundidad algunas diferencias entre las publicaciones impresas y electrónicas, revise la siguiente tabla 2:
@@ -49,14 +49,9 @@
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-8
         p.mb-5 Teniendo claras las similitudes y diferencias de los impresos y digitales, a continuación, se conocerán algunas de las principales presentaciones de publicaciones electrónicas:
-        .row.justify-content-start.mb-4
-          .col-lg-4.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 <i>Ebooks</i>
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 <i>Ebooks</i>
+              
         
         p.mb-5 <b>El <i>ebook</i> o libro en formato digital o electrónico, está diseñado para poder ser leído en cualquier dispositivo electrónico, tiene muchas similitudes con un libro impreso,</b> sin embargo, las publicaciones en medios digitales presentan las siguientes ventajas frente a las impresas:
         ul.lista-ul--color                  
@@ -119,14 +114,9 @@
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-6        
-        .row.justify-content-start.mb-4
-          .col-lg-8.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 E-Magazine - Revista electrónica
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 <i>E-Magazine</i> - Revista electrónica
+              
 
         p.mb-0 La revista electrónica utiliza recursos multimedia y presenta las mismas características de la revista tradicional, se distribuye en el mercado con un periodo regular, contiene una portada, contraportada, parte editorial, índice, fotos, textos, artículos, anuncios, publicidad, ilustraciones etc. <b>Este tipo de publicación puede ser presentada en diferentes formatos como el PDF, HTML, EPUB, entre otros. Una revista puede ser:</b> 
       .col-lg-6.d-flex.align-items-center
@@ -180,13 +170,9 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  ; right: -8% ; top: ; bottom: 2% ; width: 60px ")
       .col-lg-8        
         .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Presentaciones digitales
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+          .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Presentaciones digitales
+              
 
         p.mb-4 Las presentaciones digitales son productos multimedia, realizados en computador, que contienen diapositivas (<i>slide</i>) con información relevante de un tema en particular, casi siempre una presentación es un documento en el cual se debe incluir mucha información, por este motivo es preciso definir la información más relevante a presentar, la cual debe ser clara y concisa, utilizando la menor cantidad de textos, e integrando otros recursos como imágenes, fotografías, esquemas, videos, entre otros.
         div.p-4.mb-4(style="background-color: #FFF5E5")
@@ -195,14 +181,9 @@
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")      
       .col-lg-6
-        .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Catálogos
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Catálogos
+              
 
         p.mb-4 El catálogo es una pieza netamente comercial que utilizan las empresas para dar a conocer sus productos, bienes o servicios y con ello generar ventas. Esta pieza depende de la calidad de la imagen ya que los productos mostrados no se pueden medir, probar o tocar, solo se puede mirar.  Los catálogos de ventas electrónicos son elementos de marketing directo, son muy utilizados pues ahorran a las empresas millones de pesos en publicidad y ayudan con el cuidado del medio ambiente. 
         b.mb-0 Las características principales para que esta pieza gráfica funcione de manera eficaz y adecuada son:        
@@ -259,14 +240,9 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  ; right: 5%; top:0 ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  ; right: -9% ; top: ; bottom: 13% ; width: 60px ")
       .col-lg-8
-        .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 E-card
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 <i>E-card</i>
+              
 
         p.mb-4 Ecard o tarjeta virtual, hace referencia a una pieza gráfica principalmente utilizada hoy en día por grandes empresas de redes sociales dentro de sus contenidos, es un formato actual, estructurado y llamativo para el usuario, que se distribuye y consume de manera rápida.
         p.mb-4 La eficiencia de los diseños en la <i>web</i>, incluyen las siguientes características:

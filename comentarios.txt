@@ -22,3 +22,7 @@ H20: Correccion ortográfica en una unidad didactica
 H21: Correccion ortográfica en una unidad didactica
 H22: Piden eliminar una de las unidades dideacticas. No se elimina y sugiere contactar el lider del equipo
 H24: No se ha logrado localizar el documento con los créditos actualizados
+
+
+Se revisan que estas palabras, se buscan en minuscula o con mayuscula inicial en cada palabra. Algunas no se encontraron, por favor indicar en donde estan.
+storyboard: revisada

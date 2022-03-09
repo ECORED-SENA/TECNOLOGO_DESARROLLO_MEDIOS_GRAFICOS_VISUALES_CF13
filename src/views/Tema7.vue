@@ -14,7 +14,7 @@
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema7/img01.png') 
-      .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-5.d-flex.align-items-center.p-4(style="background-color:#E2F4F6")
         p.mb-0 En este paso es de importancia utilizar los flujogramas que ayudan a maquetar la representación de la estructura, partes, funcionamiento y comportamiento en general, del sitio a desarrollar, perfilado por una línea de diseño, basado en la organización y la estructuración visual de sus componentes.
 
     #t_7_1.titulo-segundo.color-acento-contenido
@@ -31,14 +31,9 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
-    .row.justify-content-start.mb-4
-      .col-lg-2.py-0.border(style="background-color: #FDD835")            
-        .row.justify-content-start.my-1
-          .col-lg-10
-            h3.mb-0 Tipografía
-          .col-lg-2.p-0(style="position:relative; height:10px")
-            figure.p-0.m-0.cubo-titulo
-              img.m-0(src='@/assets/curso/cubo.svg') 
+    .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Tipografía
+          
 
 
     p.mb-4 El texto se convierte en un recurso muy importante en entornos digitales es importante tener presentes las siguientes características:             
@@ -69,14 +64,9 @@
             .tarjeta.color-acento-contenido.p-3(x="85%" y="47%" numero="6")            
               p.mb-0 Las letras más usuales son Helvética, Calibri, Verona  evitar el uso de muchos elementos en su construcción ya que dificultaría la lectura de los usuarios. 
 
-    .row.justify-content-start.mb-4
-      .col-lg-2.py-0.border(style="background-color: #FDD835")            
-        .row.justify-content-start.my-1
-          .col-lg-10
-            h3.mb-0 Color
-          .col-lg-2.p-0(style="position:relative; height:10px")
-            figure.p-0.m-0.cubo-titulo
-              img.m-0(src='@/assets/curso/cubo.svg') 
+    .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Color
+          
 
     p.mb-5 El color es uno de los elementos principales de cualquier tipo de diseño, a continuación algunos elementos para seleccionarlo. 
 
@@ -129,28 +119,18 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
-        .row.justify-content-start.mb-4
-          .col-lg-3.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Imágenes
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Imágenes
+              
         p.mb-4 En diseño de publicaciones digitales que se distribuyen en la <i>web</i>, es de vital importancia el buen manejo y uso de las imágenes, en cuanto a su calidad y resolución. 
         p.mb-4 <b>El uso de formatos adecuados, una excelente resolución y calidad son de vital importancia, ya que con los avances y mejoras en HTML5 y CSS3 y su compatibilidad con diversos navegadores, permiten una mejor calidad y usabilidad de los componentes.</b>
         p.mb-0 La propuesta gráfica y los recursos deben mantener siempre el mismo estilo, de igual manera asegurar que la armonía entre contenido e imagen, correspondan con el producto editorial.   Las imágenes pueden ser de carácter propio, de galerías pagas, por las cuales se realiza un pago para su uso, o bancos de imágenes gratis autorizados.
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-6        
-        .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Animación y Videos
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Animación y videos
+              
         p.mb-4 as animaciones, videos y demás elementos visuales con movimiento, hacen mucho más atractivo cualquier sitio <i>web</i>, sin embargo, representan algo de peso extra por sus características generales, se recomienda que no sobrepasen un 30 % ya que pueden causar saturación y lentitud, haciendo que la usabilidad de las páginas se reduzca y sean los usuarios los que decidan buscar otras opciones.
         p.mb-0 A continuación, algunos elementos de relevancia en el diseño como botones e íconos, retículas de diseño, columnas, <i>padding</i> y retícula <i>responsive</i>.
       .col-lg-6
@@ -173,7 +153,7 @@
         .tarjeta.color-acento-contenido.p-4(titulo="Retículas de Diseño")
           .row.align-items-center.justify-content-center
             .col-lg-7
-              h4.mb-4 Retículas de Diseño
+              h4.mb-4 Retículas de diseño
               p.mb-4 La retícula es un elemento esencial en el diseño que no se ve a simple vista, es la estructura principal sobre la cual se diseña. 
               p.mb-0 Esta cuadrícula invisible al espectador, permite realizar la distribución y diagramación de los elementos compositivos de cualquier diseño, es la base de la maquetación con la cual se logra obtener una estética armónica, correcta y ordenada.  <br>En diseño <i>web</i> posibilita plasmar la versión interactiva y navegable de la publicación, ajustándose a la realidad.
             .col-lg-5
@@ -198,7 +178,7 @@
         .tarjeta.color-acento-contenido.p-4(titulo="Retícula <i>Responsive</i>")
           .row.align-items-center.justify-content-center
             .col-lg-7
-              h4.mb-4 Retícula <i>Responsive</i>
+              h4.mb-4 Retícula <i>responsive</i>
               p.mb-0 El uso de nuevas tecnologías y sus diversos formatos, hacen que los elementos estéticos y de diseño se tengan que adaptar a su entorno y funcionalidad, esta retícula se adapta para conseguir una regularidad en las páginas <i>web</i>, aunque sean abiertas en diferentes dispositivos, con unas dimensiones de pantalla diferentes, que exigen un cambio estructural del diseño. A este cambio se le conoce como breakpoint (punto de ruptura).  
             .col-lg-5
               figure.mb-0
@@ -208,14 +188,9 @@
     
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-up") 
       .col-lg-6        
-        .row.justify-content-start.mb-4
-          .col-lg-5.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 El guion literario
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 El guion literario
+              
         p.mb-4 El guion literario es una herramienta secuencial en del desarrollo de productos multimedia, está enmarcada en el diseño mismo de aplicabilidad, en la creación y concepto del producto.  Se necesita un guion literario para describir paso a paso el contenido total de un proyecto, que exprese en forma detallada lo que se quiere transmitir, es decir el mensaje, por lo que es preciso investigar y preparar la historia. Describe las diversas situaciones, los diálogos, las acciones en la historia a contar. 
         p.mb-0 Este guion podrá ser de ficción o realidad, en esta última clasificación se encuentran los guiones informativos, los de formación y de opinión, los cuales sirven para evitar incongruencias, nerviosismo, titubeos, coletillas, etc.; enfocándose en el tema y logrando precisión en el desarrollo de la historia.
       .col-lg-6
@@ -233,14 +208,9 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:   ; right: 5%; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6        
-        .row.justify-content-start.mb-4
-          .col-lg-4.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 <i>storyboard</i>
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 <i>Storyboard</i>
+              
         p.mb-4 El <i>storyboard</i> o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
         p.mb-4 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
         p.mb-0 El <i>story</i> sirve principalmente para realizar un spot, guion de cine, anuncio o comercial.
@@ -283,14 +253,9 @@
     
     p.mb-5 Las pruebas como su nombre lo indica es la posibilidad que un usuario en vez de realizar preguntas de ¿cómo resolverlo? O ¿Cómo hacerlo? Sea el mismo el encargado de resolver su pregunta.
     
-    .row.justify-content-start.mb-4
-          .col-lg-2.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Tipos
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+    .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Tipos
+              
     p.mb-0 A continuación, los principales tipos de pruebas de usabilidad
     
     .tema-7
@@ -300,12 +265,12 @@
             figure.mb-0
               img(src='@/assets/curso/tema7/img15.png')
           .col-md-8
-            h3 Pasillo de Pruebas
+            h4 Pasillo de Pruebas
             p.mb-4 Es una opción muy rápida y económica al momento de escoger las personas para el estudio en cuestión, ya que todas son escogidas al azar, permitiendo que la muestra realizada contemple una cantidad variada de individuos ya que sus perfiles, cualidades, percepciones, habilidad, etc.
             p.mb-0 Estas pruebas permiten analizar características generales para todos los perfiles, permitiendo identificar características como complicidad, usabilidad, etc.<br>Para tener logros más eficientes y verídicos, se debe asegurar que las muestras sean ajenas, pero si con un conocimiento básico general.
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0
-            h3 Prueba de Usabilidad Remota
+            h4 Prueba de Usabilidad Remota
             p.mb-0 Dados los altos costos en el momento de pensar en reunir un grupo de prueba, en escenarios de usabilidad podemos encontrar que es habitual que encontremos usuarios de diferentes partes y zonas horarias, por lo que desde el punto de la logística se convierte en un reto. Estas pruebas también permiten que usuarios de diferentes lugares, con tecnologías, y contextos diferentes, creando inconvenientes y brechas que van desde la posibilidad de no comunicarse, hasta no saber exactamente quien es el usuario que realiza la prueba.            
           .col-md-4
             figure.mb-0
@@ -315,12 +280,12 @@
             figure.mb-0
               img(src='@/assets/curso/tema7/img18.png')
           .col-md-8
-            h3 Metodologías Asíncronas 
+            h4 Metodologías Asíncronas 
             p.mb-4 Es un registro automático que se obtiene al tener un usuario que realiza una navegación, mientras se conoce como fue su recorrido al igual que los clics realizados, consiguiendo a su vez una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. 
             p.mb-0 Es una metodología basada en tareas, lo que permite medir tiempos, clics; datos que son vitales para las empresas y su compresión de lo que el usuario hace y como se desenvuelve al momento de navegar por un sitio <i>Web</i>.  
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0
-            h3 TEST A/B
+            h4 TEST A/B
             p.mb-4 Es una prueba aleatoria con dos (2) variantes, (A,B) siendo una la variante y la otra la que controla, la idea consiste en comparar dos (2) opciones, con leves cambios que afectan directamente en los comportamientos de los usuarios. Se utilizan dos (2) opciones exactas con un contenido diferente, donde se tendrá prioridad por alguno y se obtendrán resultados.
             p.mb-0 Se pueden encontrar variantes, donde la intención de la prueba es comparar y es mantiene una sola variante que controla, así  se obtienen más datos sobre las mismas pruebas, siendo más económico, pero sus resultados pueden ser sesgados. 
           .col-md-4
@@ -328,14 +293,9 @@
               img(src='@/assets/curso/tema7/img19.png')
 
 
-    .row.justify-content-start.mb-4
-      .col-lg-3.py-0.border(style="background-color: #FDD835")            
-            .row.justify-content-start.my-1
-              .col-lg-10
-                h3.mb-0 Indicadores de usabilidad
-              .col-lg-2.p-0(style="position:relative; height:10px")
-                figure.p-0.m-0.cubo-titulo
-                  img.m-0(src='@/assets/curso/cubo.svg') 
+    .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Indicadores de usabilidad
+              
     p.mb-5 La usabilidad no solo se pone a prueba, generalmente se mide por indicadores que son tanto cuantificables como observables y desde los que se puede obtener resultados más visibles, dando resultados concretos que permitirán tomar las medidas necesarias. 
 
     .row.justify-content-center.mb-5
@@ -352,23 +312,13 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -8% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-8
         p.mb-4 Pasos para determinar la usabilidad de un sitio:
-        .row.justify-content-start.mb-4
-          .col-lg-8.py-0.border(style="background-color: #FDD835")            
-                .row.justify-content-start.my-1
-                  .col-lg-10
-                    h3.mb-0 Determinar métricas y crear análisis de tareas
-                  .col-lg-2.p-0(style="position:relative; height:10px")
-                    figure.p-0.m-0.cubo-titulo
-                      img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Determinar métricas y crear análisis de tareas
+                  
         p.mb-5 Se delimitan las pruebas mediante el uso de métricas que midan los factores en pro y en contra referentes a la usabilidad, eficacia y eficiencia de los componentes de un proyecto.  Aquí hay medición de objetivos dirigidos al usuario, manejo de ruta y análisis de tareas de los componentes entre otras.  Se construye un flujograma de tareas, con tiempos y acciones a trabajar.
-        .row.justify-content-start.mb-4
-          .col-lg-7.py-0.border(style="background-color: #FDD835")            
-                .row.justify-content-start.my-1
-                  .col-lg-10
-                    h3.mb-0 Identificar el mejor tipo de prueba
-                  .col-lg-2.p-0(style="position:relative; height:10px")
-                    figure.p-0.m-0.cubo-titulo
-                      img.m-0(src='@/assets/curso/cubo.svg') 
+        .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Identificar el mejor tipo de prueba
+                  
         p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
         p.mb-0 Clasificación de tarjetas o el llamado <i>Card sorting</i>, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
     

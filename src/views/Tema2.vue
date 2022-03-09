@@ -14,7 +14,7 @@
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
           img(src='@/assets/curso/tema2/img01.svg') 
-      .col-lg-5.d-flex.align-items-center(style="background-color:#E2F4F6")
+      .col-lg-5.d-flex.align-items-center.px-4(style="background-color:#E2F4F6")
         p.mb-0 Los avances tecnológicos y la inserción de nuevos y diversos dispositivos electrónicos en la era digital, crearon la necesidad de desarrollar nuevas formas de lectura, <b>el libro en papel se fue trasladando poco a poco a los dispositivos comerciales como tabletas, celulares, computadores, entre otros y surge la llamada escritura hipermedia.</b>
 
     .row(style="position:relative" data-aos="zoom-in-up").p-0.mb-5
@@ -28,7 +28,7 @@
 
       .row.justify-content-end.m-0.px-0(style="position:absolute; top:0px; height:100%; width:100%; ")        
         .col-lg-8.d-flex.align-items-center.m-0.px-0
-          div.py-4.px-3.mt-3(style="background-color: rgba(226, 244, 246, 0.8)")
+          div.py-4.px-4.mt-3(style="background-color: rgba(226, 244, 246, 0.8)")
             p.mb-0 <font style="background-color: #FFD99D">El texto hipermedia se caracteriza por su falta de linealidad y por un lenguaje enriquecido con imágenes, vídeos y sonidos (Zamora, 2016).</font> Su nacimiento es realmente reciente, pero los avances y el desarrollo que ha tenido en los últimos años han sido muy acelerados, integrando múltiples medios y nuevas formas en cuanto a los recursos que facilitan su uso y ejecución.
 
     .row.justify-content-center.mb-0
@@ -70,14 +70,8 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 70% ; right: ; top: ; bottom: 10% ; width: 60px ")   
       .col-lg-7.d-flex.align-items-center
         div
-          .row.justify-content-start.mb-4
-            .col-lg-4.py-0.border(style="background-color: #FDD835")            
-              .row.justify-content-start.my-1
-                .col-lg-10
-                  h3.mb-0 Diseño ajustable
-                .col-lg-2.p-0(style="position:relative; height:10px")
-                  figure.p-0.m-0.cubo-titulo
-                    img.m-0(src='@/assets/curso/cubo.svg')  
+          .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Diseño ajustable                
 
           p.mb-4 Este formato o diseño, básicamente emplea el contenido como elementos (textos e imágenes) flotantes, dándoles una organización según el tamaño del dispositivo en el cual se está visualizando, lo que ejerce que su aspecto y posicionamiento dependa de las dimensiones de la pantalla de dicho dispositivo, al igual que su orientación, sea vertical u horizontal, ayudando a los usuarios que los contenidos se organicen para optimizar la legibilidad de las dimensiones.
           div.p-4.mb-4(style="background-color: #FFF5E5")
@@ -87,7 +81,7 @@
     .tema-2-boton
       div.p-0.mb-5
         .row.tema2-div1  
-          .col-lg-4.d-flex.align-items-center
+          .col-lg-4.d-flex.align-items-center.px-4
             p.mb-0 Es muy probable que la mayoría de los géneros se puedan encontrar en este tipo de diseño ajustables, lo que hace que se adapte fácilmente a las disposiciones de los usuarios, esto hace que los textos que en los textos que son más pesados, su distribución o formato sea en una columna, siendo el preferido por la mayoría de autores dado que es ajustable a todos los lectores de formatos EPUB. 
           .col-lg-4.d-flex
               .tarjeta--boton.color-primario.p-4
@@ -114,14 +108,9 @@
       .row.justify-content-center
         .col-lg-7
           p.mb-5 Vistos y entendidas las dos clases de diseños que existen, se avanza al archivo EPUB, y es que la diferencia radica que un EPUB es un formato único y que por ende posee una extensión como tal (.EPUB) <b>que se perfila directamente sobre los diseños ajustables, dada su facilidad de ajustarse a todos los dispositivos sin perder calidad.</b>
-          .row.justify-content-start.mb-4
-            .col-lg-3.py-0.border(style="background-color: #FDD835")            
-              .row.justify-content-start.my-1
-                .col-lg-10
-                  h3.mb-0 Diseño fijo
-                .col-lg-2.p-0(style="position:relative; height:10px")
-                  figure.p-0.m-0.cubo-titulo
-                    img.m-0(src='@/assets/curso/cubo.svg')  
+          .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
+            h4.mb-0.me-3 Diseño fijo
+                
           
           p.mb-4  El Diseño fijo o también conocido como disposición pre-paginada, actúa como un “bloqueo” al contenido, de la misma manera que actuaría un PDF, siendo una gran ventaja para los diseños que incluyen historietas, o ilustraciones de libros para niños, donde las imágenes se deben ubicar en ciertas posiciones puntuales o fijas y que dependen del 100% de sus diseños y construcciones editoriales los que se apoyan en este tipo de diseño, siendo la versión digital más usada para las publicaciones que utilizan imágenes pesadas, fotografías a gran resolución, etc.
           .tema2
@@ -139,7 +128,7 @@
 
     div.p-0.mb-5
       .row.tema2-div1  
-        .col-lg-4.d-flex.align-items-center
+        .col-lg-4.d-flex.align-items-center.px-4
           p.mb-0 Es un tipo de diseño que está elaborado para libros de cocina, novelas gráficas, guías interactivas, cuentos infantiles, etc., lo que ha venido transformándose ya con el tiempo y gracias a la tecnología y el avance de los programas de diseño y edición editorial, está haciendo la vida de los editores, autores y diseñadores, las cosas mucho más sencillas.
         .col-lg-4.d-flex
             .tarjeta--boton.color-primario.p-4
