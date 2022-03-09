@@ -71,7 +71,7 @@
           .row.mb-0
             .col-lg-6
               h3.mb-5.color-1 <i>Brainstorming</i> o lluvia o tormenta de ideas
-              p.mb-0 Esta herramienta generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo.<br><br>El brainstorming potencia los procesos creativos, y la generación de alternativas originales que ayudan en la resolución de una situación o problema.
+              p.mb-0 Esta herramienta generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo.<br><br>El <i>brainstorming</i> potencia los procesos creativos, y la generación de alternativas originales que ayudan en la resolución de una situación o problema.
             .col-lg-6
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img07.png') 
@@ -80,7 +80,7 @@
                 .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  5% ; right: ; top: ; bottom: 20% ; width: 60px ")
           .row.mb-0
             .col-lg-6
-              h3.mb-5.color-1 Software
+              h3.mb-5.color-1 <i>Software</i>
               p.mb-0 Los programas y aplicaciones son de vital importancia en la creación de cualquier proyecto digital. Es necesario contar con programas de diseño, interfaces y el manejo de plataformas y formatos requeridos, para la ejecución de cada proyecto editorial.
             .col-lg-6
               .imagen-adornos-flotantes

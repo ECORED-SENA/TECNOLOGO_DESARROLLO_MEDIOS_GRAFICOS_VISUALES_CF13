@@ -279,7 +279,7 @@ export default {
         'Prueba de dos variantes para comparar la elección con pequeñas variaciones del producto.',
     },
     {
-      termino: 'Wireframes',
+      termino: '<i>Wireframes<i>',
       significado:
         'Es un esquema básico donde se presenta una página <i>web</i>, no se tiene en cuenta la parte gráfica, ni los colores, ni el contenido, simplemente una distribución visual. ',
     },
@@ -293,7 +293,7 @@ export default {
     {
       texto:
         'SmartDraw, (S.F.) Lista de Símbolos utilizados en los flujogramas.',
-      tipo: 'Página Web',
+      tipo: 'Página <i>Web</i>',
       link:
         'https://www.smartdraw.com/flowchart/simbolos-de-diagramas-de-flujo.htm',
     },

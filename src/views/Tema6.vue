@@ -10,7 +10,7 @@
 
     .row.justify-content-center
       .col-lg-7
-        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <b>UX</b> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <b>UI</b>, vienen de User Interface o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
+        p.mb-0 Las metodologías UX y UI, nos muestran una serie de pasos a desarrollar en el proceso de diseño de productos digitales, basados principalmente en la experiencia de usuario, <b>UX</b> son las siglas de <i>User Experience</i>, que traduce como experiencia del usuario; mientras las siglas <b>UI</b>, vienen de <i>User</i> <i>Interface</i> o uso de interface, es decir el conjunto de elementos en pantalla que le permiten al usuario interactuar con la <i>web</i>. 
       .col-lg-5
         figure.mb-0
           img(src='@/assets/curso/tema6/img01.png') 
@@ -123,16 +123,16 @@
         ul.lista-ul--color.mb-4               
           li 
             i.fas.fa-square 
-            | Diseño de interacción de los usuarios con las páginas <i>web</i>.
+            p.mb-0 Diseño de interacción de los usuarios con las páginas <i>web</i>.
           li 
             i.fas.fa-square 
-            | Guías de interacción que serán los caminos claves a seguir para que el usuario haga una compra o haga una acción detallada.
+            p.mb-0  Guías de interacción que serán los caminos claves a seguir para que el usuario haga una compra o haga una acción detallada.
           li 
             i.fas.fa-square 
-            | Diseño de elementos como bonotes, iconos e interacciones.
+            p.mb-0  Diseño de elementos como bonotes, iconos e interacciones.
           li 
             i.fas.fa-square 
-            | Además, conocer de diseños y guías de estilo, como los colores, diseños de tipografías y todo el entorno de diseño.   
+            p.mb-0  Además, conocer de diseños y guías de estilo, como los colores, diseños de tipografías y todo el entorno de diseño.   
       .col-lg-6
         .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img10.png') 
@@ -150,7 +150,7 @@
         p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudio previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
         div.p-4.mb-4(style="background-color: #FFF5E5")
           p.mb-0  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
-        p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el Card sorting, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
+        p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el <i>Card sorting</i>, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
       .col-lg-6
         .imagen-adornos-flotantes
             img(src='@/assets/curso/tema6/img11.png') 
@@ -189,7 +189,7 @@
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b><i>Benchmarking</i></b>
-            p.mb-0 Es un proceso mediante el cual se toman “comparadores” o “benchmark”, que permiten realizar un análisis comparativo frente a otros productos y servicios de empresas líderes en el mismo sector de mercado, a fin de implementar mejoras o buenas prácticas.
+            p.mb-0 Es un proceso mediante el cual se toman “comparadores” o “<i>benchmark</i>”, que permiten realizar un análisis comparativo frente a otros productos y servicios de empresas líderes en el mismo sector de mercado, a fin de implementar mejoras o buenas prácticas.
           .col-lg-5
             .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img14.png') 

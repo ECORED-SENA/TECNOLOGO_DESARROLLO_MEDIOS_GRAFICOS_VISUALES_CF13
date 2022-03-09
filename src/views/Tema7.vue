@@ -18,7 +18,7 @@
         p.mb-0 En este paso es de importancia utilizar los flujogramas que ayudan a maquetar la representación de la estructura, partes, funcionamiento y comportamiento en general, del sitio a desarrollar, perfilado por una línea de diseño, basado en la organización y la estructuración visual de sus componentes.
 
     #t_7_1.titulo-segundo.color-acento-contenido
-      h2 7.1   Diseño, guion, <i>storyboard</i>     
+      h2 7.1   Diseño, guion, <i>Storyboard</i>     
 
     .row.justify-content-center.mb-0(data-aos="zoom-in-up")
       .col-lg-6
@@ -187,18 +187,18 @@
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img09.png')  
-        .tarjeta.color-acento-contenido.p-4(titulo="Padding")
+        .tarjeta.color-acento-contenido.p-4(titulo="<i>Padding</i>")
           .row.align-items-center.justify-content-center
             .col-lg-7
-              h4.mb-4 Padding
+              h4.mb-4 <i>Padding</i>
               p.mb-0 El <i>padding</i> es el espacio entre el borde de una columna y su contenido
             .col-lg-5
               figure.mb-0
                 img(src='@/assets/curso/tema7/img10.png')  
-        .tarjeta.color-acento-contenido.p-4(titulo="Retícula Responsive")
+        .tarjeta.color-acento-contenido.p-4(titulo="Retícula <i>Responsive</i>")
           .row.align-items-center.justify-content-center
             .col-lg-7
-              h4.mb-4 Retícula Responsive
+              h4.mb-4 Retícula <i>Responsive</i>
               p.mb-0 El uso de nuevas tecnologías y sus diversos formatos, hacen que los elementos estéticos y de diseño se tengan que adaptar a su entorno y funcionalidad, esta retícula se adapta para conseguir una regularidad en las páginas <i>web</i>, aunque sean abiertas en diferentes dispositivos, con unas dimensiones de pantalla diferentes, que exigen un cambio estructural del diseño. A este cambio se le conoce como breakpoint (punto de ruptura).  
             .col-lg-5
               figure.mb-0
@@ -317,7 +317,7 @@
           .col-md-8
             h3 Metodologías Asíncronas 
             p.mb-4 Es un registro automático que se obtiene al tener un usuario que realiza una navegación, mientras se conoce como fue su recorrido al igual que los clics realizados, consiguiendo a su vez una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. 
-            p.mb-0 Es una metodología basada en tareas, lo que permite medir tiempos, clics; datos que son vitales para las empresas y su compresión de lo que el usuario hace y como se desenvuelve al momento de navegar por un sitio Web.  
+            p.mb-0 Es una metodología basada en tareas, lo que permite medir tiempos, clics; datos que son vitales para las empresas y su compresión de lo que el usuario hace y como se desenvuelve al momento de navegar por un sitio <i>Web</i>.  
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0
             h3 TEST A/B
@@ -370,7 +370,7 @@
                     figure.p-0.m-0.cubo-titulo
                       img.m-0(src='@/assets/curso/cubo.svg') 
         p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
-        p.mb-0 Clasificación de tarjetas o el llamado Card sorting, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
+        p.mb-0 Clasificación de tarjetas o el llamado <i>Card sorting</i>, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
     
     .row.align-items-center.justify-content-center(data-aos="zoom-in-up") 
       .col-lg-7
