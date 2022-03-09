@@ -71,7 +71,7 @@
       .col-lg-7.d-flex.align-items-center
         div
           .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Diseño ajustable                
+            h3.mb-0.me-3 Diseño ajustable                
 
           p.mb-4 Este formato o diseño, básicamente emplea el contenido como elementos (textos e imágenes) flotantes, dándoles una organización según el tamaño del dispositivo en el cual se está visualizando, lo que ejerce que su aspecto y posicionamiento dependa de las dimensiones de la pantalla de dicho dispositivo, al igual que su orientación, sea vertical u horizontal, ayudando a los usuarios que los contenidos se organicen para optimizar la legibilidad de las dimensiones.
           div.p-4.mb-4(style="background-color: #FFF5E5")
@@ -109,7 +109,7 @@
         .col-lg-7
           p.mb-5 Vistos y entendidas las dos clases de diseños que existen, se avanza al archivo EPUB, y es que la diferencia radica que un EPUB es un formato único y que por ende posee una extensión como tal (.EPUB) <b>que se perfila directamente sobre los diseños ajustables, dada su facilidad de ajustarse a todos los dispositivos sin perder calidad.</b>
           .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Diseño fijo
+            h3.mb-0.me-3 Diseño fijo
                 
           
           p.mb-4  El Diseño fijo o también conocido como disposición pre-paginada, actúa como un “bloqueo” al contenido, de la misma manera que actuaría un PDF, siendo una gran ventaja para los diseños que incluyen historietas, o ilustraciones de libros para niños, donde las imágenes se deben ubicar en ciertas posiciones puntuales o fijas y que dependen del 100% de sus diseños y construcciones editoriales los que se apoyan en este tipo de diseño, siendo la versión digital más usada para las publicaciones que utilizan imágenes pesadas, fotografías a gran resolución, etc.

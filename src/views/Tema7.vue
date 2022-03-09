@@ -32,7 +32,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Tipografía
+            h3.mb-0.me-3 Tipografía
           
 
 
@@ -65,7 +65,7 @@
               p.mb-0 Las letras más usuales son Helvética, Calibri, Verona  evitar el uso de muchos elementos en su construcción ya que dificultaría la lectura de los usuarios. 
 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Color
+            h3.mb-0.me-3 Color
           
 
     p.mb-5 El color es uno de los elementos principales de cualquier tipo de diseño, a continuación algunos elementos para seleccionarlo. 
@@ -120,7 +120,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Imágenes
+            h3.mb-0.me-3 Imágenes
               
         p.mb-4 En diseño de publicaciones digitales que se distribuyen en la <i>web</i>, es de vital importancia el buen manejo y uso de las imágenes, en cuanto a su calidad y resolución. 
         p.mb-4 <b>El uso de formatos adecuados, una excelente resolución y calidad son de vital importancia, ya que con los avances y mejoras en HTML5 y CSS3 y su compatibilidad con diversos navegadores, permiten una mejor calidad y usabilidad de los componentes.</b>
@@ -129,7 +129,7 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in") 
       .col-lg-6        
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Animación y videos
+            h3.mb-0.me-3 Animación y videos
               
         p.mb-4 as animaciones, videos y demás elementos visuales con movimiento, hacen mucho más atractivo cualquier sitio <i>web</i>, sin embargo, representan algo de peso extra por sus características generales, se recomienda que no sobrepasen un 30 % ya que pueden causar saturación y lentitud, haciendo que la usabilidad de las páginas se reduzca y sean los usuarios los que decidan buscar otras opciones.
         p.mb-0 A continuación, algunos elementos de relevancia en el diseño como botones e íconos, retículas de diseño, columnas, <i>padding</i> y retícula <i>responsive</i>.
@@ -189,7 +189,7 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-up") 
       .col-lg-6        
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 El guion literario
+            h3.mb-0.me-3 El guion literario
               
         p.mb-4 El guion literario es una herramienta secuencial en del desarrollo de productos multimedia, está enmarcada en el diseño mismo de aplicabilidad, en la creación y concepto del producto.  Se necesita un guion literario para describir paso a paso el contenido total de un proyecto, que exprese en forma detallada lo que se quiere transmitir, es decir el mensaje, por lo que es preciso investigar y preparar la historia. Describe las diversas situaciones, los diálogos, las acciones en la historia a contar. 
         p.mb-0 Este guion podrá ser de ficción o realidad, en esta última clasificación se encuentran los guiones informativos, los de formación y de opinión, los cuales sirven para evitar incongruencias, nerviosismo, titubeos, coletillas, etc.; enfocándose en el tema y logrando precisión en el desarrollo de la historia.
@@ -209,7 +209,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-6        
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 <i>Storyboard</i>
+            h3.mb-0.me-3 <i>Storyboard</i>
               
         p.mb-4 El <i>storyboard</i> o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
         p.mb-4 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
@@ -254,7 +254,7 @@
     p.mb-5 Las pruebas como su nombre lo indica es la posibilidad que un usuario en vez de realizar preguntas de ¿cómo resolverlo? O ¿Cómo hacerlo? Sea el mismo el encargado de resolver su pregunta.
     
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Tipos
+            h3.mb-0.me-3 Tipos
               
     p.mb-0 A continuación, los principales tipos de pruebas de usabilidad
     
@@ -294,7 +294,7 @@
 
 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Indicadores de usabilidad
+        h3.mb-0.me-3 Indicadores de usabilidad
               
     p.mb-5 La usabilidad no solo se pone a prueba, generalmente se mide por indicadores que son tanto cuantificables como observables y desde los que se puede obtener resultados más visibles, dando resultados concretos que permitirán tomar las medidas necesarias. 
 
@@ -313,11 +313,11 @@
       .col-lg-8
         p.mb-4 Pasos para determinar la usabilidad de un sitio:
         .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Determinar métricas y crear análisis de tareas
+            h3.mb-0.me-3 Determinar métricas y crear análisis de tareas
                   
         p.mb-5 Se delimitan las pruebas mediante el uso de métricas que midan los factores en pro y en contra referentes a la usabilidad, eficacia y eficiencia de los componentes de un proyecto.  Aquí hay medición de objetivos dirigidos al usuario, manejo de ruta y análisis de tareas de los componentes entre otras.  Se construye un flujograma de tareas, con tiempos y acciones a trabajar.
         .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Identificar el mejor tipo de prueba
+            h3.mb-0.me-3 Identificar el mejor tipo de prueba
                   
         p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
         p.mb-0 Clasificación de tarjetas o el llamado <i>Card sorting</i>, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 

@@ -50,7 +50,7 @@
       .col-lg-8
         p.mb-5 Teniendo claras las similitudes y diferencias de los impresos y digitales, a continuación, se conocerán algunas de las principales presentaciones de publicaciones electrónicas:
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 <i>Ebooks</i>
+            h3.mb-0.me-3 <i>Ebooks</i>
               
         
         p.mb-5 <b>El <i>ebook</i> o libro en formato digital o electrónico, está diseñado para poder ser leído en cualquier dispositivo electrónico, tiene muchas similitudes con un libro impreso,</b> sin embargo, las publicaciones en medios digitales presentan las siguientes ventajas frente a las impresas:
@@ -115,7 +115,7 @@
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-6        
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 <i>E-Magazine</i> - Revista electrónica
+            h3.mb-0.me-3 <i>E-Magazine</i> - Revista electrónica
               
 
         p.mb-0 La revista electrónica utiliza recursos multimedia y presenta las mismas características de la revista tradicional, se distribuye en el mercado con un periodo regular, contiene una portada, contraportada, parte editorial, índice, fotos, textos, artículos, anuncios, publicidad, ilustraciones etc. <b>Este tipo de publicación puede ser presentada en diferentes formatos como el PDF, HTML, EPUB, entre otros. Una revista puede ser:</b> 
@@ -171,7 +171,7 @@
       .col-lg-8        
         .row.justify-content-start.mb-4
           .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Presentaciones digitales
+            h3.mb-0.me-3 Presentaciones digitales
               
 
         p.mb-4 Las presentaciones digitales son productos multimedia, realizados en computador, que contienen diapositivas (<i>slide</i>) con información relevante de un tema en particular, casi siempre una presentación es un documento en el cual se debe incluir mucha información, por este motivo es preciso definir la información más relevante a presentar, la cual debe ser clara y concisa, utilizando la menor cantidad de textos, e integrando otros recursos como imágenes, fotografías, esquemas, videos, entre otros.
@@ -182,7 +182,7 @@
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")      
       .col-lg-6
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 Catálogos
+            h3.mb-0.me-3 Catálogos
               
 
         p.mb-4 El catálogo es una pieza netamente comercial que utilizan las empresas para dar a conocer sus productos, bienes o servicios y con ello generar ventas. Esta pieza depende de la calidad de la imagen ya que los productos mostrados no se pueden medir, probar o tocar, solo se puede mirar.  Los catálogos de ventas electrónicos son elementos de marketing directo, son muy utilizados pues ahorran a las empresas millones de pesos en publicidad y ayudan con el cuidado del medio ambiente. 
@@ -241,7 +241,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  ; right: -9% ; top: ; bottom: 13% ; width: 60px ")
       .col-lg-8
         .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-            h4.mb-0.me-3 <i>E-card</i>
+            h3.mb-0.me-3 <i>E-card</i>
               
 
         p.mb-4 Ecard o tarjeta virtual, hace referencia a una pieza gráfica principalmente utilizada hoy en día por grandes empresas de redes sociales dentro de sus contenidos, es un formato actual, estructurado y llamativo para el usuario, que se distribuye y consume de manera rápida.
