@@ -111,7 +111,7 @@
           .col-lg-6.d-flex.align-items-center
             div
               p.color-1.mb-4 <b>Mesa giratoria de impresión en China</b>
-              p.mb-0 Retomando la invención de los chinos, basados en la invención de los bloques de arcilla y la tinta, es por 1298, que Wang Zhen perfecciona su invento y transforma los bloques de arcilla en bloques de madera e inventando una mesa giratoria, hace que mejorare sus técnicas de impresión. 
+              p.mb-0 Retomando la invención de los chinos, basados en la invención de los bloques de arcilla y la tinta, es por 1298, que Wang Zhen perfecciona su invento y transforma los bloques de arcilla en bloques de madera e inventando una mesa giratoria, hace que mejoren sus técnicas de impresión. 
           .col-lg-5.ps-5.pe-4
             .imagen-adornos-flotantes
               img(src='@/assets/curso/tema1/img11.png') 

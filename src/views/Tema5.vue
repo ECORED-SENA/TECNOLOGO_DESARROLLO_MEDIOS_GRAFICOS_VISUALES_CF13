@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.d-flex
         div
-          p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1"><b>UX</b></font> (<i>User Expirence</i> en inglés, o experiencia de usuario ) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
+          p.mb-4 La arquitectura de la información va muy ligada al concepto <font class="color-1"><b>UX</b></font> (<i>User Expirence</i> en inglés, o experiencia de usuario) y se puede definir como la organización de todas las partes de algo, para que sea lo más comprensible posible. 
           b.mb-0 La arquitectura de la información busca básicamente el ordenamiento de todos los datos disponibles para que el usuario de manera lógica y ordenada realice la búsqueda de forma más rápida, fácil, ágil y dinámica.
       .col-lg-3(style="background-color:#FFF4C6")
         figure.mb-0
@@ -135,8 +135,8 @@
         .row.justify-content-center(titulo="c. Definir el mapa")
           .col-lg-8.ps-5
             div
-              p.mb-4 Esta tercera etapa, consiste en ubicar todos los elementos anteriormente inventariadas y agrupas, en un mapa que permitirá ver y reflejar las relaciones y agrupaciones establecidas entre todos los contenidos y elementos.
-              p.mb-0 En algunas ocasiones será necesario renombrar o re categorizar algunas, o por el contrario cambiar de posición, todo por encontrar lo mejor al momento de pensar en la usabilidad de los usuarios.  
+              p.mb-4 Esta tercera etapa, consiste en ubicar todos los elementos anteriormente inventariados y agrupados, en un mapa que permitirá ver y reflejar las relaciones y agrupaciones establecidas entre todos los contenidos y elementos.
+              p.mb-0 En algunas ocasiones será necesario renombrar o recategorizar algunas, o por el contrario cambiar de posición, todo por encontrar lo mejor al momento de pensar en la usabilidad de los usuarios.  
           .col-lg-4
             figure.mb-0(data-aos="zoom-in-up")
               img(src='@/assets/curso/tema5/img11.png') 
@@ -147,7 +147,7 @@
         .col-lg-7
           LineaTiempoD.color-acento-botones
             div(numero="1" titulo="Estructura Jerárquica")
-              p.mb-4  Es de las estructuras más utilizadas, tiene forma de árbol y desde su raíz descienden todos sus elementos, su principal beneficio para los usuarios es poder saber siempre donde está ubicado, permitiendo recrear mapas mentales de las estructuras de los sitios, en este tipo de estructuras en natural que los usuarios deban navegar sobre sus pasos para llegar a las cabezas de los menús, lo que no permite la libre navegación de los sitios.  
+              p.mb-4  Es de las estructuras más utilizadas, tiene forma de árbol y desde su raíz descienden todos sus elementos, su principal beneficio para los usuarios es poder saber siempre donde está ubicado, permitiendo recrear mapas mentales de las estructuras de los sitios, en este tipo de estructuras es natural que los usuarios deban navegar sobre sus pasos para llegar a las cabezas de los menús, lo que no permite la libre navegación de los sitios.  
               .row.justify-content-center
                 .col-lg-4
                   figure.mb-0
@@ -179,7 +179,7 @@
             h3.mb-0.me-3 Implementación
               
         
-        p.mb-4 La IA concluye con la documentación que permite la detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan <i>software</i> especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
+        p.mb-4 La IA concluye con la documentación que permite detallar la estructura ya reflejada para su posterior desarrollo e implementación, en muchos casos, se utilizan <i>software</i> especializados que dependerán del presupuesto y la infraestructura del proyecto; muchas de estas implementaciones se delegan a equipos de trabajo lo cuales tendrán las herramientas óptimas para la prueba y desarrollo de cada una. 
         p.mb-4 A su vez, se deben trabajar las documentaciones de los procesos y las descripciones específicas de cada uno, donde se encontrarán las implementaciones y toda la documentación técnica de flujogramas y descripciones de procesos. 
         p.mb-0 Cada proceso tendrá su propio flujo de interacciones y evaluará la correcta funcionalidad y usabilidad del proyecto. 
       .col-lg-6.d-flex.align-items-center
@@ -209,7 +209,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left:  0% ; right:; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:  -5% ; right: ; top: ; bottom: 10% ; width: 60px ")      
     
-    p.mb-5 Las heurísticas o el conjunto de técnicas o métodos para resolver un problema” del griego “hallar, inventar”, son una serie de elementos a tener en cuenta al momento de evaluar el diseño de las interfaces de usuario, recopiladas por el ingeniero Jakob Nielsen:
+    p.mb-5 Las heurísticas o el conjunto de técnicas o métodos para resolver un problema del griego “hallar, inventar”, son una serie de elementos a tener en cuenta al momento de evaluar el diseño de las interfaces de usuario, recopiladas por el ingeniero Jakob Nielsen:
 
     .row.justify-content-start.mb-5(data-aos="zoom-in-up")
       .col-lg-4
@@ -251,7 +251,7 @@
             i.fas.fa-square 
             | Ayuda y documentación.
         
-        p.mb-0 Para aplicar de manera objetiva los principios de usabilidad, se debe dar una calificación o medida a cada uno de los componentes; por ejemplo, aquellos que no cumplen con las necesidades requeridas se califican con 0, los que van en proceso, pero aún tienen falencias se califican con un valor de tres ( 3), y los que cumplen con todos los estándares de calidad con cinco (5), esto con el objetivo de realizar las mejoras respectivas. 
+        p.mb-0 Para aplicar de manera objetiva los principios de usabilidad, se debe dar una calificación o medida a cada uno de los componentes; por ejemplo, aquellos que no cumplen con las necesidades requeridas se califican con (0), los que van en proceso, pero aún tienen falencias se califican con un valor de tres (3), y los que cumplen con todos los estándares de calidad con cinco (5), esto con el objetivo de realizar las mejoras respectivas. 
 
     .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Ventajas e inconvenientes de la evaluación heurística
@@ -409,7 +409,7 @@
                       .col-6
                         img(src='@/assets/curso/tema5/img31.svg' alt='AvatarTop')
                     h4.text-center.text-white.mb-4 Elección
-                    p.text-center.text-white.bm-0 Una vez entendido los elementos, las acciones, sus interacciones y toda la información pertinente, es importante seleccionar el mejor y más atractivo diseño al momento de ubicar las acciones, como se van a representar y las acciones más de más validez para los usuarios finales, es igual de importante decidir el grado de detalle, esto ayudará a tener análisis mejor referenciado.
+                    p.text-center.text-white.bm-0 Una vez entendido los elementos, las acciones, sus interacciones y toda la información pertinente, es importante seleccionar el mejor y más atractivo diseño al momento de ubicar las acciones, como se van a representar y las acciones de más validez para los usuarios finales, es igual de importante decidir el grado de detalle, esto ayudará a tener un análisis mejor referenciado.
 
                   .tarjeta.color-primario.py-5.px-4
                     .row.justify-content-center.mb-3
@@ -441,10 +441,10 @@
             | Ofrece una compresión del proceso e identifica relaciones e incidencias difíciles de percibir, es así como estos diagramas ayudan a centrarse en aspectos más específicos y de las conexiones y vínculos con otros procesos.
           li 
             i.fas.fa-square 
-            | Define y se comprenden mejor los límites de los procesos, que no están bien definidos y que pude involucrar actores externos como proveedores o los mismos clientes, acá se pueden entender mejor estas relaciones indicando hasta donde llegan algunos eslabones de la cadena.
+            | Define y se comprenden mejor los límites de los procesos, que no están bien definidos y que puede involucrar actores externos como proveedores o los mismos clientes, acá se pueden entender mejor estas relaciones indicando hasta donde llegan algunos eslabones de la cadena.
           li 
             i.fas.fa-square 
-            | Es más sencillo la identificación de las necesidades y satisfacciones de los clientes.
+            | Es más sencillo la identificación de las necesidades y satisfacción de los clientes.
           li 
             i.fas.fa-square 
             | Estimula poder estudiar procesos que no se tienen contemplados y se generan otras alternativas más favorables.
@@ -453,7 +453,7 @@
             | Introduciendo otros elementos de las cadenas de producción es posible encontrar métodos de comunicación más asertivos y directos entre los mismos grupos.
           li 
             i.fas.fa-square 
-            | Identifica y aporta actividades a los procesos, identificando por el contrario cuales son innecesarios, cuales toman más tiempo y cuales mayores costes.
+            | Identifica y aporta actividades a los procesos, identificando por el contrario cuáles son innecesarios, cuáles toman más tiempo y cuáles mayores costes.
           li 
             i.fas.fa-square 
             | Introduce medios de control, convirtiendo el flujo en una herramienta que establece los objetivos y las metas a tratar.

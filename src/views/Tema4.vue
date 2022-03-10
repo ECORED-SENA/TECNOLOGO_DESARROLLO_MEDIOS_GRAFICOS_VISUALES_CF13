@@ -61,7 +61,7 @@
           .row.mb-0
             .col-lg-6.px-4
               h3.mb-5.color-1 Sesiones creativas
-              p.mb-0 Las sesiones creativas son fundamentales para el desarrollo de nuevas ideas, estrategias, metodologías y puesta en marcha del proyecto. Allí confluye todo el equipo de expertos y nacen las mejores ideas. Para que estas sesiones sean productivas, es necesario implementar un planning con reuniones periódicas y actividades definidas para cada persona o grupos de trabajo. Una estrategia que se puede implementar es la lluvia de ideas.
+              p.mb-0 Las sesiones creativas son fundamentales para el desarrollo de nuevas ideas, estrategias, metodologías y puesta en marcha del proyecto. Allí confluye todo el equipo de expertos y nacen las mejores ideas. Para que estas sesiones sean productivas, es necesario implementar un <i>planning</i> con reuniones periódicas y actividades definidas para cada persona o grupos de trabajo. Una estrategia que se puede implementar es la lluvia de ideas.
             .col-lg-6.px-4
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img06.png') 
@@ -105,7 +105,7 @@
                   | Determina la calidad de los componentes y las entregas ejecutadas.
                 li 
                   i.fas.fa-square 
-                  | Tiene en cuenta el feedbacks o retroalimentación de los clientes con la empresa y de los integrantes de los equipos de trabajo.
+                  | Tiene en cuenta el <i>feedback</i> o retroalimentación de los clientes con la empresa y de los integrantes de los equipos de trabajo.
             .col-lg-6
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img09.png') 

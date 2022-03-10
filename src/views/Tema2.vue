@@ -92,7 +92,7 @@
 
                 h4.text-center Ventajas
                 p.mb-4.text-center El texto se puede editar en la pantalla a gusto del usuario sin pérdida de calidad.<br>Estos diseños son más fáciles, más rápidos y más baratos para producir.
-                p.mb-0.text-center Su tamaño para guardar y almacenar en pequeño en comparación con otros formatos.<br>Son legibles por todos los dispositivos de lectura de EPUB.
+                p.mb-0.text-center Su tamaño para guardar y almacenar es pequeño en comparación con otros formatos.<br>Son legibles por todos los dispositivos de lectura de EPUB.
           .col-lg-4.d-flex
             .tarjeta--boton.color-primario.p-4
               .row.justify-content-center.mb-3
@@ -100,7 +100,7 @@
                   figure
                     img.m-0(src='@/assets/curso/tema2/img07.png')  
 
-              h4.text-center Desentajas
+              h4.text-center Desventajas
               p.mb-4.text-center Los autores tienen poco o ningún control sobre como se visualizan sus obras, perdiendo la mística de los libros con ilustraciones e imágenes.
               p.mb-0.text-center Estos diseños EPUB solo admiten formatos sencillos como columnas simples.<br>Sus fuentes incrustadas son escasas.            
 
@@ -112,7 +112,7 @@
             h3.mb-0.me-3 Diseño fijo
                 
           
-          p.mb-4  El Diseño fijo o también conocido como disposición pre-paginada, actúa como un “bloqueo” al contenido, de la misma manera que actuaría un PDF, siendo una gran ventaja para los diseños que incluyen historietas, o ilustraciones de libros para niños, donde las imágenes se deben ubicar en ciertas posiciones puntuales o fijas y que dependen del 100% de sus diseños y construcciones editoriales los que se apoyan en este tipo de diseño, siendo la versión digital más usada para las publicaciones que utilizan imágenes pesadas, fotografías a gran resolución, etc.
+          p.mb-4  El Diseño fijo o también conocido como disposición pre-paginada, actúa como un “bloqueo” al contenido, de la misma manera que actuaría un PDF, siendo una gran ventaja para los diseños que incluyen historietas, o ilustraciones de libros para niños, donde las imágenes se deben ubicar en ciertas posiciones puntuales o fijas y que dependen del 100 % de sus diseños y construcciones editoriales los que se apoyan en este tipo de diseño, siendo la versión digital más usada para las publicaciones que utilizan imágenes pesadas, fotografías a gran resolución, etc.
           .tema2
             .cajon.color-acento-contenido.p-4       
               p.mb-0 Este formato trabaja como una copia o réplica digitalizada de los libros impresos, con la ventaja de poder añadir elementos interactivos, lo que permite más interacción por parte del usuario, por otro lado, es posible que toque hacer desplazamientos verticales, horizontales y de zoom, para poder acceder a todo el contenido.  
@@ -123,7 +123,7 @@
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 20% ; width: 60px ")   
 
-    p.mb-5 No es el formato más sencillo con el cual trabajar, pero permite a los diseñadores y autores, tener un control total sobre sus obras y diseños, como se van a visualizar, como se va a visualizar, etc.
+    p.mb-5 No es el formato más sencillo con el cual trabajar, pero permite a los diseñadores y autores, tener un control total sobre sus obras y diseños, cómo se van a visualizar, etc.
 
 
     div.p-0.mb-5
@@ -147,7 +147,7 @@
                 figure
                   img.m-0(src='@/assets/curso/tema2/img11.png')  
 
-            h4.text-center Desentajas
+            h4.text-center Desventajas
             p.mb-4 Estos tipos de EPUB no le dan al lector la posibilidad de editar ningún elemento como la tipografía o el tamaño de letra, lo cual no es lo más recomendado para personas con problemas de visión.
             p.mb-4 No todos están a favor de estos diseños, ya que reduce el porcentaje de los usuarios y a su vez el alcance será limitado.
             p.mb-0 Son documentos que pesan más que un archivo o diseño ajustable, por eso son más costosos, tanto para su adquisición como para su producción.

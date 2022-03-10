@@ -55,7 +55,7 @@
       .col-lg-6.d-flex
         div.p-3.tema-6-div1
           p.color-1.text-center.mb-3 <b>Ejemplo 2</b>
-          p.mb-0 En el segundo ejemplo, permitimos que en usuario pueda ir a la página anterior, le permite seleccionar otras opciones como el tamaño y la cantidad; acá encontramos una usabilidad muy interesante.
+          p.mb-0 En el segundo ejemplo, permitimos que el usuario pueda ir a la página anterior, le permite seleccionar otras opciones como el tamaño y la cantidad; acá encontramos una usabilidad muy interesante.
       .col-lg-2
 
     .row(style="position: relative; top:-30px")
