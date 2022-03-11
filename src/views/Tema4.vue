@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 PreProducción
+      h1 Preproducción
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-7.d-flex.align-items-center
@@ -115,7 +115,7 @@
           .row.mb-0
             .col-lg-6.px-4
               h3.mb-5.color-1 Producción
-              p.mb-0 La pre producción se puede decir que finaliza en este paso, es acá cuando la planificación y todos los pasos anteriores conjugan para que se puedan hacer las creaciones pactadas. Acá se establecen las últimas acciones para dar inicio a la fase de producción, y se prepara lo último para establecer y revisar los cronogramas, para tener buenos resultados.
+              p.mb-0 La preproducción se puede decir que finaliza en este paso, es acá cuando la planificación y todos los pasos anteriores conjugan para que se puedan hacer las creaciones pactadas. Acá se establecen las últimas acciones para dar inicio a la fase de producción, y se prepara lo último para establecer y revisar los cronogramas, para tener buenos resultados.
             .col-lg-6
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img10.png')     
