@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Actividad didáctica 1
-        p.mb-4 Apreciado aprendiz, la presente actividad tiene como objetivo validar y reforzar los conocimientos y conceptos aprendidos a lo largo del componente formativo, para lo cual se presentarán una serie de definiciones de las cuales deberá indicar cuál es la respuesta correcta según las opciones presentdas.
+        p.mb-4 Apreciado aprendiz, la presente actividad tiene como objetivo validar y reforzar los conocimientos y conceptos aprendidos a lo largo del componente formativo, para lo cual se presentarán una serie de definiciones de las cuales deberá indicar cuál es la respuesta correcta según las opciones presentadas.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

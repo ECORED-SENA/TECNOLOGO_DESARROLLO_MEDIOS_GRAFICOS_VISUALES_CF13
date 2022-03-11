@@ -4,8 +4,20 @@
 1.26.9: Corresponde a lider, se siguiere unificar la manera de escribir Preproduccion
 1.26.20: Se aplica correccion, pero qued pendiente algo que debe revisar el lider
 *1.26.26: No logro reproducir el caso en desarrollo, navegadores chrome y firefox
+
 1.26.34: Modificacion sobre imagen que ya tiene cambios
 1.26.35: Modificacion sobre imagen que ya tiene cambios
+
+1.26.38: Modificacion sobre imagen que ya tiene cambios
+1.26.39: Modificacion sobre imagen que ya tiene cambios
+1.26.40: Corresponde a lider, se siguiere unificar la manera de escribir Ebooks, EMagazine y E Cards
+1.26.41: Modificacion sobre imagen que ya tiene cambios
+
+1.26.43: Unidad didactica
+1.26.44: Unidad didactica
+1.26.45: Unidad didactica
+
+1.26.46: El descargable
 
 
 
