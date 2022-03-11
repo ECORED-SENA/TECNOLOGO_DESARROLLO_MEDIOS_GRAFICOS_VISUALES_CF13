@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 <i>Ebooks</i>, <i>emagazines</i>, presentaciones, catálogos, <i>ecards</i>
+      h1 <i>Ebooks</i>, <i>e-magazines</i>, presentaciones, catálogos, <i>e-cards</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.d-flex
@@ -244,7 +244,7 @@
             h3.mb-0.me-3 <i>E-card</i>
               
 
-        p.mb-4 Ecard o tarjeta virtual, hace referencia a una pieza gráfica principalmente utilizada hoy en día por grandes empresas de redes sociales dentro de sus contenidos, es un formato actual, estructurado y llamativo para el usuario, que se distribuye y consume de manera rápida.
+        p.mb-4 E-card o tarjeta virtual, hace referencia a una pieza gráfica principalmente utilizada hoy en día por grandes empresas de redes sociales dentro de sus contenidos, es un formato actual, estructurado y llamativo para el usuario, que se distribuye y consume de manera rápida.
         p.mb-4 La eficiencia de los diseños en la <i>web</i>, incluyen las siguientes características:
         ul.lista-ul--color               
           li 

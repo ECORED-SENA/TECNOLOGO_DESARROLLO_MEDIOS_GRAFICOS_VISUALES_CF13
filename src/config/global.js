@@ -47,7 +47,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          '<i>Ebooks</i>, <i>emagazines</i>, presentaciones, catálogos, <i>ecards</i>',
+          '<i>Ebooks</i>, <i>e-magazines</i>, presentaciones, catálogos, <i>e-cards</i>',
         desarrolloContenidos: true,
       },
       {
