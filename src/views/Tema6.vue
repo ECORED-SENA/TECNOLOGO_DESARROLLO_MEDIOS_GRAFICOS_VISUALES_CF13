@@ -84,7 +84,7 @@
       .row.justify-content-center
         .col-lg-8.p-4
           figure.mb-0
-            img(src='@/assets/curso/tema6/img07.svg') 
+            img(src='@/assets/curso/tema6/img07.png') 
 
     Separador
 
@@ -114,9 +114,9 @@
           .cajon.color-acento-contenido.p-4       
             p.mb-0 Es importante destacar que el usuario digital desea que la experiencia sea agradable, sencilla, funcional, interesante y atrayente, a través de la percepción de formas, colores y diseños que le resulten muy atractivos, con indicaciones de interacción claras y concretas; que se traduzca en una venta efectiva, o en el retorno o permanencia de dicho usuario con la página <i>web</i>.
         h4.mb-4.color-1 UI = arquitectura de información + elementos visuales + interacción.
-        p.mb-0 En síntesis, se puede decir que el UI da el Look and Feel con la estructura e interacción de los elementos, un buen manejo y uso de una UI, permite un excelente manejo de la UX, aunque no lo es todo, son solo instrumentos que ayudan a orientar y guiar a los usuarios para llegar a un objetivo.
+        p.mb-0 En síntesis, se puede decir que el UI da el <i>Look and Feel</i> con la estructura e interacción de los elementos, un buen manejo y uso de una UI, permite un excelente manejo de la UX, aunque no lo es todo, son solo instrumentos que ayudan a orientar y guiar a los usuarios para llegar a un objetivo.
       
-    p.mb-5 En contra parte con los UX, un UI <i>Designer</i>, es la persona encargada en crear las interfases para que los productos sean acordes a la experiencia de los usuarios, además cuenta con la necesidad de adaptar o preservar la visualización en todos los dispositivos, trabaja de la mano con el desarrollador <i>web</i>, proporcionando guías de estilos y patrones de uso, dentro de las actividades que un UI debe realizarse encuentra:
+    p.mb-5 En contra parte con los UX, un UI <i>Designer</i>, es la persona encargada en crear las interfases para que los productos sean acordes a la experiencia de los usuarios, además cuenta con la necesidad de adaptar o preservar la visualización en todos los dispositivos, trabaja de la mano con el desarrollador <i>web</i>, proporcionando guías de estilos y patrones de uso, dentro de las actividades que un UI debe realizar se encuentran:
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-up")
       .col-lg-6
@@ -129,7 +129,7 @@
             p.mb-0  Guías de interacción que serán los caminos claves a seguir para que el usuario haga una compra o haga una acción detallada.
           li 
             i.fas.fa-square 
-            p.mb-0  Diseño de elementos como bonotes, iconos e interacciones.
+            p.mb-0  Diseño de elementos como botones, iconos e interacciones.
           li 
             i.fas.fa-square 
             p.mb-0  Además, conocer de diseños y guías de estilo, como los colores, diseños de tipografías y todo el entorno de diseño.   
@@ -164,8 +164,8 @@
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-6
             p.mb-4.color-1 <b>Análisis del proyecto y definición de los objetivos</b>
-            p.mb-4 Se debe iniciar por dar respuesta a los siguientes interrogantes: ¿por qué es necesario la creación del sitio <i>web</i> y para qué se necesita?, ¿qué buscarán los usuarios y qué imagen se quiere causar en ellos?, ¿qué recursos se tienen, y cuánto tiempo se requerirá para su creación?
-            p.mb-0 Los objetivos deben ser medibles, por lo tanto, es importante determinar o segmentar el tipo clases o perfiles de usuarios que tendrá el sitio <i>web</i>, pues con base en ello se delimitan los criterios de diseño y contenido, así como el lenguaje que se utilizará y la estética del sitio <i>web</i>.
+            p.mb-4 Se debe iniciar por dar respuesta a los siguientes interrogantes: ¿por qué es necesaria la creación del sitio <i>web</i> y para qué se necesita?, ¿qué buscarán los usuarios y qué imagen se quiere causar en ellos?, ¿qué recursos se tienen, y cuánto tiempo se requerirá para su creación?
+            p.mb-0 Los objetivos deben ser medibles, por lo tanto, es importante determinar o segmentar el tipo de clases o perfiles de usuarios que tendrá el sitio <i>web</i>, pues con base en ello se delimitan los criterios de diseño y contenido, así como el lenguaje que se utilizará y la estética del sitio <i>web</i>.
           .col-lg-5
             .imagen-adornos-flotantes
               img(src='@/assets/curso/tema6/img12.png') 
@@ -334,7 +334,7 @@
     
     .row.mb-0(data-aos="zoom-in-up")
       .col-lg-6
-        p.mb-4 Es preciso determinar el lenguaje y la redacción deben estar acordes con los requerimientos de la <i>web</i>. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
+        p.mb-4 Es preciso determinar que el lenguaje y la redacción deben estar acordes con los requerimientos de la <i>web</i>. Deben ser textos cortos, claros, precisos y dinámicos, que permitan extenderse mediante enlaces, que puedan interrelacionarse con la misma página o con otras. A veces los enlaces se dirigen a textos extensos, que deben ser opcionales para el usuario, señalando la fuente y la fecha.
         p.mb-4 <b>La información debe tener una estructura lógica y ordenada; sin embargo, en la página <i>web</i> la lectura no es secuencial como en un libro. Debe tener estructura en niveles y jerarquías, con el objetivo de que el usuario digital encuentre lo que necesite.</b>
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema6/img27.png') 
@@ -373,7 +373,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left:   ; right: -5% ; top: ; bottom: 15% ; width: 60px ")      
       .col-lg-8.d-flex.align-items-center.p-0
         div.p-4(style="background-color:#F6F6F6")
-          p.mb-4 Se pueden encontrar en el mercado, sistemas de gestión de contenido conocidos por sus siglas como CMS, y son estos, softwares que ayudan a los usuarios a crear, administrar y domificar contenido de un sitio WEB, sin la necesidad de conocimientos de programación, siendo lenguajes mucho más simples, transformándose en herramientas necesarias si se piensan construir proyectos desde cero y sin el conocimiento especializado. 
+          p.mb-4 Se pueden encontrar en el mercado, sistemas de gestión de contenido conocidos por sus siglas como CMS, y son estos, software que ayudan a los usuarios a crear, administrar y modificar contenido de un sitio <i>web</i>, sin la necesidad de conocimientos de programación, siendo lenguajes mucho más simples, transformándose en herramientas necesarias si se piensan construir proyectos desde cero y sin el conocimiento especializado. 
           p.mb-0 <b>Estos gestores proporcionan entornos posibles a actualizaciones y mantenimientos sin la necesidad de otros usuarios, ni el conocimiento técnico para su manipulación.</b>    
 </template>
 

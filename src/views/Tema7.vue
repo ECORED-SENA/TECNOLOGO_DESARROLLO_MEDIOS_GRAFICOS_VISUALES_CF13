@@ -36,18 +36,18 @@
           
 
 
-    p.mb-4 El texto se convierte en un recurso muy importante en entornos digitales es importante tener presentes las siguientes características:             
+    p.mb-4 El texto se convierte en un recurso muy importante, en entornos digitales es importante tener presentes las siguientes características:             
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .tema-7-info
           ImagenInfografica.color-acento-contenido.mb-5
             template(v-slot:imagen)
-              figure
+              figureya
                 img(src='@/assets/curso/tema7/img26.png')               
 
             .tarjeta.color-acento-contenido.p-3(x="48%" y="19.5%" numero="1")            
-              p.mb-0 Buen tamaño que sea legible.       
+              p.mb-0 Buen tamaño, que sea legible.       
 
             .tarjeta.color-acento-contenido.p-3(x="13.3%" y="41.8%" numero="2")            
               p.mb-0 Es importante crear contenidos con tipografías que sean claras, fáciles de leer y conseguir en la red, para que el consumidor no tenga dificultades.
@@ -62,7 +62,7 @@
               p.mb-0 Considerar también los fondos sobre los cuales se van a situar los textos, ya que pueden dificultar la lectura y legibilidad, por eso será el color el siguiente tema. 
 
             .tarjeta.color-acento-contenido.p-3(x="85%" y="47%" numero="6")            
-              p.mb-0 Las letras más usuales son Helvética, Calibri, Verona  evitar el uso de muchos elementos en su construcción ya que dificultaría la lectura de los usuarios. 
+              p.mb-0 Las letras más usuales son Helvética, Calibri, Verona.  Evitar el uso de muchos elementos en su construcción, ya que dificultaría la lectura de los usuarios. 
 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Color
@@ -100,7 +100,7 @@
           .row.align-items-center
             .col-lg-6
               h4.mb-4.color-1 Color
-              p.mb-4 Para escoger correctamente la paleta de colores, se debe revisar la información condensada en el brief y utilizar los colores propuestos en el proyecto. 
+              p.mb-4 Para escoger correctamente la paleta de colores, se debe revisar la información condensada en el <i>brief</i> y utilizar los colores propuestos en el proyecto. 
               p.mb-4 La psicología del color en este tipo de piezas es fundamental en el desarrollo de las mismas.  
               p.mb-0 El círculo cromático es una herramienta valiosa para realizar buenas elecciones de combinación y uso del color.
             .col-lg-5
@@ -212,7 +212,7 @@
             h3.mb-0.me-3 <i>Storyboard</i>
               
         p.mb-4 El <i>storyboard</i> o guion gráfico son una serie de viñetas con diferentes ilustraciones o dibujos, que muestran el orden secuencial para entender las acciones requeridas en el desarrollo de una historia, de acuerdo con una narración previa, descrita con antelación.
-        p.mb-4 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>story</i> board) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
+        p.mb-4 Dentro del <i>storyboard</i> se puede encontrar el número de escenas, secuencia a desarrollar, diálogo o narración requerida en cada momento específico; es de gran importancia para llevar a cabo el orden sucesivo de las escenas. En las viñetas (cuadros que tiene un <i>storyboard</i>) se incluye información relevante de cada una de las escenas, diálogos y elementos que se consideren importantes dentro de cada momento.  
         p.mb-0 El <i>story</i> sirve principalmente para realizar un spot, guion de cine, anuncio o comercial.
        
     Separador
@@ -243,7 +243,7 @@
           li 
             i.fas.fa-square 
             | Aumenta las visitas e ingresos percibidos.
-        p.mb-0 Las pruebas por parte de los usuarios, son técnicas creadas para evaluar como con los mismos usuarios las opciones de accesibilidad, usabilidad y demás información pertinente que solo el usuario de las páginas <i>web</i> es posible y es capaz de analizar, es información que es analizada directamente por los usuarios en tiempo real; en contraste a otras metodologías donde expertos son los encargados de evaluar las interfaces.
+        p.mb-0 Las pruebas por parte de los usuarios, son técnicas creadas para evaluar con los mismos usuarios, las opciones de accesibilidad, usabilidad y demás información pertinente que solo el usuario de las páginas <i>web</i> es posible y es capaz de analizar, es información que es analizada directamente por los usuarios en tiempo real; en contraste a otras metodologías donde expertos son los encargados de evaluar las interfaces.
       .col-lg-6
         .imagen-adornos-flotantes
           img(src='@/assets/curso/tema7/img14.png')
@@ -251,7 +251,7 @@
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 5%  ; right: ; top:0% ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: -5%  ; right:  ; top: ; bottom: 15% ; width: 60px ")      
     
-    p.mb-5 Las pruebas como su nombre lo indica es la posibilidad que un usuario en vez de realizar preguntas de ¿cómo resolverlo? O ¿Cómo hacerlo? Sea el mismo el encargado de resolver su pregunta.
+    p.mb-5 Las pruebas, como su nombre lo indica es la posibilidad que un usuario en vez de realizar preguntas de ¿cómo resolverlo? O ¿Cómo hacerlo? Sea el mismo el encargado de resolver su pregunta.
     
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Tipos
@@ -281,8 +281,8 @@
               img(src='@/assets/curso/tema7/img18.png')
           .col-md-8
             h4 Metodologías Asíncronas 
-            p.mb-4 Es un registro automático que se obtiene al tener un usuario que realiza una navegación, mientras se conoce como fue su recorrido al igual que los clics realizados, consiguiendo a su vez una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. 
-            p.mb-0 Es una metodología basada en tareas, lo que permite medir tiempos, clics; datos que son vitales para las empresas y su compresión de lo que el usuario hace y como se desenvuelve al momento de navegar por un sitio <i>Web</i>.  
+            p.mb-4 Es un registro automático que se obtiene al tener un usuario que realiza una navegación, mientras se conoce cómo fue su recorrido al igual que los clics realizados, consiguiendo a su vez una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. 
+            p.mb-0 Es una metodología basada en tareas, lo que permite medir tiempos, clics; datos que son vitales para las empresas y su compresión de lo que el usuario hace y cómo se desenvuelve al momento de navegar por un sitio <i>Web</i>.  
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 TEST A/B
@@ -315,11 +315,11 @@
         .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Determinar métricas y crear análisis de tareas
                   
-        p.mb-5 Se delimitan las pruebas mediante el uso de métricas que midan los factores en pro y en contra referentes a la usabilidad, eficacia y eficiencia de los componentes de un proyecto.  Aquí hay medición de objetivos dirigidos al usuario, manejo de ruta y análisis de tareas de los componentes entre otras.  Se construye un flujograma de tareas, con tiempos y acciones a trabajar.
+        p.mb-5 Se delimitan las pruebas mediante el uso de métricas que midan los factores en pro y en contra referentes a la usabilidad, eficacia y eficiencia de los componentes de un proyecto.  Aquí hay medición de objetivos dirigidos al usuario, manejo de ruta y análisis de tareas de los componentes, entre otras.  Se construye un flujograma de tareas, con tiempos y acciones a trabajar.
         .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Identificar el mejor tipo de prueba
                   
-        p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son los más utilizadas:
+        p.mb-4 Existen variadas formas en cuanto a las pruebas de usabilidad, la utilización de determinada forma de prueba depende del sitio <i>web</i> en cuanto a las métricas y a las tareas definidas en la primera etapa. Existen tres tipos de pruebas de usabilidad que son las más utilizadas:
         p.mb-0 Clasificación de tarjetas o el llamado <i>Card sorting</i>, es la prueba más fácil y rápida. Esta técnica se basa en la experiencia del usuario digital, para calificar la taxonomía del producto digital. En un punto anterior, se realizó una descripción más amplia de esta técnica. 
     
     .row.align-items-center.justify-content-center(data-aos="zoom-in-up") 

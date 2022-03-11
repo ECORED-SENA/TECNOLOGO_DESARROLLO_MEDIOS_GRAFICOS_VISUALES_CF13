@@ -3,3 +3,11 @@
 1.26.8: Corresponde a lider, se siguiere unificar la manera de escribir Ecard
 1.26.9: Corresponde a lider, se siguiere unificar la manera de escribir Preproduccion
 1.26.20: Se aplica correccion, pero qued pendiente algo que debe revisar el lider
+*1.26.26: No logro reproducir el caso en desarrollo, navegadores chrome y firefox
+1.26.34: Modificacion sobre imagen que ya tiene cambios
+1.26.35: Modificacion sobre imagen que ya tiene cambios
+
+
+
+
+300-2605366

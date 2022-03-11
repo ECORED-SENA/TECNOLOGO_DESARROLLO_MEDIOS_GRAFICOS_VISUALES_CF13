@@ -148,7 +148,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -259,7 +259,7 @@ export default {
         '<span>RAE</span>, Conexión o frontera común entre dos o más elementos o sistemas independientes, enlace de comunicaciones. ',
     },
     {
-      termino: 'Look and Feel',
+      termino: '<i>Look and Feel</i>',
       significado:
         'Traducción de mirar y sentir, expresión utilizada en marketing para referirse a la forma de ver la marca, sus colores, formas, elementos, etc.',
     },
