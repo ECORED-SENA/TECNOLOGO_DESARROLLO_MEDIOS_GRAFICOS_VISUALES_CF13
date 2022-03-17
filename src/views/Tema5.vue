@@ -251,7 +251,7 @@
             i.fas.fa-square 
             | Ayuda y documentación.
         
-        p.mb-0 Para aplicar de manera objetiva los principios de usabilidad, se debe dar una calificación o medida a cada uno de los componentes; por ejemplo, aquellos que no cumplen con las necesidades requeridas se califican con (0), los que van en proceso, pero aún tienen falencias se califican con un valor de tres (3), y los que cumplen con todos los estándares de calidad con cinco (5), esto con el objetivo de realizar las mejoras respectivas. 
+        p.mb-0 Para aplicar de manera objetiva los principios de usabilidad, se debe dar una calificación o medida a cada uno de los componentes; por ejemplo, aquellos que no cumplen con las necesidades requeridas se califican  con cero(0), los que van en proceso, pero aún tienen falencias se califican con un valor de tres (3), y los que cumplen con todos los estándares de calidad con cinco (5), esto con el objetivo de realizar las mejoras respectivas. 
 
     .texto-largo-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
             h3.mb-0.me-3 Ventajas e inconvenientes de la evaluación heurística
