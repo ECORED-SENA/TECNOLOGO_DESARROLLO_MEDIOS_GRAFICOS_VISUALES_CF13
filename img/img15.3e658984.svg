@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="105" viewBox="0 0 222 105">
+  <g id="Grupo_142140" data-name="Grupo 142140" transform="translate(-1020.313 -5006)">
+    <line id="Línea_909" data-name="Línea 909" x2="139.719" transform="translate(1064.869 5023.052)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_910" data-name="Línea 910" y2="68.209" transform="translate(1047.266 5028.553)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_911" data-name="Línea 911" y2="61.608" transform="translate(1131.978 5029.653)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_912" data-name="Línea 912" y2="63.809" transform="translate(1219.99 5029.653)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectángulo_38305" data-name="Rectángulo 38305" transform="translate(1020.313 5006)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="34" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="33" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_38310" data-name="Rectángulo 38310" transform="translate(1020.313 5076)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="35" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="34" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_38306" data-name="Rectángulo 38306" transform="translate(1105.313 5006)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="34" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="33" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_38309" data-name="Rectángulo 38309" transform="translate(1105.313 5076)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="35" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="34" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_38307" data-name="Rectángulo 38307" transform="translate(1189.313 5006)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="34" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="33" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_38308" data-name="Rectángulo 38308" transform="translate(1189.313 5076)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="53" height="35" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="34" rx="2.5" fill="none"/>
+    </g>
+    <g id="Grupo_142135" data-name="Grupo 142135" transform="translate(1072.02 5021.402)">
+      <path id="Polígono_17" data-name="Polígono 17" d="M2,0,4,3H0Z" transform="translate(0.293 3.598) rotate(-90)" fill="#707070"/>
+      <path id="Polígono_18" data-name="Polígono 18" d="M2,0,4,3H0Z" transform="translate(34.293 -0.402) rotate(90)" fill="#707070"/>
+    </g>
+    <g id="Grupo_142136" data-name="Grupo 142136" transform="translate(1156.731 5021.402)">
+      <path id="Polígono_17-2" data-name="Polígono 17" d="M2,0,4,4H0Z" transform="translate(-0.418 3.598) rotate(-90)" fill="#707070"/>
+      <path id="Polígono_18-2" data-name="Polígono 18" d="M2,0,4,4H0Z" transform="translate(34.582 -0.402) rotate(90)" fill="#707070"/>
+    </g>
+    <g id="Grupo_142137" data-name="Grupo 142137" transform="translate(1221.64 5039.004) rotate(90)">
+      <path id="Polígono_17-3" data-name="Polígono 17" d="M1.5,0,3,3H0Z" transform="translate(-0.004 3.328) rotate(-90)" fill="#707070"/>
+      <path id="Polígono_18-3" data-name="Polígono 18" d="M1.5,0,3,3H0Z" transform="translate(36.996 0.328) rotate(90)" fill="#707070"/>
+    </g>
+    <g id="Grupo_142138" data-name="Grupo 142138" transform="translate(1133.628 5039.004) rotate(90)">
+      <path id="Polígono_17-4" data-name="Polígono 17" d="M1.5,0,3,3H0Z" transform="translate(-0.004 3.315) rotate(-90)" fill="#707070"/>
+      <path id="Polígono_18-4" data-name="Polígono 18" d="M1.5,0,3,3H0Z" transform="translate(36.996 0.315) rotate(90)" fill="#707070"/>
+    </g>
+    <g id="Grupo_142139" data-name="Grupo 142139" transform="translate(1048.916 5039.004) rotate(90)">
+      <path id="Polígono_17-5" data-name="Polígono 17" d="M2,0,4,3H0Z" transform="translate(-0.004 3.604) rotate(-90)" fill="#707070"/>
+      <path id="Polígono_18-5" data-name="Polígono 18" d="M2,0,4,3H0Z" transform="translate(36.996 -0.396) rotate(90)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

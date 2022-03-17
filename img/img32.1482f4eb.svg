@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="145" viewBox="0 0 145 145">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_39153" data-name="Rectángulo 39153" width="76.529" height="77.821" fill="#f57c00"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_142148" data-name="Grupo 142148" transform="translate(-694 -9303)">
+    <circle id="Elipse_4897" data-name="Elipse 4897" cx="72.5" cy="72.5" r="72.5" transform="translate(694 9303)" fill="#fff"/>
+    <g id="Grupo_143194" data-name="Grupo 143194" transform="translate(728.127 9336.248)">
+      <g id="Grupo_143194-2" data-name="Grupo 143194" clip-path="url(#clip-path)">
+        <path id="Trazado_159554" data-name="Trazado 159554" d="M58.365,0H6.485A6.494,6.494,0,0,0,0,6.485V47.993a6.485,6.485,0,0,0,4.865,6.281l.649-2.512a3.892,3.892,0,0,1-2.924-3.769V6.485A3.892,3.892,0,0,1,6.48,2.591H58.365a3.892,3.892,0,0,1,3.892,3.892v1.3h2.591V6.485A6.494,6.494,0,0,0,58.365,0" transform="translate(0)" fill="#f57c00"/>
+        <rect id="Rectángulo_39144" data-name="Rectángulo 39144" width="2.594" height="2.594" transform="translate(5.189 5.189)" fill="#f57c00"/>
+        <rect id="Rectángulo_39145" data-name="Rectángulo 39145" width="2.594" height="2.594" transform="translate(10.377 5.189)" fill="#f57c00"/>
+        <rect id="Rectángulo_39146" data-name="Rectángulo 39146" width="2.594" height="2.594" transform="translate(15.565 5.189)" fill="#f57c00"/>
+        <path id="Trazado_159555" data-name="Trazado 159555" d="M88.025,90.721l-12.3-12.3a17.916,17.916,0,0,0,1.541-3.643h2.062V72.185h-1.5a17.482,17.482,0,0,0-1.091-9.295V50.132H74.143v8.26A18.27,18.27,0,0,0,71.552,55.7V44.936H68.961v8.943a18.11,18.11,0,0,0-2.591-1.238V39.754H63.779V51.859a17.981,17.981,0,0,0-2.591-.364v-9.15H58.6v9.146a18.056,18.056,0,0,0-2.591.364V47.534H53.415v5.109a18.083,18.083,0,0,0-2.591,1.238V46.237H48.234V55.7a18.242,18.242,0,0,0-2.591,2.693V48.832H43.052V62.885a17.476,17.476,0,0,0-1.091,9.295H24.847V74.77H42.475a18.122,18.122,0,0,0,27.819,9.662L82.3,96.441a1.3,1.3,0,0,0,1.834,0h0l3.892-3.892a1.3,1.3,0,0,0,0-1.829M59.868,85.153a15.565,15.565,0,1,1,15.57-15.565A15.565,15.565,0,0,1,59.868,85.153ZM83.217,93.7,72.308,82.787a18.391,18.391,0,0,0,1.952-2.163L85.278,91.641Z" transform="translate(-11.876 -19.001)" fill="#f57c00"/>
+        <path id="Trazado_159556" data-name="Trazado 159556" d="M80.056,72.056A12.971,12.971,0,1,0,93.028,85.027,12.971,12.971,0,0,0,80.056,72.056m0,23.349a10.378,10.378,0,0,1-8.973-5.182H89.03a10.378,10.378,0,0,1-8.974,5.182M70.021,87.622a10.282,10.282,0,0,1,3.546-10.682v8.088h2.591V75.416a10.316,10.316,0,0,1,2.591-.675V85.029h2.591V74.741a10.322,10.322,0,0,1,2.591.675v9.612h2.591V76.941a10.282,10.282,0,0,1,3.546,10.682Z" transform="translate(-32.064 -34.439)" fill="#f57c00"/>
+        <path id="Trazado_159557" data-name="Trazado 159557" d="M73.272,19.878H21.392a6.494,6.494,0,0,0-6.485,6.485V67.871a6.493,6.493,0,0,0,6.485,6.485H38.256V71.765H21.392A3.892,3.892,0,0,1,17.5,67.876V26.363a3.892,3.892,0,0,1,3.889-3.894H73.272a3.892,3.892,0,0,1,3.892,3.892V67.871a3.892,3.892,0,0,1-.972,2.573l1.946,1.715a6.476,6.476,0,0,0,1.621-4.29V26.363a6.494,6.494,0,0,0-6.487-6.485" transform="translate(-7.125 -9.501)" fill="#f57c00"/>
+        <rect id="Rectángulo_39147" data-name="Rectángulo 39147" width="2.594" height="2.594" transform="translate(12.971 15.565)" fill="#f57c00"/>
+        <rect id="Rectángulo_39148" data-name="Rectángulo 39148" width="2.594" height="2.594" transform="translate(18.16 15.565)" fill="#f57c00"/>
+        <rect id="Rectángulo_39149" data-name="Rectángulo 39149" width="2.594" height="2.594" transform="translate(23.349 15.565)" fill="#f57c00"/>
+        <rect id="Rectángulo_39150" data-name="Rectángulo 39150" width="2.594" height="7.783" transform="translate(15.565 42.805)" fill="#f57c00"/>
+        <rect id="Rectángulo_39151" data-name="Rectángulo 39151" width="2.594" height="15.565" transform="translate(20.753 35.021)" fill="#f57c00"/>
+        <rect id="Rectángulo_39152" data-name="Rectángulo 39152" width="2.594" height="11.675" transform="translate(25.942 38.913)" fill="#f57c00"/>
+      </g>
+    </g>
+  </g>
+</svg>
