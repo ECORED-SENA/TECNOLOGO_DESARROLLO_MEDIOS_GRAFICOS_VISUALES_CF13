@@ -105,7 +105,7 @@
                   | Determina la calidad de los componentes y las entregas ejecutadas.
                 li 
                   i.fas.fa-square 
-                  | Tiene en cuenta el <i>feedback</i> o retroalimentación de los clientes con la empresa y de los integrantes de los equipos de trabajo.
+                  p.mb-0 Tiene en cuenta el <i>feedback</i> o retroalimentación de los clientes con la empresa y de los integrantes de los equipos de trabajo.
             .col-lg-6
               .imagen-adornos-flotantes
                 img(src='@/assets/curso/tema4/img09.png') 

@@ -147,7 +147,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6
-        p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudio previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
+        p.mb-4 Muchas personas piensan que el diseño es el producto de la creatividad y una idea original, sin embargo, en su desarrollo es fundamental los estudios previos e investigación, que se hacen relevantes para obtener un producto de calidad, especialmente en el ámbito del desarrollo digital ya que involucra muchas variables a considerar. 
         div.p-4.mb-4(style="background-color: #FFF5E5")
           p.mb-0  El diseño y desarrollo <i>web</i> debe fundamentarse en el tipo de personas a quienes se dirige el contenido, así como en sus necesidades, respecto al producto o servicio. Por eso es importante que el usuario final sea involucrado en el proceso, conociendo sus opiniones desde etapas muy tempranas del proyecto.
         p.mb-0 Para lograr este cometido, existen varios métodos y técnicas, como las pruebas de usuarios, el seguimiento ocular, el <i>Card sorting</i>, las entrevistas personales, los grupos focales (<i>eye tracking</i>), los heurísticos que son los procesos cognitivos que inconscientemente la persona automatiza al momento de elegir algo, entre otros.
